@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node2" apprev="18043" appversion="6.1.11">
+  <panorama id="node1">
+    <input width="1440" levelingpitch="-5" overlap="1" levelingroll="0" levelbias="0.400" leveltilesize="510" height="1440" levelbiashidpi="1.000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" width="1440" predecode="0" height="1440"/>
+      <level preload="0" width="720" predecode="0" height="720"/>
+      <level preload="1" width="360" predecode="1" height="360"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="133.242" fovmode="0">
+      <start pan="44.1247" tilt="-4.12868" projection="4" fov="83.6522"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="125.034912" heading="133.242" title="" info="" copyright="" nodeid="node1" latitude="1.184829" datetime="16/04/2023 13:32" tags="Tulap Beach Tanjung Korma" description="" comment="" altitude="86.45" customnodeid="" author=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderalpha="1" width="180" border="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" enabled="1" background="1" height="20" bordercolor="0x000000" borderradius="1"/>
+      <polystyle borderalpha="1" mode="2" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-311.43" tilt="-33" title="Pintu Masuk" id="Point01" skinid="ht_info" target="" description="" url=""/>
+      <hotspot pan="47.33" tilt="-9" title="" id="Point02" skinid="ht_node" target="$fwd" distance="15.6036" description="" url="{node2}"/>
+      <hotspot pan="-8.74" tilt="-5" title="" id="Point03" skinid="ht_node" target="$fwd" distance="29.7816" description="" url="{node3}"/>
+      <hotspot pan="-9.55788" tilt="0" title="" id="Point04" skinid="ht_node" target="$fwd" distance="49.2786" description="" url="{node4}"/>
+      <hotspot pan="115.6" tilt="-4" title="" id="Point05" skinid="ht_node" target="$fwd" distance="25.6708" description="" url="{node5}"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" zoomin="2" zoomspeed="1.5" zoomoutpause="1" softedge="0" zoomafteroutfov="20" zoomout="0" enabled="1" blendtime="1.1" zoomfov="36" zoomafterinfov="90"/>
+    <flyintransition speed="3.50" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" rubberband="0" sensitivity="8" contextprojections="0" simulatemass="1" lockedmouse="0" invertwheel="0" contextfullscreen="1" lockedkeyboard="0" dblclickfullscreen="0" lockedkeyboardzoom="0" hideabout="0" lockedwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input width="1440" levelingpitch="0" overlap="1" levelingroll="0" levelbias="0.400" leveltilesize="510" height="1440" levelbiashidpi="1.000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" width="1440" predecode="0" height="1440"/>
+      <level preload="0" width="720" predecode="0" height="720"/>
+      <level preload="1" width="360" predecode="1" height="360"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-46.2525" fovmode="0">
+      <start pan="-83.52" tilt="7.72" projection="4" fov="77.35"/>
+      <flyin pan="0" tilt="-90" projection="12" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="125.035052" heading="-46.2525" title="" info="" copyright="" nodeid="node2" latitude="1.184839" datetime="16/04/2023 13:33" tags="Tulap Beach Tanjung Korma" description="" comment="" altitude="86.59" customnodeid="" author=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderalpha="1" width="180" border="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" enabled="1" background="1" height="20" bordercolor="0x000000" borderradius="1"/>
+      <polystyle borderalpha="1" mode="2" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot pan="47.83" tilt="-10" title="" id="Point01" skinid="ht_node" target="$fwd" distance="15.6036" description="" url="{node1}"/>
+      <hotspot pan="-219.8" tilt="-6" title="" id="Point02" skinid="ht_node" target="$fwd" distance="24.7307" description="" url="{node3}"/>
+      <hotspot pan="-206.833" tilt="0" title="" id="Point03" skinid="ht_node" target="$fwd" distance="42.7986" description="" url="{node4}"/>
+      <hotspot pan="-27.82" tilt="-6" title="" id="Point04" skinid="ht_node" target="$fwd" distance="24.6135" description="" url="{node5}"/>
+      <hotspot pan="-46.05" tilt="-13.32" title="" id="Point05" skinid="ht_node" target="$fwd" distance="21.6833" description="" url="{node6}"/>
+      <hotspot pan="-43.32" tilt="-6" title="" id="Point06" skinid="ht_node" target="$fwd" distance="52.8475" description="" url="{node7}"/>
+      <hotspot pan="-53.88" tilt="-10" title="" id="Point07" skinid="ht_node" target="$fwd" distance="28.4953" description="" url="{node10}"/>
+      <hotspot pan="-59.74" tilt="-8" title="" id="Point08" skinid="ht_node" target="$fwd" distance="39.5645" description="" url="{node8}"/>
+      <hotspot pan="-87.46" tilt="-18" title="" id="Point09" skinid="ht_node" target="$fwd" distance="19.0674" description="" url="{node9}"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" zoomin="2" zoomspeed="1.5" zoomoutpause="1" softedge="0" zoomafteroutfov="20" zoomout="0" enabled="1" blendtime="1.1" zoomfov="36" zoomafterinfov="90"/>
+    <flyintransition speed="3.50" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" rubberband="0" sensitivity="8" contextprojections="0" simulatemass="1" lockedmouse="0" invertwheel="0" contextfullscreen="1" lockedkeyboard="0" dblclickfullscreen="0" lockedkeyboardzoom="0" hideabout="0" lockedwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input width="1440" levelingpitch="0" overlap="1" levelingroll="0" levelbias="0.400" leveltilesize="510" height="1440" levelbiashidpi="1.000" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" width="1440" predecode="0" height="1440"/>
+      <level preload="0" width="720" predecode="0" height="720"/>
+      <level preload="1" width="360" predecode="1" height="360"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="60.6845" fovmode="0">
+      <start pan="-59.7032" tilt="5.48655" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="125.035077" heading="60.6845" title="" info="" copyright="" nodeid="node3" latitude="1.184618" datetime="16/04/2023 13:34" tags="Tulap Beach Tanjung Korma" description="" comment="" altitude="87.53" customnodeid="" author=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderalpha="1" width="180" border="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" enabled="1" background="1" height="20" bordercolor="0x000000" borderradius="1"/>
+      <polystyle borderalpha="1" mode="2" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot pan="99.54" tilt="-5.17" title="" id="Point02" skinid="ht_node" target="$fwd" distance="29.7816" description="" url="{node1}"/>
+      <hotspot pan="-83.37" tilt="-7" title="" id="Point03" skinid="ht_node" target="$fwd" distance="19.5046" description="" url="{node4}"/>
+      <hotspot pan="67.14" tilt="-7" title="" id="Point01" skinid="ht_node" target="$fwd" distance="24.7307" description="" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" zoomin="2" zoomspeed="1.5" zoomoutpause="1" softedge="0" zoomafteroutfov="20" zoomout="0" enabled="1" blendtime="1.1" zoomfov="36" zoomafterinfov="90"/>
+    <flyintransition speed="3.50" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" rubberband="0" sensitivity="8" contextprojections="0" simulatemass="1" lockedmouse="0" invertwheel="0" contextfullscreen="1" lockedkeyboard="0" dblclickfullscreen="0" lockedkeyboardzoom="0" hideabout="0" lockedwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input width="1440" levelingpitch="0" overlap="1" levelingroll="0" levelbias="0.400" leveltilesize="510" height="1440" levelbiashidpi="1.000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" width="1440" predecode="0" height="1440"/>
+      <level preload="0" width="720" predecode="0" height="720"/>
+      <level preload="1" width="360" predecode="1" height="360"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-24.7135" fovmode="0">
+      <start pan="-41.1663" tilt="2.72387" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="125.035180" heading="-24.7135" title="" info="" copyright="" nodeid="node4" latitude="1.184476" datetime="16/04/2023 13:34" tags="Tulap Beach Tanjung Korma" description="" comment="" altitude="87.15" customnodeid="" author=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderalpha="1" width="180" border="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" enabled="1" background="1" height="20" bordercolor="0x000000" borderradius="1"/>
+      <polystyle borderalpha="1" mode="2" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot pan="7.3" tilt="-10" title="" id="Point01" skinid="ht_node" target="$fwd" distance="19.5046" description="" url="{node3}"/>
+      <hotspot pan="-9.23" tilt="-5" title="" id="Point02" skinid="ht_node" target="$fwd" distance="42.7986" description="" url="{node2}"/>
+      <hotspot pan="8.55" tilt="-5" title="" id="Point03" skinid="ht_node" target="$fwd" distance="49.2786" description="" url="{node1}"/>
+      <hotspot pan="-24.83" tilt="-9.74" title="" id="Point04" skinid="ht_node" target="$fwd" distance="54.7333" description="" url="{node9}"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" zoomin="2" zoomspeed="1.5" zoomoutpause="1" softedge="0" zoomafteroutfov="20" zoomout="0" enabled="1" blendtime="1.1" zoomfov="36" zoomafterinfov="90"/>
+    <flyintransition speed="3.50" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" rubberband="0" sensitivity="8" contextprojections="0" simulatemass="1" lockedmouse="0" invertwheel="0" contextfullscreen="1" lockedkeyboard="0" dblclickfullscreen="0" lockedkeyboardzoom="0" hideabout="0" lockedwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input width="1440" levelingpitch="0" overlap="1" levelingroll="0" levelbias="0.400" leveltilesize="510" height="1440" levelbiashidpi="1.000" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" width="1440" predecode="0" height="1440"/>
+      <level preload="0" width="720" predecode="0" height="720"/>
+      <level preload="1" width="360" predecode="1" height="360"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-50.6788" fovmode="0">
+      <start pan="176.271" tilt="1.6845" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="125.034982" heading="-50.6788" title="" info="" copyright="" nodeid="node5" latitude="1.185049" datetime="16/04/2023 13:37" tags="Tulap Beach Tanjung Korma" description="" comment="" altitude="86.78" customnodeid="" author=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderalpha="1" width="180" border="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" enabled="1" background="1" height="20" bordercolor="0x000000" borderradius="1"/>
+      <polystyle borderalpha="1" mode="2" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-212.25" tilt="-7" title="" id="Point01" skinid="ht_node" target="$fwd" distance="24.6135" description="" url="{node2}"/>
+      <hotspot pan="111.67" tilt="-6" title="" id="Point02" skinid="ht_node" target="$fwd" distance="25.6708" description="" url="{node1}"/>
+      <hotspot pan="-218.25" tilt="-3" title="" id="Point03" skinid="ht_node" target="$fwd" distance="49.0749" description="" url="{node3}"/>
+      <hotspot pan="-211.62" tilt="0" title="" id="Point04" skinid="ht_node" target="$fwd" distance="67.4098" description="" url="{node4}"/>
+      <hotspot pan="-152.95" tilt="-24" title="" id="Point05" skinid="ht_node" target="$fwd" distance="7.85005" description="" url="{node6}"/>
+      <hotspot pan="-164.56" tilt="-18" title="" id="Point06" skinid="ht_node" target="$fwd" distance="22.2489" description="" url="{node9}"/>
+      <hotspot pan="-105.752" tilt="-16.49" title="" id="Point07" skinid="ht_node" target="$fwd" distance="12.5544" description="" url="{node10}"/>
+      <hotspot pan="-88.9492" tilt="-14" title="" id="Point08" skinid="ht_node" target="$fwd" distance="22.7597" description="" url="{node8}"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" zoomin="2" zoomspeed="1.5" zoomoutpause="1" softedge="0" zoomafteroutfov="20" zoomout="0" enabled="1" blendtime="1.1" zoomfov="36" zoomafterinfov="90"/>
+    <flyintransition speed="3.50" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" rubberband="0" sensitivity="8" contextprojections="0" simulatemass="1" lockedmouse="0" invertwheel="0" contextfullscreen="1" lockedkeyboard="0" dblclickfullscreen="0" lockedkeyboardzoom="0" hideabout="0" lockedwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input width="1440" levelingpitch="0" overlap="1" levelingroll="0" levelbias="0.400" leveltilesize="510" height="1440" levelbiashidpi="1.000" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" width="1440" predecode="0" height="1440"/>
+      <level preload="0" width="720" predecode="0" height="720"/>
+      <level preload="1" width="360" predecode="1" height="360"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="132.418" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="125.035051" heading="132.418" title="" info="" copyright="" nodeid="node6" latitude="1.185034" datetime="16/04/2023 13:38" tags="Tulap Beach Tanjung Korma" description="" comment="" altitude="80.94" customnodeid="" author=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderalpha="1" width="180" border="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" enabled="1" background="1" height="20" bordercolor="0x000000" borderradius="1"/>
+      <polystyle borderalpha="1" mode="2" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-37.5376" tilt="-0.34" title="" id="Point02" skinid="ht_node" target="$fwd" distance="63.6826" description="" url="{node4}"/>
+      <hotspot pan="135.48" tilt="-1" title="" id="Point04" skinid="ht_node" target="$fwd" distance="31.1792" description="" url="{node7}"/>
+      <hotspot pan="210.15" tilt="17" title="" id="Point03" skinid="ht_node" target="$fwd" distance="7.85005" description="" url="{node5}"/>
+      <hotspot pan="-51.2782" tilt="0.19" title="" id="Point01" skinid="ht_node" target="$fwd" distance="21.6833" description="" url="{node2}"/>
+      <hotspot pan="103.336" tilt="0" title="" id="Point05" skinid="ht_node" target="$fwd" distance="19.2126" description="" url="{node8}"/>
+      <hotspot pan="104.96" tilt="-17.8" title="" id="Point06" skinid="ht_node" target="$fwd" distance="7.62758" description="" url="{node10}"/>
+      <hotspot pan="12.34" tilt="-20" title="" id="Point07" skinid="ht_node" target="$fwd" distance="14.645" description="" url="{node9}"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" zoomin="2" zoomspeed="1.5" zoomoutpause="1" softedge="0" zoomafteroutfov="20" zoomout="0" enabled="1" blendtime="1.1" zoomfov="36" zoomafterinfov="90"/>
+    <flyintransition speed="3.50" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" rubberband="0" sensitivity="8" contextprojections="0" simulatemass="1" lockedmouse="0" invertwheel="0" contextfullscreen="1" lockedkeyboard="0" dblclickfullscreen="0" lockedkeyboardzoom="0" hideabout="0" lockedwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input width="1440" levelingpitch="0" overlap="1" levelingroll="0" levelbias="0.400" leveltilesize="510" height="1440" levelbiashidpi="1.000" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" width="1440" predecode="0" height="1440"/>
+      <level preload="0" width="720" predecode="0" height="720"/>
+      <level preload="1" width="360" predecode="1" height="360"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-167.474" fovmode="0">
+      <start pan="58.1983" tilt="6.54267" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="125.035036" heading="-167.474" title="" info="" copyright="" nodeid="node7" latitude="1.185314" datetime="16/04/2023 13:38" tags="Tulap Beach Tanjung Korma" description="" comment="" altitude="81.06" customnodeid="" author=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderalpha="1" width="180" border="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" enabled="1" background="1" height="20" bordercolor="0x000000" borderradius="1"/>
+      <polystyle borderalpha="1" mode="2" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-344.41" tilt="-6" title="" id="Point01" skinid="ht_node" target="$fwd" distance="31.1792" description="" url="{node6}"/>
+      <hotspot pan="-345.55" tilt="1" title="" id="Point02" skinid="ht_node" target="$fwd" distance="52.8475" description="" url="{node2}"/>
+      <hotspot pan="-338.39" tilt="1.1" title="" id="Point03" skinid="ht_node" target="$fwd" distance="94.5465" description="" url="{node4}"/>
+      <hotspot pan="1.01" tilt="4" title="" id="Point04" skinid="ht_node" target="$fwd" distance="30.072" description="" url="{node5}"/>
+      <hotspot pan="-329.72" tilt="-7.95" title="" id="Point05" skinid="ht_node" target="$fwd" distance="25.1949" description="" url="{node10}"/>
+      <hotspot pan="-307.4" tilt="-15.53" title="" id="Point06" skinid="ht_node" target="$fwd" distance="18.08" description="" url="{node8}"/>
+      <hotspot pan="-322.37" tilt="-6.32" title="" id="Point07" skinid="ht_node" target="$fwd" distance="41.0594" description="" url="{node9}"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" zoomin="2" zoomspeed="1.5" zoomoutpause="1" softedge="0" zoomafteroutfov="20" zoomout="0" enabled="1" blendtime="1.1" zoomfov="36" zoomafterinfov="90"/>
+    <flyintransition speed="3.50" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" rubberband="0" sensitivity="8" contextprojections="0" simulatemass="1" lockedmouse="0" invertwheel="0" contextfullscreen="1" lockedkeyboard="0" dblclickfullscreen="0" lockedkeyboardzoom="0" hideabout="0" lockedwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input width="1440" levelingpitch="0" overlap="1" levelingroll="0" levelbias="0.400" leveltilesize="510" height="1440" levelbiashidpi="1.000" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" width="1440" predecode="0" height="1440"/>
+      <level preload="0" width="720" predecode="0" height="720"/>
+      <level preload="1" width="360" predecode="1" height="360"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="87.265" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="125.035135" heading="87.265" title="" info="" copyright="" nodeid="node8" latitude="1.185185" datetime="16/04/2023 13:40" tags="Tulap Beach Tanjung Korma" description="" comment="" altitude="79.50" customnodeid="" author=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderalpha="1" width="180" border="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" enabled="1" background="1" height="20" bordercolor="0x000000" borderradius="1"/>
+      <polystyle borderalpha="1" mode="2" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot pan="124.76" tilt="5" title="" id="Point01" skinid="ht_node" target="$fwd" distance="18.08" description="" url="{node7}"/>
+      <hotspot pan="238.18" tilt="2" title="" id="Point02" skinid="ht_node" target="$fwd" distance="19.2126" description="" url="{node6}"/>
+      <hotspot pan="253.78" tilt="5" title="" id="Point03" skinid="ht_node" target="$fwd" distance="39.5645" description="" url="{node2}"/>
+      <hotspot pan="-84.87" tilt="-6" title="" id="Point04" skinid="ht_node" target="$fwd" distance="24.3587" description="" url="{node9}"/>
+      <hotspot pan="211.43" tilt="-12.16" title="" id="Point05" skinid="ht_node" target="$fwd" distance="11.5899" description="" url="{node10}"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" zoomin="2" zoomspeed="1.5" zoomoutpause="1" softedge="0" zoomafteroutfov="20" zoomout="0" enabled="1" blendtime="1.1" zoomfov="36" zoomafterinfov="90"/>
+    <flyintransition speed="3.50" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" rubberband="0" sensitivity="8" contextprojections="0" simulatemass="1" lockedmouse="0" invertwheel="0" contextfullscreen="1" lockedkeyboard="0" dblclickfullscreen="0" lockedkeyboardzoom="0" hideabout="0" lockedwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input width="1440" levelingpitch="0" overlap="1" levelingroll="0" levelbias="0.400" leveltilesize="510" height="1440" levelbiashidpi="1.000" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" width="1440" predecode="0" height="1440"/>
+      <level preload="0" width="720" predecode="0" height="720"/>
+      <level preload="1" width="360" predecode="1" height="360"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="101.369" fovmode="0">
+      <start pan="-40.2709" tilt="11.4146" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="125.035165" heading="101.369" title="" info="" copyright="" nodeid="node9" latitude="1.184968" datetime="16/04/2023 13:40" tags="Tulap Beach Tanjung Korma" description="" comment="" altitude="80.30" customnodeid="" author=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderalpha="1" width="180" border="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" enabled="1" background="1" height="20" bordercolor="0x000000" borderradius="1"/>
+      <polystyle borderalpha="1" mode="2" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-76.89" tilt="7" title="" id="Point01" skinid="ht_node" target="$fwd" distance="54.7333" description="" url="{node4}"/>
+      <hotspot pan="240.16" tilt="14" title="" id="Point02" skinid="ht_node" target="$fwd" distance="19.0674" description="" url="{node2}"/>
+      <hotspot pan="161.3" tilt="1" title="" id="Point03" skinid="ht_node" target="$fwd" distance="14.645" description="" url="{node6}"/>
+      <hotspot pan="109.24" tilt="-7" title="" id="Point04" skinid="ht_node" target="$fwd" distance="24.3587" description="" url="{node8}"/>
+      <hotspot pan="122.81" tilt="1" title="" id="Point05" skinid="ht_node" target="$fwd" distance="41.0594" description="" url="{node7}"/>
+      <hotspot pan="133.66" tilt="-5" title="" id="Point06" skinid="ht_node" target="$fwd" distance="16.4416" description="" url="{node10}"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" zoomin="2" zoomspeed="1.5" zoomoutpause="1" softedge="0" zoomafteroutfov="20" zoomout="0" enabled="1" blendtime="1.1" zoomfov="36" zoomafterinfov="90"/>
+    <flyintransition speed="3.50" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" rubberband="0" sensitivity="8" contextprojections="0" simulatemass="1" lockedmouse="0" invertwheel="0" contextfullscreen="1" lockedkeyboard="0" dblclickfullscreen="0" lockedkeyboardzoom="0" hideabout="0" lockedwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input width="1440" levelingpitch="0" overlap="1" levelingroll="0" levelbias="0.400" leveltilesize="510" height="1440" levelbiashidpi="1.000" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" width="1440" predecode="0" height="1440"/>
+      <level preload="0" width="720" predecode="0" height="720"/>
+      <level preload="1" width="360" predecode="1" height="360"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-85.2451" fovmode="0">
+      <start pan="-118.02" tilt="12.842" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="125.035086" heading="-85.2451" title="" info="" copyright="" nodeid="node10" latitude="1.185093" datetime="16/04/2023 13:42" tags="Tulap Beach Tanjung Korma" description="" comment="" altitude="79.67" customnodeid="" author=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderalpha="1" width="180" border="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" enabled="1" background="1" height="20" bordercolor="0x000000" borderradius="1"/>
+      <polystyle borderalpha="1" mode="2" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-72.5" tilt="2" title="" id="Point01" skinid="ht_node" target="$fwd" distance="25.1949" description="" url="{node7}"/>
+      <hotspot pan="-113.28" tilt="-14" title="" id="Point02" skinid="ht_node" target="$fwd" distance="11.5899" description="" url="{node8}"/>
+      <hotspot pan="-232.96" tilt="-12" title="" id="Point03" skinid="ht_node" target="$fwd" distance="16.4416" description="" url="{node9}"/>
+      <hotspot pan="64.083" tilt="0" title="" id="Point04" skinid="ht_node" target="$fwd" distance="7.62758" description="" url="{node6}"/>
+      <hotspot pan="85.13" tilt="2" title="" id="Point05" skinid="ht_node" target="$fwd" distance="28.4953" description="" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" zoomin="2" zoomspeed="1.5" zoomoutpause="1" softedge="0" zoomafteroutfov="20" zoomout="0" enabled="1" blendtime="1.1" zoomfov="36" zoomafterinfov="90"/>
+    <flyintransition speed="3.50" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" rubberband="0" sensitivity="8" contextprojections="0" simulatemass="1" lockedmouse="0" invertwheel="0" contextfullscreen="1" lockedkeyboard="0" dblclickfullscreen="0" lockedkeyboardzoom="0" hideabout="0" lockedwheel="0" invertcontrol="1"/>
+  </panorama>
+  <masternode>
+    <userdata source="" longitude="" heading="0" title="" info="" copyright="" nodeid="master" latitude="" datetime="" tags="" description="" comment="" customnodeid="" author=""/>
+  </masternode>
+</tour>

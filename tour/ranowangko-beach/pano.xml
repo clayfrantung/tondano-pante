@@ -1,0 +1,1107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.11" start="node35" apprev="18043">
+  <panorama id="node1">
+    <input leveltilesize="510" width="1440" levelingpitch="2" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-59.8">
+      <start projection="4" fov="70" pan="-145.63" tilt="7.19"/>
+      <flyin projection="12" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.20953773" title="" author="" nodeid="node1" datetime="17/04/2023 9:09" description="" longitude="125.04327785" altitude="71.26" comment="" customnodeid="" source="" tags="Ranowangko Beach Resort" heading="-59.8"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="-72.92" tilt="-4.25" description="" url="{node2}" distance="26.7961" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="-94.37" tilt="-4" description="" url="{node3}" distance="41.7626" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="-60.691" tilt="-1.04" description="" url="{node4}" distance="58.8538" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="-25.5602" tilt="3.15" description="" url="{node6}" distance="57.7086" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="3.65" tilt="-1" description="" url="{node10}" distance="46.5852" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="32.95" tilt="-1" description="" url="{node8}" distance="138.438" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point07" title="" pan="19.28" tilt="-0.83" description="" url="{node9}" distance="102.079" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point08" title="" pan="-39.7494" tilt="-1.79" description="" url="{node11}" distance="37.1338" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point09" title="" pan="-112.609" tilt="-1.65" description="" url="{node12}" distance="66.363" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point10" title="" pan="-133.16" tilt="-3" description="" url="{node13}" distance="43.9917" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point11" title="" pan="-173.82" tilt="-4.57" description="" url="{node14}" distance="45.6969" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point12" title="" pan="-222.31" tilt="-2" description="" url="{node15}" distance="86.5929" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point13" title="" pan="106.512" tilt="1.45" description="" url="{node19}" distance="24.3536" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point14" title="" pan="-236.81" tilt="-3" description="" url="{node20}" distance="51.4122" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-196.082">
+      <start projection="4" fov="83.6522" pan="58.7119" tilt="5.89484"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.209765" title="" author="" nodeid="node2" datetime="17/04/2023 9:12" description="" longitude="125.043358" altitude="71.15" comment="" customnodeid="" source="" tags="Ranowangko Beach Resort" heading="-196.082"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="-32.65" tilt="-3" description="" url="{node1}" distance="26.7961" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="-253.77" tilt="-10" description="" url="{node3}" distance="17.371" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="-188.97" tilt="-8" description="" url="{node4}" distance="33.5719" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="-170.67" tilt="-3" description="" url="{node5}" distance="53.8797" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="-96.6988" tilt="-1.41" description="" url="{node10}" distance="50.7776" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="-136.67" tilt="-8" description="" url="{node11}" distance="20.8019" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point07" title="" pan="-336.732" tilt="-1.06" description="" url="{node14}" distance="58.2017" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point08" title="" pan="-306.957" tilt="0" description="" url="{node13}" distance="35.5749" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point09" title="" pan="-272.46" tilt="-5" description="" url="{node12}" distance="48.0294" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point10" title="" pan="-16.6376" tilt="2.66" description="" url="{node20}" distance="76.8658" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltilesize="510" width="1440" levelingpitch="-2" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="168.662">
+      <start projection="4" fov="70" pan="3.29628" tilt="7.22315"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.209847" title="" author="" nodeid="node3" datetime="17/04/2023 9:13" description="" longitude="125.043491" altitude="71.03" comment="" customnodeid="" source="" tags="Ranowangko Beach Resort" heading="168.662"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="290.32" tilt="-7" description="" url="{node2}" distance="17.371" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="314.09" tilt="-3" description="" url="{node1}" distance="41.7626" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="209.43" tilt="-4.59" description="" url="{node4}" distance="30.5332" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="211.52" tilt="0.58" description="" url="{node5}" distance="54.5886" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="255.73" tilt="-3" description="" url="{node11}" distance="32.6155" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="270.85" tilt="-2.57" description="" url="{node10}" distance="66.7609" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point07" title="" pan="83.1641" tilt="-6.38" description="" url="{node12}" distance="32.0604" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point08" title="" pan="28.92" tilt="-6" description="" url="{node13}" distance="28.5578" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point09" title="" pan="2.44" tilt="-4" description="" url="{node14}" distance="61.1379" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point10" title="" pan="334.89" tilt="-2" description="" url="{node20}" distance="88.2685" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltilesize="510" width="1440" levelingpitch="-5" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="207.884">
+      <start projection="4" fov="70" pan="50.0724" tilt="5.38898"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.210065" title="" author="" nodeid="node4" datetime="17/04/2023 9:15" description="" longitude="125.043324" altitude="69.92" comment="" customnodeid="" source="" tags="Ranowangko Beach Resort" heading="207.884"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="34.35" tilt="-5" description="" url="{node2}" distance="33.5719" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="22.94" tilt="-2.6" description="" url="{node1}" distance="58.8538" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="65.33" tilt="-5" description="" url="{node3}" distance="30.5332" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="252.609" tilt="0.68" description="" url="{node5}" distance="24.3992" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="313.05" tilt="6" description="" url="{node6}" distance="36.9736" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="352.85" tilt="-7.65" description="" url="{node11}" distance="26.5656" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="75.4309">
+      <start projection="4" fov="70" pan="-63.6576" tilt="4.34226"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.210205" title="" author="" nodeid="node5" datetime="17/04/2023 9:15" description="" longitude="125.043155" altitude="73.61" comment="" customnodeid="" source="" tags="Ranowangko Beach Resort" heading="75.4309"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="-54.21" tilt="-11" description="" url="{node4}" distance="24.3992" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="-61.39" tilt="-5" description="" url="{node3}" distance="54.5886" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="-79.81" tilt="-4" description="" url="{node2}" distance="53.8797" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="221.63" tilt="-5" description="" url="{node6}" distance="30.3753" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="13.3525">
+      <start projection="4" fov="70" pan="132.362" tilt="-0.288583"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.209978" title="" author="" nodeid="node6" datetime="17/04/2023 9:16" description="" longitude="125.043003" altitude="74.97" comment="" customnodeid="" source="" tags="Ranowangko Beach Resort" heading="13.3525"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="-20.45" tilt="-5" description="" url="{node5}" distance="30.3753" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="-134.68" tilt="-6" description="" url="{node1}" distance="57.7086" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="-61.48" tilt="-5" description="" url="{node4}" distance="36.9736" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="103.98" tilt="-3.23" description="" url="{node7}" distance="53.9193" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-166.594">
+      <start projection="4" fov="70" pan="-12.3987" tilt="9.28521"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.209982" title="" author="" nodeid="node7" datetime="17/04/2023 9:17" description="" longitude="125.042518" altitude="75.89" comment="" customnodeid="" source="" tags="Ranowangko Beach Resort" heading="-166.594"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="-257.86" tilt="-4.14" description="" url="{node6}" distance="53.9193" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="-28.4079" tilt="-1.07" description="" url="{node8}" distance="77.6908" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="-13.89" tilt="-5" description="" url="{node9}" distance="34.6616" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="-4.92" tilt="8" description="" url="{node24}" distance="112.449" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-109.967">
+      <start projection="4" fov="91.9087" pan="-174.549" tilt="13.2992"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.209478" title="" author="" nodeid="node8" datetime="17/04/2023 9:20" description="" longitude="125.042034" altitude="75.74" comment="" customnodeid="" source="" tags="Ranowangko Beach Resort" heading="-109.967"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="-166.31" tilt="-3" description="" url="{node9}" distance="45.5435" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="-153.8" tilt="1" description="" url="{node7}" distance="77.6908" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-180.782">
+      <start projection="4" fov="70" pan="46.1543" tilt="9.23734"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.209705" title="" author="" nodeid="node9" datetime="17/04/2023 9:21" description="" longitude="125.042375" altitude="74.96" comment="" customnodeid="" source="" tags="Ranowangko Beach Resort" heading="-180.782"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="-208.08" tilt="3" description="" url="{node7}" distance="34.6616" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="-55.95" tilt="0.64" description="" url="{node8}" distance="45.5435" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="-267.88" tilt="-3.66" description="" url="{node10}" distance="58.7399" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="-350.43" tilt="10" description="" url="{node23}" distance="84.7755" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-15.5576">
+      <start projection="4" fov="83.6522" pan="-128.671" tilt="8.14965"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.209725" title="" author="" nodeid="node10" datetime="17/04/2023 9:22" description="" longitude="125.042903" altitude="76.02" comment="" customnodeid="" source="" tags="Ranowangko Beach Resort" heading="-15.5576"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="76.61" tilt="-3" description="" url="{node9}" distance="58.7399" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="-132.11" tilt="-3" description="" url="{node1}" distance="46.5852" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="-100.53" tilt="-2" description="" url="{node2}" distance="50.7776" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="-80.64" tilt="-5" description="" url="{node11}" distance="36.1606" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="-93.83" tilt="-2" description="" url="{node3}" distance="66.7609" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="158.29" tilt="3.95" description="" url="{node22}" distance="89.959" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node11">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="148.38">
+      <start projection="4" fov="70" pan="29.3887" tilt="7.68477"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.209862" title="" author="" nodeid="node11" datetime="17/04/2023 9:23" description="" longitude="125.043198" altitude="74.70" comment="" customnodeid="" source="" tags="Ranowangko Beach Resort" heading="148.38"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="-17.79" tilt="-4" description="" url="{node1}" distance="37.1338" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="27.15" tilt="-8" description="" url="{node2}" distance="20.8019" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="55.45" tilt="-6" description="" url="{node3}" distance="32.6155" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="116.56" tilt="-7" description="" url="{node4}" distance="26.5656" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="282.23" tilt="-8.28" description="" url="{node10}" distance="36.1606" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="303.41" tilt="4.26" description="" url="{node22}" distance="114.836" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node12">
+    <input leveltilesize="510" width="1440" levelingpitch="-3" levelingroll="1" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="89.252">
+      <start projection="4" fov="85.2375" pan="-71.3996" tilt="10.2937"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.209862" title="" author="" nodeid="node12" datetime="17/04/2023 9:25" description="" longitude="125.043779" altitude="73.36" comment="" customnodeid="" source="" tags="Ranowangko Beach Resort" heading="89.252"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="236.34" tilt="-2.91" description="" url="{node13}" distance="27.1002" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="182.23" tilt="-2" description="" url="{node3}" distance="32.0604" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="212.16" tilt="-1" description="" url="{node1}" distance="66.363" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="253.3" tilt="-3" description="" url="{node14}" distance="63.4921" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="255.21" tilt="-1" description="" url="{node15}" distance="122.302" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="192.23" tilt="-1" description="" url="{node2}" distance="48.0294" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point07" title="" pan="-88.5926" tilt="0" description="" url="{node17}" distance="230.559" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point08" title="" pan="-70.9966" tilt="0" description="" url="{node18}" distance="248.697" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node13">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-173.045">
+      <start projection="4" fov="84.289" pan="-5.87347" tilt="10.9175"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.209651" title="" author="" nodeid="node13" datetime="17/04/2023 9:26" description="" longitude="125.043657" altitude="73.67" comment="" customnodeid="" source="" tags="Ranowangko Beach Resort" heading="-173.045"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="-203.08" tilt="-6" description="" url="{node12}" distance="27.1002" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="-133.65" tilt="-5" description="" url="{node3}" distance="28.5578" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="-66.41" tilt="-4" description="" url="{node1}" distance="43.9917" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="2.49" tilt="-8.92" description="" url="{node14}" distance="37.7848" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="-4.66" tilt="-3" description="" url="{node15}" distance="96.5382" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="-103.92" tilt="-3" description="" url="{node2}" distance="35.5749" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point07" title="" pan="-346.91" tilt="-1" description="" url="{node17}" distance="208.125" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point08" title="" pan="-328.18" tilt="-2" description="" url="{node18}" distance="232.123" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point09" title="" pan="-24.73" tilt="-2" description="" url="{node20}" distance="75.1363" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node14">
+    <input leveltilesize="510" width="1440" levelingpitch="3" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-86.7913">
+      <start projection="4" fov="70" pan="104.893" tilt="7.5711"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.209313" title="" author="" nodeid="node14" datetime="17/04/2023 9:27" description="" longitude="125.043622" altitude="71.13" comment="" customnodeid="" source="" tags="Ranowangko Beach Resort" heading="-86.7913"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="-105.906" tilt="-2.05" description="" url="{node12}" distance="63.4921" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="-91.9708" tilt="-2.42" description="" url="{node13}" distance="37.7848" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="-29.72" tilt="-2" description="" url="{node1}" distance="45.6969" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="-56.29" tilt="-1" description="" url="{node2}" distance="58.2017" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="-72.79" tilt="-1" description="" url="{node3}" distance="61.1379" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="81.44" tilt="-4" description="" url="{node15}" distance="58.8828" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point07" title="" pan="-257.8" tilt="-1" description="" url="{node17}" distance="171.353" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point08" title="" pan="-236.394" tilt="0" description="" url="{node18}" distance="200.593" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point09" title="" pan="1.74215" tilt="0" description="" url="{node19}" distance="43.0125" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point10" title="" pan="34.4105" tilt="-1.03" description="" url="{node20}" distance="44.2723" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point11" title="" pan="33.1454" tilt="2.46" description="" url="{node21}" distance="57.6179" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node15">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-41.5044">
+      <start projection="4" fov="70" pan="-54.7259" tilt="4.79305"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.208795" title="" author="" nodeid="node15" datetime="17/04/2023 9:28" description="" longitude="125.043512" altitude="71.35" comment="" customnodeid="" source="" tags="Ranowangko Beach Resort" heading="-41.5044"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="-55.18" tilt="1.14" description="" url="{node12}" distance="122.302" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="-50.93" tilt="1" description="" url="{node13}" distance="96.5382" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="-53.31" tilt="-1" description="" url="{node14}" distance="58.8828" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="-23.83" tilt="2" description="" url="{node1}" distance="86.5929" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="120.52" tilt="-5" description="" url="{node16}" distance="59.917" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="-202.38" tilt="-3" description="" url="{node17}" distance="118.149" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="-177.03" tilt="-3" description="" url="{node18}" distance="162.036" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point07" title="" pan="-11.04" tilt="2.53" description="" url="{node19}" distance="66.2755" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point08" title="" pan="-4.84" tilt="1" description="" url="{node20}" distance="39.0041" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node16">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-7.76502">
+      <start projection="4" fov="70.5819" pan="-59.3405" tilt="7.45527"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.208283" title="" author="" nodeid="node16" datetime="17/04/2023 9:39" description="" longitude="125.043344" altitude="70.68" comment="" customnodeid="" source="" tags="Ranowangko Beach Resort" heading="-7.76502"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="-25.93" tilt="-3" description="" url="{node15}" distance="59.917" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="-141.63" tilt="-2" description="" url="{node17}" distance="79.1049" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="-121.598" tilt="0" description="" url="{node18}" distance="144.747" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node17">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-17.5299">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.207790" title="" author="" nodeid="node17" datetime="17/04/2023 9:42" description="" longitude="125.043857" altitude="73.06" comment="" customnodeid="" source="" tags="Ranowangko Beach Resort" heading="-17.5299"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="32.08" tilt="-0.37" description="" url="{node16}" distance="79.1049" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="-15.37" tilt="2" description="" url="{node12}" distance="230.559" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="1.41" tilt="1" description="" url="{node15}" distance="118.149" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="-8.16" tilt="1.54" description="" url="{node14}" distance="171.353" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="-11.8573" tilt="1.79" description="" url="{node13}" distance="208.125" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="-110.32" tilt="-2" description="" url="{node18}" distance="75.4627" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node18">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="34.2313">
+      <start projection="4" fov="84.0067" pan="68.2189" tilt="7.60987"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.207757" title="" author="" nodeid="node18" datetime="17/04/2023 9:44" description="" longitude="125.044535" altitude="72.23" comment="" customnodeid="" source="" tags="Ranowangko Beach Resort" heading="34.2313"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="54.01" tilt="-1.38" description="" url="{node12}" distance="248.697" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="59.74" tilt="-1.49" description="" url="{node13}" distance="232.123" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="65.27" tilt="-1.42" description="" url="{node14}" distance="200.593" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="78.81" tilt="-2" description="" url="{node15}" distance="162.036" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="100.3" tilt="-1.6" description="" url="{node16}" distance="144.747" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="121.44" tilt="-2" description="" url="{node17}" distance="75.4627" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node19">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-85.4539">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.20932290" title="" author="" nodeid="node19" datetime="17/04/2023 11:21" description="" longitude="125.04323522" altitude="85.23" comment="" customnodeid="" source="" tags="Ranowangko Beach Resort" heading="-85.4539"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="-96.14" tilt="-7" description="" url="{node1}" distance="24.3536" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="-169.13" tilt="-10" description="" url="{node14}" distance="43.0125" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="-234.47" tilt="-5" description="" url="{node15}" distance="66.2755" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="-250.322" tilt="0" description="" url="{node20}" distance="28.4401" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node20">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="136.649">
+      <start projection="4" fov="106.335" pan="105.599" tilt="11.6239"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.209076" title="" author="" nodeid="node20" datetime="17/04/2023 11:23" description="" longitude="125.043302" altitude="75.85" comment="" customnodeid="" source="" tags="Ranowangko Beach Resort" heading="136.649"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="145.77" tilt="-4" description="" url="{node1}" distance="51.4122" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="138.13" tilt="-1.89" description="" url="{node2}" distance="76.8658" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="129.01" tilt="-2" description="" url="{node3}" distance="88.2685" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="111.09" tilt="-3" description="" url="{node13}" distance="75.1363" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="89.31" tilt="-6" description="" url="{node14}" distance="44.2723" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="-0.46" tilt="-6" description="" url="{node15}" distance="39.0041" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point07" title="" pan="157.605" tilt="0" description="" url="{node19}" distance="28.4401" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point08" title="" pan="257.05" tilt="2" description="" url="{node21}" distance="13.4045" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point09" title="" pan="241.545" tilt="0" description="" url="{node22}" distance="63.1547" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node21">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="180">
+      <start projection="4" fov="90.8731" pan="137.32" tilt="0.895563"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.209015" title="" author="" nodeid="node21" datetime="17/04/2023 11:23" description="" longitude="125.043198" altitude="75.99" comment="" customnodeid="" source="" tags="Ranowangko Beach Resort" heading="180"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="120.3" tilt="-22" description="" url="{node20}" distance="13.4045" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="125.11" tilt="-10" description="" url="{node14}" distance="57.6179" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="280.82" tilt="-9" description="" url="{node22}" distance="50.3655" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node22">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="65.1824">
+      <start projection="4" fov="84.9184" pan="22.4651" tilt="8.5541"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.208930" title="" author="" nodeid="node22" datetime="17/04/2023 11:24" description="" longitude="125.042753" altitude="82.61" comment="" customnodeid="" source="" tags="Ranowangko Beach Resort" heading="65.1824"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="-15.63" tilt="-5.5" description="" url="{node21}" distance="50.3655" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="-11.87" tilt="-6" description="" url="{node20}" distance="63.1547" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="52.55" tilt="-6" description="" url="{node10}" distance="89.959" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="39.66" tilt="-4" description="" url="{node11}" distance="114.836" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="149.259" tilt="0" description="" url="{node23}" distance="26.9358" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node23">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="47.7044">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.208955" title="" author="" nodeid="node23" datetime="17/04/2023 11:25" description="" longitude="125.042512" altitude="85.66" comment="" customnodeid="" source="" tags="Ranowangko Beach Resort" heading="47.7044"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="-48.36" tilt="-10" description="" url="{node22}" distance="26.9358" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="57.56" tilt="-8.16" description="" url="{node9}" distance="84.7755" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="125.582" tilt="0" description="" url="{node24}" distance="35.4762" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node24">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="117.853">
+      <start projection="4" fov="70.2708" pan="39.3992" tilt="2.11619"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.209022" title="" author="" nodeid="node24" datetime="17/04/2023 11:26" description="" longitude="125.042200" altitude="89.47" comment="" customnodeid="" source="" tags="Ranowangko Beach Resort" heading="117.853"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="15.73" tilt="-11" description="" url="{node23}" distance="35.4762" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="99.53" tilt="-9" description="" url="{node7}" distance="112.449" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="236.427" tilt="1.47" description="" url="{node25}" distance="28.9445" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="226.05" tilt="3" description="" url="{node35}" distance="50.5546" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="283.764" tilt="0" description="" url="{node26}" distance="35.7218" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node25">
+    <input leveltilesize="510" width="1440" levelingpitch="2" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-12.4753">
+      <start projection="4" fov="94.8019" pan="60.4486" tilt="15.0171"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.20890604" title="" author="" nodeid="node25" datetime="17/04/2023 11:28" description="" longitude="125.04196690" altitude="97.00" comment="" customnodeid="" source="" tags="Ranowangko Beach Resort" heading="-12.4753"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="-67.95" tilt="-7" description="" url="{node24}" distance="28.9445" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="Masuk Area Pantai" pan="-17.05" tilt="-5.42" description="" url="" target="" skinid="ht_info"/>
+      <hotspot id="Point04" title="Area Foto" pan="-162.28" tilt="-0.0199998" description="" url="" target="" skinid="ht_info"/>
+      <hotspot id="Point05" title="" pan="81.48" tilt="-8.14" description="" url="{node35}" distance="22.3005" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="61.1743" tilt="-0.33" description="" url="{node36}" distance="128.94" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="-154.11" tilt="-7" description="" url="{node26}" distance="27.7427" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node26">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-72.5687">
+      <start projection="4" fov="70" pan="-172.454" tilt="-7.88971"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.20871041" title="" author="" nodeid="node26" datetime="17/04/2023 11:29" description="" longitude="125.04212178" altitude="93.57" comment="" customnodeid="" source="" tags="Ranowangko Beach Resort" heading="-72.5687"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="-36.75" tilt="-9" description="" url="{node25}" distance="27.7427" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="-171.52" tilt="-8" description="" url="{node27}" distance="27.7974" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="-171.751" tilt="-4.81" description="" url="{node29}" distance="52.2647" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="-161.86" tilt="-3" description="" url="{node28}" distance="50.3884" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="-188" tilt="-6.8" description="" url="{node30}" distance="27.9596" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="-8.19" tilt="-5" description="" url="{node35}" distance="43.617" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node27">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-22.9852">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.20867178" title="" author="" nodeid="node27" datetime="17/04/2023 11:30" description="" longitude="125.04236882" altitude="91.08" comment="" customnodeid="" source="" tags="Ranowangko Beach Resort" heading="-22.9852"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="58.1254" tilt="0" description="" url="{node26}" distance="27.7974" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="-95.0551" tilt="-8.57" description="" url="{node28}" distance="23.4425" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="-126.637" tilt="-13.01" description="" url="{node29}" distance="24.4706" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="142.41" tilt="-16" description="" url="{node30}" distance="6.85299" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="-121.298" tilt="0" description="" url="{node32}" distance="62.6872" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node28">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="122.993">
+      <start projection="4" fov="70" pan="24.6977" tilt="6.56223"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.208716" title="" author="" nodeid="node28" datetime="17/04/2023 11:31" description="" longitude="125.042575" altitude="90.69" comment="" customnodeid="" source="" tags="Ranowangko Beach Resort" heading="122.993"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="228.13" tilt="-4" description="" url="{node27}" distance="23.4425" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="215.3" tilt="1" description="" url="{node26}" distance="50.3884" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="-47" tilt="-8" description="" url="{node29}" distance="8.26562" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="34.92" tilt="-3" description="" url="{node34}" distance="52.9469" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="238.098" tilt="0" description="" url="{node30}" distance="27.22" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node29">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-115.313">
+      <start projection="4" fov="70" pan="151.046" tilt="-0.678131"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.20864264" title="" author="" nodeid="node29" datetime="17/04/2023 11:31" description="" longitude="125.04258700" altitude="78.97" comment="" customnodeid="" source="" tags="Ranowangko Beach Resort" heading="-115.313"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="-32.07" tilt="-3.19" description="" url="{node27}" distance="24.4706" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="-105.31" tilt="-9" description="" url="{node28}" distance="8.26562" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="-31.96" tilt="1" description="" url="{node26}" distance="52.2647" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="-7.05814" tilt="-5.78" description="" url="{node30}" distance="26.2031" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="-212.664" tilt="0" description="" url="{node31}" distance="21.414" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="-214.077" tilt="0" description="" url="{node32}" distance="38.2196" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node30">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="45.0331">
+      <start projection="4" fov="70" pan="-37.9079" tilt="7.5365"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.20861214" title="" author="" nodeid="node30" datetime="17/04/2023 11:32" description="" longitude="125.04235328" altitude="83.81" comment="" customnodeid="" source="" tags="Ranowangko Beach Resort" heading="45.0331"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="Ruang Serbaguna" pan="-58.35" tilt="-3.48" description="" url="" target="" skinid="ht_info"/>
+      <hotspot id="Point02" title="" pan="30.43" tilt="1" description="" url="{node27}" distance="6.85299" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="-36.242" tilt="0" description="" url="{node29}" distance="26.2031" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="107.728" tilt="3.66" description="" url="{node26}" distance="27.9596" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="-47.1513" tilt="0" description="" url="{node32}" distance="63.8025" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="-19.86" tilt="3" description="" url="{node28}" distance="27.22" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node31">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node31/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="66.4777">
+      <start projection="4" fov="70" pan="-70.8766" tilt="3.0307"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.20861800" title="" author="" nodeid="node31" datetime="17/04/2023 11:34" description="" longitude="125.04277804" altitude="88.30" comment="" customnodeid="" source="" tags="Ranowangko Beach Resort" heading="66.4777"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="151.6" tilt="-6.49" description="" url="{node29}" distance="21.414" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="158.21" tilt="-2" description="" url="{node30}" distance="47.2251" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="151.116" tilt="-2.37" description="" url="{node27}" distance="45.8844" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="-29.14" tilt="-7" description="" url="{node32}" distance="16.8205" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node32">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node32/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="102.405">
+      <start projection="4" fov="70" pan="86.2905" tilt="3.22376"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.20859027" title="" author="" nodeid="node32" datetime="17/04/2023 11:35" description="" longitude="125.04292678" altitude="87.38" comment="" customnodeid="" source="" tags="Ranowangko Beach Resort" heading="102.405"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="184.872" tilt="-3.76" description="" url="{node31}" distance="16.8205" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="184.751" tilt="-1.8" description="" url="{node29}" distance="38.2196" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="184.562" tilt="-0.15" description="" url="{node27}" distance="62.6872" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="190.22" tilt="-1" description="" url="{node30}" distance="63.8025" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="21.71" tilt="-6" description="" url="{node33}" distance="19.884" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="74.8482" tilt="-3.8" description="" url="{node34}" distance="20.954" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node33">
+    <input leveltilesize="510" width="1440" levelingpitch="1" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node33/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-170.295">
+      <start projection="4" fov="98.3008" pan="71.9009" tilt="5.59975"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.20861300" title="" author="" nodeid="node33" datetime="17/04/2023 11:36" description="" longitude="125.04310419" altitude="85.89" comment="" customnodeid="" source="" tags="Ranowangko Beach Resort" heading="-170.295"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="-72.99" tilt="-4" description="" url="{node32}" distance="19.884" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="-146.22" tilt="-4" description="" url="{node34}" distance="14.4933" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node34">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node34/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="75.8758">
+      <start projection="4" fov="81.6999" pan="175.972" tilt="4.30193"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.208732" title="" author="" nodeid="node34" datetime="17/04/2023 11:37" description="" longitude="125.043051" altitude="89.95" comment="" customnodeid="" source="" tags="Ranowangko Beach Resort" heading="75.8758"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point02" title="" pan="214.65" tilt="-3" description="" url="{node32}" distance="20.954" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="167.8" tilt="-2" description="" url="{node28}" distance="52.9469" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point01" title="" pan="-97.7655" tilt="-6.67" description="" url="{node33}" distance="14.4933" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="Kolam Renang" pan="-335.94" tilt="-6.01" description="" url="" target="" skinid="ht_info"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node35">
+    <input leveltilesize="510" width="1440" levelingpitch="9" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node35/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="10.7506">
+      <start projection="4" fov="70.27" pan="-78.02" tilt="9.34"/>
+      <flyin projection="12" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.208880" title="" author="" nodeid="node35" datetime="17/04/2023 11:53" description="" longitude="125.041768" altitude="96.77" comment="" customnodeid="" source="" tags="Ranowangko Beach Resort" heading="10.7506"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="-73.41" tilt="-2.29" description="" url="{node25}" distance="22.3005" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="-104.866" tilt="0" description="" url="{node26}" distance="43.617" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="-61.0497" tilt="0" description="" url="{node24}" distance="50.5546" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="79.44" tilt="-4" description="" url="{node36}" distance="108.945" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="Masuk Ke Pantai" pan="-50.46" tilt="-0.97" description="" url="" target="" skinid="ht_info"/>
+      <hotspot id="Point06" title="Area Foto" pan="-109.86" tilt="4.89" description="" url="" target="" skinid="ht_info"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node36">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node36/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-80.3523">
+      <start projection="4" fov="76.0282" pan="175.529" tilt="3.68164"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.209236" title="" author="" nodeid="node36" datetime="17/04/2023 11:56" description="" longitude="125.040855" altitude="94.62" comment="" customnodeid="" source="" tags="Ranowangko Beach Resort" heading="-80.3523"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="-191.66" tilt="-3" description="" url="{node35}" distance="108.945" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="-186.88" tilt="-2" description="" url="{node25}" distance="128.94" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="-25.11" tilt="2" description="" url="{node37}" distance="46.8159" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="Loket" pan="-176.42" tilt="-7.15" description="" url="" target="" skinid="ht_info"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node37">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="5" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node37/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="150.711">
+      <start projection="4" fov="70" pan="-10.4617" tilt="1.69712"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.209476" title="" author="" nodeid="node37" datetime="17/04/2023 11:57" description="" longitude="125.040509" altitude="97.13" comment="" customnodeid="" source="" tags="Ranowangko Beach Resort" heading="150.711"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="25.9582" tilt="0" description="" url="{node36}" distance="46.8159" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="Tempat Masuk" pan="-10.89" tilt="-1.24" description="" url="" target="" skinid="ht_info"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" info="" latitude="" title="" author="" nodeid="master" datetime="" description="" longitude="" comment="" customnodeid="" source="" tags="" heading="0"/>
+  </masternode>
+</tour>
