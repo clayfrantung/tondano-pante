@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="/dist/output.css" rel="stylesheet">
+
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./images/favicon-32x32.png"
+    />
+
+    <style>
+      .video-docker video {
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+      }
+      .video-docker::after {
+        content: "";
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(0, 0, 0, 0.6);
+        z-index: 1;
+      }
+
+      .video-content {
+        z-index: 2;
+      }
+      html{scroll-behavior:smooth}
+    </style>
+
+    <script>
+      function showMenu() {
+        document.querySelector('#burgerMenu').classList.toggle('hidden');
+      }
+    </script>
+    <style>
+      .hidden {
+        display: none;
+      }
+    </style>
+    <title>Explore : Tondano Pante</title>
+  </head>
+  <body>
+    <section class="relative h-screen flex flex-col items-center justify-center text-center text-white py-0 px-3">
+      <div class="video-docker absolute top-0 left-0 w-full h-full overflow-hidden">
+          <video class="min-w-full min-h-full absolute object-cover" src="./vid/banner.mp4" type="video/mp4" autoplay muted loop></video>
+      </div>
+      <div class="video-content space-y-2">
+          <h1 class="font-mono text-6xl">Explore : Tondano Pante</h1>
+          <h3 class="font-light text-3xl">Telusuri keindahan pantai timur Minahasa</h3>
+          <p></p>
+          <a href="#tour" class="btn btn-ghost">MULAI</a>
+      </div>
+  </section>
+
+    <section>
+      <div id="tour" class="mx-auto max-w-7xl px-4 py-16 sm:px-6 lg:px-8">
+        <div class="grid grid-cols-1 lg:h-screen lg:grid-cols-2">
+          <div class="relative z-10 lg:py-16">
+            <div class="relative h-64 sm:h-80 lg:h-full">
+              <img
+                alt="Ranowangko Beach Resort"
+                src="/img/ranowangko.png"
+                class="rounded absolute inset-0 h-full w-full object-cover"
+              />
+            </div>
+          </div>
+    
+          <div class="relative flex items-center bg-gray-100">
+            <span
+              class="hidden lg:absolute lg:inset-y-0 lg:-start-16 lg:block lg:w-16 lg:bg-gray-100"
+            ></span>
+    
+            <div class="p-8 sm:p-16 lg:p-24">
+              <h1 class="text-2xl font-bold sm:text-3xl">
+                Ranowangko Beach Resort
+              </h1>
+    
+              <p class="mt-4 text-gray-600">
+                Terletak di Desa Ranowangko 2, pantai ini mempunyai ukuran yang cukup luas serta tersedia fasilitas seperti penginapan dan kolam renang. 
+                Tak ketinggalan juga tempat-tempat untuk berfoto yang beragam
+              </p>
+    
+              <a
+                href="/tour/ranowangko-beach/index.html" target="_blank"
+                class="mt-8 inline-block rounded border border-indigo-600 bg-indigo-600 px-12 py-3 text-sm font-medium text-white hover:bg-transparent hover:text-indigo-600 focus:outline-none focus:ring active:text-indigo-500"
+              >
+                Mulai Tur
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <div id="tour" class="mx-auto max-w-7xl px-4 py-16 sm:px-6 lg:px-8">
+        <div class="grid grid-cols-1 lg:h-screen lg:grid-cols-2">
+          <div class="relative z-10 lg:py-16">
+            <div class="relative h-64 sm:h-80 lg:h-full">
+              <img
+                alt="Kabesaran Beach"
+                src="/img/kabesaran.PNG"
+                class="rounded absolute inset-0 h-full w-full object-cover"
+              />
+            </div>
+          </div>
+    
+          <div class="relative flex items-center bg-gray-100">
+            <span
+              class="hidden lg:absolute lg:inset-y-0 lg:-start-16 lg:block lg:w-16 lg:bg-gray-100"
+            ></span>
+    
+            <div class="p-8 sm:p-16 lg:p-24">
+              <h1 class="text-2xl font-bold sm:text-3xl">
+                Kabesaran Beach
+              </h1>
+    
+              <p class="mt-4 text-gray-600">
+                Berada di Desa Tulap, Kabupaten Minahasa, pantai ini mempunyai pasir yang putih serta pepohonan yang rindang. Terdapat fasilitas seperti kamar mandi dan 
+                toilet yang bersih, kios kecil, serta gazebo. Terdapat juga spot foto yang dijuluki "Bukit Teletubbies" karena di tempat tersebut mempunyai padang rumput
+                layaknya di film Teletubbies
+              </p>
+    
+              <a
+                href="/tour/kabesaran-beach/index.html" target="_blank"
+                class="mt-8 inline-block rounded border border-indigo-600 bg-indigo-600 px-12 py-3 text-sm font-medium text-white hover:bg-transparent hover:text-indigo-600 focus:outline-none focus:ring active:text-indigo-500"
+              >
+                Mulai Tur
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <div id="tour" class="mx-auto max-w-7xl px-4 py-16 sm:px-6 lg:px-8">
+        <div class="grid grid-cols-1 lg:h-screen lg:grid-cols-2">
+          <div class="relative z-10 lg:py-16">
+            <div class="relative h-64 sm:h-80 lg:h-full">
+              <img
+                alt="Kestelo Beachfront Cottage"
+                src="/img/kestelo.PNG"
+                class="rounded absolute inset-0 h-full w-full object-cover"
+              />
+            </div>
+          </div>
+    
+          <div class="relative flex items-center bg-gray-100">
+            <span
+              class="hidden lg:absolute lg:inset-y-0 lg:-start-16 lg:block lg:w-16 lg:bg-gray-100"
+            ></span>
+    
+            <div class="p-8 sm:p-16 lg:p-24">
+              <h1 class="text-2xl font-bold sm:text-3xl">
+                Kestelo Beachfront Cottage
+              </h1>
+    
+              <p class="mt-4 text-gray-600">
+                Pantai ini terletak di Desa Parentek, Kabupaten Minahasa. Pantai bernuansa sejuk karena terdapat banyak pepohonan yang mengelilingi pantai ini.
+                Pengunjung juga dimanjakan dengan wahana bermain di seputaran pantai seperti ATV, jetski dan banana boat 
+              </p>
+    
+              <a
+                href="/tour/kabesaran-beach/index.html" target="_blank"
+                class="mt-8 inline-block rounded border border-indigo-600 bg-indigo-600 px-12 py-3 text-sm font-medium text-white hover:bg-transparent hover:text-indigo-600 focus:outline-none focus:ring active:text-indigo-500"
+              >
+                Mulai Tur
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <div class="bg-white">
+      <div class="mx-auto max-w-2xl px-4 py-16 sm:px-6 sm:py-24 lg:max-w-7xl lg:px-8">
+        <div class="grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 xl:gap-x-8">
+          <a href="/tour/abbellas-beach/index.html" target="_blank" class="group">
+            <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-lg bg-gray-200 xl:aspect-h-8 xl:aspect-w-7">
+              <img src="/img/abbella.PNG" alt="Abbella's Beach" class="h-full w-full object-cover object-center group-hover:opacity-75">
+            </div>
+            <h3 class="mt-4 text-sm font-bold">Abbella's Beach</h3>
+          </a>
+          <a href="/tour/blue-lagoon/index.html" target="_blank" class="group">
+            <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-lg bg-gray-200 xl:aspect-h-8 xl:aspect-w-7">
+              <img src="/img/bluelagoon.PNG" alt="Blue Lagoon" class="h-full w-full object-cover object-center group-hover:opacity-75">
+            </div>
+            <h3 class="mt-4 text-sm font-bold">Blue Lagoon</h3>
+          </a>
+          <a href="/tour/djordan-beach/index.html" target="_blank" class="group">
+            <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-lg bg-gray-200 xl:aspect-h-8 xl:aspect-w-7">
+              <img src="/img/djordan.PNG" alt="D'Jordan Beach" class="h-full w-full object-cover object-center group-hover:opacity-75">
+            </div>
+            <h3 class="mt-4 text-sm font-bold">D'Jordan Beach</h3>
+          </a>
+          <a href="/tour/dkorengkeng-beach/index.html" target="_blank" class="group">
+            <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-lg bg-gray-200 xl:aspect-h-8 xl:aspect-w-7">
+              <img src="/img/dkorengkeng.PNG" alt="D'Korengkeng Beach" class="h-full w-full object-cover object-center group-hover:opacity-75">
+            </div>
+            <h3 class="mt-4 text-sm font-bold">D'Korengkeng Beach</h3>
+          </a>
+        </div>
+      </div>
+
+      <div class="bg-white">
+        <div class="mx-auto max-w-2xl px-4 py-16 sm:px-6 sm:py-24 lg:max-w-7xl lg:px-8">
+          <div class="grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 xl:gap-x-8">
+            <a href="/tour/fenol-pekaretan/index.html" target="_blank" class="group">
+              <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-lg bg-gray-200 xl:aspect-h-8 xl:aspect-w-7">
+                <img src="/img/fenol.PNG" alt="Fenol Pekaretan Beach" class="h-full w-full object-cover object-center group-hover:opacity-75">
+              </div>
+              <h3 class="mt-4 text-sm font-bold">Fenol Pekaretan Beach</h3>
+            </a>
+            <a href="/tour/indobeach-resort/index.html" target="_blank" class="group">
+              <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-lg bg-gray-200 xl:aspect-h-8 xl:aspect-w-7">
+                <img src="/img/indobeach.PNG" alt="Indobeach Resort" class="h-full w-full object-cover object-center group-hover:opacity-75">
+              </div>
+              <h3 class="mt-4 text-sm font-bold">Indobeach Resort</h3>
+            </a>
+            <a href="/tour/jrk-beach/index.html" target="_blank" class="group">
+              <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-lg bg-gray-200 xl:aspect-h-8 xl:aspect-w-7">
+                <img src="/img/jrk.PNG" alt="JRK Beach" class="h-full w-full object-cover object-center group-hover:opacity-75">
+              </div>
+              <h3 class="mt-4 text-sm font-bold">JRK Beach</h3>
+            </a>
+            <a href="/tour/makisanti-beach/index.html" target="_blank" class="group">
+              <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-lg bg-gray-200 xl:aspect-h-8 xl:aspect-w-7">
+                <img src="/img/makisanti.PNG" alt="Makisanti Beach" class="h-full w-full object-cover object-center group-hover:opacity-75">
+              </div>
+              <h3 class="mt-4 text-sm font-bold">Makisanti Beach</h3>
+            </a>
+          </div>
+        </div>
+
+        <div class="bg-white">
+          <div class="mx-auto max-w-2xl px-4 py-16 sm:px-6 sm:py-24 lg:max-w-7xl lg:px-8">
+            <div class="grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 xl:gap-x-8">
+              <a href="/tour/pante-wanua-tulap/index.html" target="_blank" class="group">
+                <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-lg bg-gray-200 xl:aspect-h-8 xl:aspect-w-7">
+                  <img src="/img/wanuatulap.PNG" alt="Pante Wanua Tulap" class="h-full w-full object-cover object-center group-hover:opacity-75">
+                </div>
+                <h3 class="mt-4 text-sm font-bold">Pante Wanua Tulap</h3>
+              </a>
+              <a href="/tour/tanjung-korma/index.html" target="_blank" class="group">
+                <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-lg bg-gray-200 xl:aspect-h-8 xl:aspect-w-7">
+                  <img src="/img/tanjungkorma.PNG" alt="Tulap Beach Tanjung Korma" class="h-full w-full object-cover object-center group-hover:opacity-75">
+                </div>
+                <h3 class="mt-4 text-sm font-bold">Tulap Beach Tanjung Korma</h3>
+              </a>
+              <a href="/tour/thobias-beach/index.html" target="_blank" class="group">
+                <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-lg bg-gray-200 xl:aspect-h-8 xl:aspect-w-7">
+                  <img src="/img/thobias.PNG" alt="Thobias Beach" class="h-full w-full object-cover object-center group-hover:opacity-75">
+                </div>
+                <h3 class="mt-4 text-sm font-bold">Thobias Beach</h3>
+              </a>
+              <a href="/tour/toro-beach/index.html" target="_blank" class="group">
+                <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-lg bg-gray-200 xl:aspect-h-8 xl:aspect-w-7">
+                  <img src="/img/toro.PNG" alt="Toro Beach" class="h-full w-full object-cover object-center group-hover:opacity-75">
+                </div>
+                <h3 class="mt-4 text-sm font-bold">Toro Beach</h3>
+              </a>
+            </div>
+          </div>
+      </div>
+    </div>
+  </body>
+</html>
