@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node7" apprev="18043" appversion="6.1.11">
+  <panorama id="node1">
+    <input levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="1440" height="1440" overlap="1" levelbias="0.400" levelingroll="0">
+      <level width="1440" height="1440" predecode="0" preload="0"/>
+      <level width="720" height="720" predecode="0" preload="0"/>
+      <level width="360" height="360" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="60">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" scaletofit="1" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata author="" comment="" tags="Fenol Pekaretan Beach" info="" description="" customnodeid="" title="" longitude="125.029859" heading="60" altitude="76.90" datetime="17/04/2023 16:37" latitude="1.167886" nodeid="node1" copyright="" source=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" borderradius="1" borderalpha="1" width="180" height="20" border="1" background="1" bordercolor="0x000000" wordwrap="1" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="2" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node2}" id="Point01" pan="87.19" skinid="ht_node" tilt="-16" description="" title="" target="$fwd" distance="9.00091"/>
+      <hotspot url="{node3}" id="Point02" pan="-56" skinid="ht_node" tilt="-9.38" description="" title="" target="$fwd" distance="17.0333"/>
+      <hotspot url="{node4}" id="Point03" pan="-88.54" skinid="ht_node" tilt="-3" description="" title="" target="$fwd" distance="41.3234"/>
+      <hotspot url="{node6}" id="Point04" pan="-66.79" skinid="ht_node" tilt="-3" description="" title="" target="$fwd" distance="62.7501"/>
+      <hotspot url="{node8}" id="Point05" pan="-53.99" skinid="ht_node" tilt="-4.05" description="" title="" target="$fwd" distance="44.3198"/>
+      <hotspot url="{node9}" id="Point06" pan="-10.2871" skinid="ht_node" tilt="-0.38" description="" title="" target="$fwd" distance="41.8714"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="36" zoomin="2" softedge="0" zoomafterinfov="90" blendcolor="0x000000" blendtime="1.1" enabled="1" zoomafteroutfov="20" zoomspeed="1.5" type="crossdissolve" zoomout="0" zoomoutpause="1"/>
+    <flyintransition speed="3.50" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" lockedwheel="0" speedwheel="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" contextprojections="0" sensitivity="8" dblclickfullscreen="0" hideabout="0" invertcontrol="1" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="1440" height="1440" overlap="1" levelbias="0.400" levelingroll="0">
+      <level width="1440" height="1440" predecode="0" preload="0"/>
+      <level width="720" height="720" predecode="0" preload="0"/>
+      <level width="360" height="360" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="151.696">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" scaletofit="1" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata author="" comment="" tags="Fenol Pekaretan Beach" info="" description="" customnodeid="" title="" longitude="125.029822" heading="151.696" altitude="77.25" datetime="17/04/2023 16:37" latitude="1.167958" nodeid="node2" copyright="" source=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" borderradius="1" borderalpha="1" width="180" height="20" border="1" background="1" bordercolor="0x000000" wordwrap="1" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="2" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node1}" id="Point01" pan="-1.11" skinid="ht_node" tilt="-8" description="" title="" target="$fwd" distance="9.00091"/>
+      <hotspot url="{node3}" id="Point02" pan="26.49" skinid="ht_node" tilt="-3" description="" title="" target="$fwd" distance="24.4921"/>
+      <hotspot url="{node4}" id="Point03" pan="2.3939" skinid="ht_node" tilt="0" description="" title="" target="$fwd" distance="50.3039"/>
+      <hotspot url="{node7}" id="Point04" pan="45.71" skinid="ht_node" tilt="-1" description="" title="" target="$fwd" distance="69.0396"/>
+      <hotspot url="{node8}" id="Point05" pan="33.3366" skinid="ht_node" tilt="-1.93" description="" title="" target="$fwd" distance="51.5879"/>
+      <hotspot url="{node9}" id="Point06" pan="72.9634" skinid="ht_node" tilt="-5.62" description="" title="" target="$fwd" distance="44.1257"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="36" zoomin="2" softedge="0" zoomafterinfov="90" blendcolor="0x000000" blendtime="1.1" enabled="1" zoomafteroutfov="20" zoomspeed="1.5" type="crossdissolve" zoomout="0" zoomoutpause="1"/>
+    <flyintransition speed="3.50" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" lockedwheel="0" speedwheel="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" contextprojections="0" sensitivity="8" dblclickfullscreen="0" hideabout="0" invertcontrol="1" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="1440" height="1440" overlap="1" levelbias="0.400" levelingroll="0">
+      <level width="1440" height="1440" predecode="0" preload="0"/>
+      <level width="720" height="720" predecode="0" preload="0"/>
+      <level width="360" height="360" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-90">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" scaletofit="1" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata author="" comment="" tags="Fenol Pekaretan Beach" info="" description="" customnodeid="" title="" longitude="125.030002" heading="-90" altitude="74.89" datetime="17/04/2023 16:38" latitude="1.167831" nodeid="node3" copyright="" source=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" borderradius="1" borderalpha="1" width="180" height="20" border="1" background="1" bordercolor="0x000000" wordwrap="1" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="2" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node2}" id="Point01" pan="-35.21" skinid="ht_node" tilt="3" description="" title="" target="$fwd" distance="24.4921"/>
+      <hotspot url="{node1}" id="Point02" pan="-21.04" skinid="ht_node" tilt="2" description="" title="" target="$fwd" distance="17.0333"/>
+      <hotspot url="{node4}" id="Point03" pan="-258.99" skinid="ht_node" tilt="-9" description="" title="" target="$fwd" distance="29.6797"/>
+      <hotspot url="{node5}" id="Point04" pan="-246.46" skinid="ht_node" tilt="-10" description="" title="" target="$fwd" distance="49.4442"/>
+      <hotspot url="{node6}" id="Point05" pan="-222.49" skinid="ht_node" tilt="-9" description="" title="" target="$fwd" distance="46.5866"/>
+      <hotspot url="{node7}" id="Point06" pan="-184.02" skinid="ht_node" tilt="-12" description="" title="" target="$fwd" distance="46.6161"/>
+      <hotspot url="{node8}" id="Point07" pan="-205.646" skinid="ht_node" tilt="-17.8" description="" title="" target="$fwd" distance="27.309"/>
+      <hotspot url="{node9}" id="Point08" pan="-140.72" skinid="ht_node" tilt="-11" description="" title="" target="$fwd" distance="30.7353"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="36" zoomin="2" softedge="0" zoomafterinfov="90" blendcolor="0x000000" blendtime="1.1" enabled="1" zoomafteroutfov="20" zoomspeed="1.5" type="crossdissolve" zoomout="0" zoomoutpause="1"/>
+    <flyintransition speed="3.50" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" lockedwheel="0" speedwheel="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" contextprojections="0" sensitivity="8" dblclickfullscreen="0" hideabout="0" invertcontrol="1" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="1440" height="1440" overlap="1" levelbias="0.400" levelingroll="0">
+      <level width="1440" height="1440" predecode="0" preload="0"/>
+      <level width="720" height="720" predecode="0" preload="0"/>
+      <level width="360" height="360" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-66.7825">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" scaletofit="1" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata author="" comment="" tags="Fenol Pekaretan Beach" info="" description="" customnodeid="" title="" longitude="125.030053" heading="-66.7825" altitude="75.01" datetime="17/04/2023 16:39" latitude="1.167569" nodeid="node4" copyright="" source=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" borderradius="1" borderalpha="1" width="180" height="20" border="1" background="1" bordercolor="0x000000" wordwrap="1" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="2" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node1}" id="Point02" pan="-45.6378" skinid="ht_node" tilt="0" description="" title="" target="$fwd" distance="41.3234"/>
+      <hotspot url="{node8}" id="Point03" pan="-104.03" skinid="ht_node" tilt="-10" description="" title="" target="$fwd" distance="26.0426"/>
+      <hotspot url="{node3}" id="Point01" pan="-62.7395" skinid="ht_node" tilt="-5.05" description="" title="" target="$fwd" distance="29.6797"/>
+      <hotspot url="{node6}" id="Point05" pan="-161.44" skinid="ht_node" tilt="-8" description="" title="" target="$fwd" distance="28.7772"/>
+      <hotspot url="{node5}" id="Point06" pan="-219.66" skinid="ht_node" tilt="-13" description="" title="" target="$fwd" distance="20.2394"/>
+      <hotspot url="{node9}" id="Point07" pan="-87.23" skinid="ht_node" tilt="-6" description="" title="" target="$fwd" distance="51.8611"/>
+      <hotspot url="{node7}" id="Point04" pan="-125" skinid="ht_node" tilt="-5" description="" title="" target="$fwd" distance="47.3623"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="36" zoomin="2" softedge="0" zoomafterinfov="90" blendcolor="0x000000" blendtime="1.1" enabled="1" zoomafteroutfov="20" zoomspeed="1.5" type="crossdissolve" zoomout="0" zoomoutpause="1"/>
+    <flyintransition speed="3.50" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" lockedwheel="0" speedwheel="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" contextprojections="0" sensitivity="8" dblclickfullscreen="0" hideabout="0" invertcontrol="1" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelingpitch="-4" levelbiashidpi="1.000" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="1440" height="1440" overlap="1" levelbias="0.400" levelingroll="0">
+      <level width="1440" height="1440" predecode="0" preload="0"/>
+      <level width="720" height="720" predecode="0" preload="0"/>
+      <level width="360" height="360" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="70.8059">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" scaletofit="1" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata author="" comment="" tags="Fenol Pekaretan Beach" info="" description="" customnodeid="" title="" longitude="125.030136" heading="70.8059" altitude="71.75" datetime="17/04/2023 16:40" latitude="1.167407" nodeid="node5" copyright="" source=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" borderradius="1" borderalpha="1" width="180" height="20" border="1" background="1" bordercolor="0x000000" wordwrap="1" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="2" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node4}" id="Point01" pan="99.5192" skinid="ht_node" tilt="-0.79" description="" title="" target="$fwd" distance="20.2394"/>
+      <hotspot url="{node3}" id="Point02" pan="86.651" skinid="ht_node" tilt="-0.41" description="" title="" target="$fwd" distance="49.4442"/>
+      <hotspot url="{node6}" id="Point03" pan="19.67" skinid="ht_node" tilt="-4" description="" title="" target="$fwd" distance="24.9863"/>
+      <hotspot url="{node7}" id="Point04" pan="34.14" skinid="ht_node" tilt="-1" description="" title="" target="$fwd" distance="52.6806"/>
+      <hotspot url="{node8}" id="Point05" pan="58.31" skinid="ht_node" tilt="-3" description="" title="" target="$fwd" distance="37.0395"/>
+      <hotspot url="{node9}" id="Point06" pan="63.2" skinid="ht_node" tilt="-2" description="" title="" target="$fwd" distance="67.1969"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="36" zoomin="2" softedge="0" zoomafterinfov="90" blendcolor="0x000000" blendtime="1.1" enabled="1" zoomafteroutfov="20" zoomspeed="1.5" type="crossdissolve" zoomout="0" zoomoutpause="1"/>
+    <flyintransition speed="3.50" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" lockedwheel="0" speedwheel="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" contextprojections="0" sensitivity="8" dblclickfullscreen="0" hideabout="0" invertcontrol="1" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelingpitch="-7" levelbiashidpi="1.000" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="1440" height="1440" overlap="1" levelbias="0.400" levelingroll="1">
+      <level width="1440" height="1440" predecode="0" preload="0"/>
+      <level width="720" height="720" predecode="0" preload="0"/>
+      <level width="360" height="360" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="155.546">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" scaletofit="1" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata author="" comment="" tags="Fenol Pekaretan Beach" info="" description="" customnodeid="" title="" longitude="125.030311" heading="155.546" altitude="73.47" datetime="17/04/2023 16:41" latitude="1.167548" nodeid="node6" copyright="" source=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" borderradius="1" borderalpha="1" width="180" height="20" border="1" background="1" bordercolor="0x000000" wordwrap="1" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="2" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node3}" id="Point01" pan="203.055" skinid="ht_node" tilt="0" description="" title="" target="$fwd" distance="46.5866"/>
+      <hotspot url="{node5}" id="Point02" pan="284.41" skinid="ht_node" tilt="-4" description="" title="" target="$fwd" distance="24.9863"/>
+      <hotspot url="{node4}" id="Point03" pan="240.892" skinid="ht_node" tilt="0" description="" title="" target="$fwd" distance="28.7772"/>
+      <hotspot url="{node1}" id="Point04" pan="205.882" skinid="ht_node" tilt="2.36" description="" title="" target="$fwd" distance="62.7501"/>
+      <hotspot url="{node8}" id="Point06" pan="181.08" skinid="ht_node" tilt="-6" description="" title="" target="$fwd" distance="22.1813"/>
+      <hotspot url="{node9}" id="Point07" pan="167.26" skinid="ht_node" tilt="-3" description="" title="" target="$fwd" distance="52.0109"/>
+      <hotspot url="{node7}" id="Point05" pan="128.23" skinid="ht_node" tilt="-6" description="" title="" target="$fwd" distance="29.1619"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="36" zoomin="2" softedge="0" zoomafterinfov="90" blendcolor="0x000000" blendtime="1.1" enabled="1" zoomafteroutfov="20" zoomspeed="1.5" type="crossdissolve" zoomout="0" zoomoutpause="1"/>
+    <flyintransition speed="3.50" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" lockedwheel="0" speedwheel="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" contextprojections="0" sensitivity="8" dblclickfullscreen="0" hideabout="0" invertcontrol="1" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelingpitch="-6" levelbiashidpi="1.000" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="1440" height="1440" overlap="1" levelbias="0.400" levelingroll="0">
+      <level width="1440" height="1440" predecode="0" preload="0"/>
+      <level width="720" height="720" predecode="0" preload="0"/>
+      <level width="360" height="360" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-229">
+      <start pan="-51.2666" projection="4" tilt="5.18348" fov="76.6701"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" scaletofit="1" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata author="" comment="" tags="Fenol Pekaretan Beach" info="" description="" customnodeid="" title="" longitude="125.030419" heading="-229" altitude="71.23" datetime="17/04/2023 16:41" latitude="1.167787" nodeid="node7" copyright="" source=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" borderradius="1" borderalpha="1" width="180" height="20" border="1" background="1" bordercolor="0x000000" wordwrap="1" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="2" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node3}" id="Point01" pan="-145.02" skinid="ht_node" tilt="3" description="" title="" target="$fwd" distance="46.6161"/>
+      <hotspot url="{node2}" id="Point02" pan="-154.99" skinid="ht_node" tilt="4" description="" title="" target="$fwd" distance="69.0396"/>
+      <hotspot url="{node4}" id="Point03" pan="-108.22" skinid="ht_node" tilt="2" description="" title="" target="$fwd" distance="47.3623"/>
+      <hotspot url="{node5}" id="Point04" pan="-80.67" skinid="ht_node" tilt="0" description="" title="" target="$fwd" distance="52.6806"/>
+      <hotspot url="{node6}" id="Point05" pan="-71.31" skinid="ht_node" tilt="-2" description="" title="" target="$fwd" distance="29.1619"/>
+      <hotspot url="{node8}" id="Point06" pan="-122.08" skinid="ht_node" tilt="-2" description="" title="" target="$fwd" distance="22.5431"/>
+      <hotspot url="{node9}" id="Point07" pan="-186.18" skinid="ht_node" tilt="-1" description="" title="" target="$fwd" distance="33.2011"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="36" zoomin="2" softedge="0" zoomafterinfov="90" blendcolor="0x000000" blendtime="1.1" enabled="1" zoomafteroutfov="20" zoomspeed="1.5" type="crossdissolve" zoomout="0" zoomoutpause="1"/>
+    <flyintransition speed="3.50" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" lockedwheel="0" speedwheel="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" contextprojections="0" sensitivity="8" dblclickfullscreen="0" hideabout="0" invertcontrol="1" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="1440" height="1440" overlap="1" levelbias="0.400" levelingroll="0">
+      <level width="1440" height="1440" predecode="0" preload="0"/>
+      <level width="720" height="720" predecode="0" preload="0"/>
+      <level width="360" height="360" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="153">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" scaletofit="1" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata author="" comment="" tags="Fenol Pekaretan Beach" info="" description="" customnodeid="" title="" longitude="125.030225" heading="153" altitude="71.22" datetime="17/04/2023 16:42" latitude="1.167728" nodeid="node8" copyright="" source=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" borderradius="1" borderalpha="1" width="180" height="20" border="1" background="1" bordercolor="0x000000" wordwrap="1" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="2" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node2}" id="Point01" pan="213.281" skinid="ht_node" tilt="0" description="" title="" target="$fwd" distance="51.5879"/>
+      <hotspot url="{node5}" id="Point02" pan="317.507" skinid="ht_node" tilt="0" description="" title="" target="$fwd" distance="37.0395"/>
+      <hotspot url="{node4}" id="Point03" pan="287.76" skinid="ht_node" tilt="2" description="" title="" target="$fwd" distance="26.0426"/>
+      <hotspot url="{node6}" id="Point04" pan="-1.47" skinid="ht_node" tilt="-1" description="" title="" target="$fwd" distance="22.1813"/>
+      <hotspot url="{node7}" id="Point05" pan="79.92" skinid="ht_node" tilt="-5" description="" title="" target="$fwd" distance="22.5431"/>
+      <hotspot url="{node3}" id="Point06" pan="218.2" skinid="ht_node" tilt="-2" description="" title="" target="$fwd" distance="27.309"/>
+      <hotspot url="{node9}" id="Point07" pan="154" skinid="ht_node" tilt="-9.85" description="" title="" target="$fwd" distance="30.9284"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="36" zoomin="2" softedge="0" zoomafterinfov="90" blendcolor="0x000000" blendtime="1.1" enabled="1" zoomafteroutfov="20" zoomspeed="1.5" type="crossdissolve" zoomout="0" zoomoutpause="1"/>
+    <flyintransition speed="3.50" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" lockedwheel="0" speedwheel="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" contextprojections="0" sensitivity="8" dblclickfullscreen="0" hideabout="0" invertcontrol="1" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="1440" height="1440" overlap="1" levelbias="0.400" levelingroll="0">
+      <level width="1440" height="1440" predecode="0" preload="0"/>
+      <level width="720" height="720" predecode="0" preload="0"/>
+      <level width="360" height="360" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="37.6622">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" scaletofit="1" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata author="" comment="" tags="Fenol Pekaretan Beach" info="" description="" customnodeid="" title="" longitude="125.030216" heading="37.6622" altitude="72.61" datetime="17/04/2023 16:43" latitude="1.168006" nodeid="node9" copyright="" source=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" borderradius="1" borderalpha="1" width="180" height="20" border="1" background="1" bordercolor="0x000000" wordwrap="1" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="2" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node6}" id="Point03" pan="-135.224" skinid="ht_node" tilt="-2.33" description="" title="" target="$fwd" distance="52.0109"/>
+      <hotspot url="{node8}" id="Point01" pan="-142.8" skinid="ht_node" tilt="-6.62" description="" title="" target="$fwd" distance="30.9284"/>
+      <hotspot url="{node5}" id="Point04" pan="210.577" skinid="ht_node" tilt="-3.56" description="" title="" target="$fwd" distance="67.1969"/>
+      <hotspot url="{node4}" id="Point05" pan="197.81" skinid="ht_node" tilt="-1.6" description="" title="" target="$fwd" distance="51.8611"/>
+      <hotspot url="{node3}" id="Point06" pan="170.563" skinid="ht_node" tilt="0.73" description="" title="" target="$fwd" distance="30.7353"/>
+      <hotspot url="{node1}" id="Point07" pan="150.465" skinid="ht_node" tilt="2.66" description="" title="" target="$fwd" distance="41.8714"/>
+      <hotspot url="{node2}" id="Point08" pan="134.61" skinid="ht_node" tilt="0" description="" title="" target="$fwd" distance="44.1257"/>
+      <hotspot url="" id="Point09" pan="-295.14" skinid="ht_info" tilt="2.07" description="" title="Toilet" target=""/>
+      <hotspot url="{node7}" id="Point02" pan="-99.52" skinid="ht_node" tilt="-5" description="" title="" target="$fwd" distance="33.2011"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="36" zoomin="2" softedge="0" zoomafterinfov="90" blendcolor="0x000000" blendtime="1.1" enabled="1" zoomafteroutfov="20" zoomspeed="1.5" type="crossdissolve" zoomout="0" zoomoutpause="1"/>
+    <flyintransition speed="3.50" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" lockedwheel="0" speedwheel="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" contextprojections="0" sensitivity="8" dblclickfullscreen="0" hideabout="0" invertcontrol="1" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <masternode>
+    <userdata author="" comment="" tags="" info="" description="" customnodeid="" title="" longitude="" heading="0" datetime="" latitude="" nodeid="master" copyright="" source=""/>
+  </masternode>
+</tour>

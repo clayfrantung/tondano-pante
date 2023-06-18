@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node4" appversion="6.1.11" apprev="18043">
+  <panorama id="node6">
+    <input leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" leveltilesize="510" overlap="1" levelbias="0.400" levelbiashidpi="1.000" width="1440" levelingpitch="-1" levelingroll="0">
+      <level height="1440" preload="0" width="1440" predecode="0"/>
+      <level height="720" preload="0" width="720" predecode="0"/>
+      <level height="360" preload="1" width="360" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="172.03" fovmode="0">
+      <start projection="4" tilt="-7.56477" fov="70" pan="120.272"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" fovstereographic="270" tilt="90" fovfisheye="360" fov="120" pan="360"/>
+    </view>
+    <userdata heading="172.03" description="" source="" latitude="1.194120" info="" tags="Indobeach Resort" title="" comment="" longitude="125.037405" datetime="17/04/2023 12:15" altitude="84.51" nodeid="node6" customnodeid="" author="" copyright=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderradius="1" enabled="1" background="1" bordercolor="0x000000" backgroundalpha="1" border="1" wordwrap="1" backgroundcolor="0xffffff" width="180" textalpha="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle handcursor="1" mode="2" bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="15.8368" description="" tilt="6" target="$fwd" url="{node5}" skinid="ht_node" id="Point01" title="" pan="301.85"/>
+      <hotspot distance="11.7176" description="" tilt="16" target="$fwd" url="{node4}" skinid="ht_node" id="Point02" title="" pan="216.61"/>
+      <hotspot distance="52.1021" description="" tilt="16" target="$fwd" url="{node1}" skinid="ht_node" id="Point03" title="" pan="246.94"/>
+      <hotspot distance="23.5271" description="" tilt="21" target="$fwd" url="{node3}" skinid="ht_node" id="Point04" title="" pan="230.11"/>
+      <hotspot distance="40.9866" description="" tilt="-17" target="$fwd" url="{node7}" skinid="ht_node" id="Point05" title="" pan="134.42"/>
+      <hotspot distance="13.4612" description="" tilt="-34.32" target="$fwd" url="{node10}" skinid="ht_node" id="Point06" title="" pan="118.9"/>
+      <hotspot distance="26.9516" description="" tilt="-28" target="$fwd" url="{node8}" skinid="ht_node" id="Point07" title="" pan="109.55"/>
+      <hotspot distance="11.2509" description="" tilt="-45" target="$fwd" url="{node9}" skinid="ht_node" id="Point08" title="" pan="70.05"/>
+      <hotspot distance="22.4063" description="" tilt="-27" target="$fwd" url="{node12}" skinid="ht_node" id="Point09" title="" pan="127.24"/>
+      <hotspot distance="16.0791" description="" tilt="-32.89" target="$fwd" url="{node11}" skinid="ht_node" id="Point10" title="" pan="109.846"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="1.5" enabled="1" zoomin="2" blendtime="1.1" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" zoomout="0" type="crossdissolve" softedge="0" zoomfov="36" zoomafteroutfov="20"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" contextprojections="0" contextfullscreen="1" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" invertcontrol="1" rubberband="0" dblclickfullscreen="0" invertwheel="0" hideabout="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" leveltilesize="510" overlap="1" levelbias="0.400" levelbiashidpi="1.000" width="1440" levelingpitch="0" levelingroll="0">
+      <level height="1440" preload="0" width="1440" predecode="0"/>
+      <level height="720" preload="0" width="720" predecode="0"/>
+      <level height="360" preload="1" width="360" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-106.529" fovmode="0">
+      <start projection="4" tilt="-10.0389" fov="70" pan="-145.596"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" fovstereographic="270" tilt="90" fovfisheye="360" fov="120" pan="360"/>
+    </view>
+    <userdata heading="-106.529" description="" source="" latitude="1.194008" info="" tags="Indobeach Resort" title="" comment="" longitude="125.037317" datetime="17/04/2023 12:15" altitude="88.06" nodeid="node5" customnodeid="" author="" copyright=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderradius="1" enabled="1" background="1" bordercolor="0x000000" backgroundalpha="1" border="1" wordwrap="1" backgroundcolor="0xffffff" width="180" textalpha="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle handcursor="1" mode="2" bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="56.742" description="" tilt="9" target="$fwd" url="{node2}" skinid="ht_node" id="Point02" title="" pan="-56.15"/>
+      <hotspot distance="23.8931" description="" tilt="10" target="$fwd" url="{node3}" skinid="ht_node" id="Point03" title="" pan="-78.9"/>
+      <hotspot distance="44.9077" description="" tilt="6" target="$fwd" url="{node1}" skinid="ht_node" id="Point04" title="" pan="-39.83"/>
+      <hotspot distance="15.8368" description="" tilt="-18.24" target="$fwd" url="{node6}" skinid="ht_node" id="Point01" title="" pan="-145.95"/>
+      <hotspot distance="56.8229" description="" tilt="-12" target="$fwd" url="{node7}" skinid="ht_node" id="Point05" title="" pan="-144.29"/>
+      <hotspot distance="41.8934" description="" tilt="-19" target="$fwd" url="{node8}" skinid="ht_node" id="Point06" title="" pan="-160.05"/>
+      <hotspot distance="23.1207" description="" tilt="-29" target="$fwd" url="{node9}" skinid="ht_node" id="Point07" title="" pan="-170.58"/>
+      <hotspot distance="38.1809" description="" tilt="-16" target="$fwd" url="{node12}" skinid="ht_node" id="Point08" title="" pan="-148.57"/>
+      <hotspot distance="28.8087" description="" tilt="-17" target="$fwd" url="{node10}" skinid="ht_node" id="Point09" title="" pan="-154.34"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="1.5" enabled="1" zoomin="2" blendtime="1.1" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" zoomout="0" type="crossdissolve" softedge="0" zoomfov="36" zoomafteroutfov="20"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" contextprojections="0" contextfullscreen="1" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" invertcontrol="1" rubberband="0" dblclickfullscreen="0" invertwheel="0" hideabout="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" leveltilesize="510" overlap="1" levelbias="0.400" levelbiashidpi="1.000" width="1440" levelingpitch="0" levelingroll="0">
+      <level height="1440" preload="0" width="1440" predecode="0"/>
+      <level height="720" preload="0" width="720" predecode="0"/>
+      <level height="360" preload="1" width="360" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="229.632" fovmode="0">
+      <start projection="4" tilt="-11.59" fov="70" pan="138.76"/>
+      <flyin projection="12" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" fovstereographic="270" tilt="90" fovfisheye="360" fov="120" pan="360"/>
+    </view>
+    <userdata heading="229.632" description="" source="" latitude="1.194178" info="" tags="Indobeach Resort" title="" comment="" longitude="125.037317" datetime="17/04/2023 12:16" altitude="91.11" nodeid="node4" customnodeid="" author="" copyright=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderradius="1" enabled="1" background="1" bordercolor="0x000000" backgroundalpha="1" border="1" wordwrap="1" backgroundcolor="0xffffff" width="180" textalpha="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle handcursor="1" mode="2" bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="42.404" description="" tilt="7.57" target="$fwd" url="{node1}" skinid="ht_node" id="Point01" title="" pan="310.795"/>
+      <hotspot distance="12.4378" description="" tilt="5.02" target="$fwd" url="{node3}" skinid="ht_node" id="Point02" title="" pan="295.221"/>
+      <hotspot distance="46.884" description="" tilt="10.69" target="$fwd" url="{node2}" skinid="ht_node" id="Point03" title="" pan="277.513"/>
+      <hotspot distance="18.9031" description="" tilt="-11" target="$fwd" url="{node5}" skinid="ht_node" id="Point04" title="" pan="37"/>
+      <hotspot distance="11.7176" description="" tilt="-33" target="$fwd" url="{node6}" skinid="ht_node" id="Point05" title="" pan="106.24"/>
+      <hotspot distance="34.2157" description="" tilt="-29" target="$fwd" url="{node8}" skinid="ht_node" id="Point06" title="" pan="149.74"/>
+      <hotspot distance="43.449" description="" tilt="-22" target="$fwd" url="{node7}" skinid="ht_node" id="Point07" title="" pan="176.42"/>
+      <hotspot distance="22.5687" description="" tilt="-32" target="$fwd" url="{node9}" skinid="ht_node" id="Point08" title="" pan="116.73"/>
+      <hotspot distance="21.3494" description="" tilt="-38" target="$fwd" url="{node10}" skinid="ht_node" id="Point09" title="" pan="140.83"/>
+      <hotspot distance="23.8344" description="" tilt="-34" target="$fwd" url="{node11}" skinid="ht_node" id="Point10" title="" pan="143.11"/>
+      <hotspot distance="27.2602" description="" tilt="-32.11" target="$fwd" url="{node12}" skinid="ht_node" id="Point11" title="" pan="155.92"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="1.5" enabled="1" zoomin="2" blendtime="1.1" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" zoomout="0" type="crossdissolve" softedge="0" zoomfov="36" zoomafteroutfov="20"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" contextprojections="0" contextfullscreen="1" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" invertcontrol="1" rubberband="0" dblclickfullscreen="0" invertwheel="0" hideabout="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" leveltilesize="510" overlap="1" levelbias="0.400" levelbiashidpi="1.000" width="1440" levelingpitch="1" levelingroll="1">
+      <level height="1440" preload="0" width="1440" predecode="0"/>
+      <level height="720" preload="0" width="720" predecode="0"/>
+      <level height="360" preload="1" width="360" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="44.7656" fovmode="0">
+      <start projection="4" tilt="8.67857" fov="70" pan="116.442"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" fovstereographic="270" tilt="90" fovfisheye="360" fov="120" pan="360"/>
+    </view>
+    <userdata heading="44.7656" description="" source="" latitude="1.194192" info="" tags="Indobeach Resort" title="" comment="" longitude="125.037206" datetime="17/04/2023 12:17" altitude="95.44" nodeid="node3" customnodeid="" author="" copyright=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderradius="1" enabled="1" background="1" bordercolor="0x000000" backgroundalpha="1" border="1" wordwrap="1" backgroundcolor="0xffffff" width="180" textalpha="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle handcursor="1" mode="2" bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="30.3582" description="" tilt="0" target="$fwd" url="{node1}" skinid="ht_node" id="Point01" title="" pan="144.678"/>
+      <hotspot distance="35.0047" description="" tilt="4" target="$fwd" url="{node2}" skinid="ht_node" id="Point02" title="" pan="107.54"/>
+      <hotspot distance="12.4378" description="" tilt="-19" target="$fwd" url="{node4}" skinid="ht_node" id="Point01" title="" pan="-52.42"/>
+      <hotspot distance="23.8931" description="" tilt="-16" target="$fwd" url="{node5}" skinid="ht_node" id="Point03" title="" pan="-104.14"/>
+      <hotspot distance="23.5271" description="" tilt="-23" target="$fwd" url="{node6}" skinid="ht_node" id="Point04" title="" pan="-65.13"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="1.5" enabled="1" zoomin="2" blendtime="1.1" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" zoomout="0" type="crossdissolve" softedge="0" zoomfov="36" zoomafteroutfov="20"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" contextprojections="0" contextfullscreen="1" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" invertcontrol="1" rubberband="0" dblclickfullscreen="0" invertwheel="0" hideabout="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" leveltilesize="510" overlap="1" levelbias="0.400" levelbiashidpi="1.000" width="1440" levelingpitch="0" levelingroll="0">
+      <level height="1440" preload="0" width="1440" predecode="0"/>
+      <level height="720" preload="0" width="720" predecode="0"/>
+      <level height="360" preload="1" width="360" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="63.9311" fovmode="0">
+      <start projection="4" tilt="6.24182" fov="70" pan="-57.663"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" fovstereographic="270" tilt="90" fovfisheye="360" fov="120" pan="360"/>
+    </view>
+    <userdata heading="63.9311" description="" source="" latitude="1.194336" info="" tags="Indobeach Resort" title="" comment="" longitude="125.036926" datetime="17/04/2023 12:17" altitude="98.59" nodeid="node2" customnodeid="" author="" copyright=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderradius="1" enabled="1" background="1" bordercolor="0x000000" backgroundalpha="1" border="1" wordwrap="1" backgroundcolor="0xffffff" width="180" textalpha="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle handcursor="1" mode="2" bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="21.2734" description="" tilt="-11" target="$fwd" url="{node1}" skinid="ht_node" id="Point01" title="" pan="-112.77"/>
+      <hotspot distance="56.742" description="" tilt="-10" target="$fwd" url="{node5}" skinid="ht_node" id="Point02" title="" pan="-66.07"/>
+      <hotspot distance="35.0047" description="" tilt="-12" target="$fwd" url="{node3}" skinid="ht_node" id="Point03" title="" pan="-53.29"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="1.5" enabled="1" zoomin="2" blendtime="1.1" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" zoomout="0" type="crossdissolve" softedge="0" zoomfov="36" zoomafteroutfov="20"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" contextprojections="0" contextfullscreen="1" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" invertcontrol="1" rubberband="0" dblclickfullscreen="0" invertwheel="0" hideabout="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" leveltilesize="510" overlap="1" levelbias="0.400" levelbiashidpi="1.000" width="1440" levelingpitch="0" levelingroll="0">
+      <level height="1440" preload="0" width="1440" predecode="0"/>
+      <level height="720" preload="0" width="720" predecode="0"/>
+      <level height="360" preload="1" width="360" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-36.3893" fovmode="0">
+      <start projection="4" tilt="4.57962" fov="70" pan="-92.1735"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" fovstereographic="270" tilt="90" fovfisheye="360" fov="120" pan="360"/>
+    </view>
+    <userdata heading="-36.3893" description="" source="" latitude="1.194145" info="" tags="Indobeach Resort" title="" comment="" longitude="125.036937" datetime="17/04/2023 12:18" altitude="94.10" nodeid="node1" customnodeid="" author="" copyright=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderradius="1" enabled="1" background="1" bordercolor="0x000000" backgroundalpha="1" border="1" wordwrap="1" backgroundcolor="0xffffff" width="180" textalpha="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle handcursor="1" mode="2" bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="21.2734" description="" tilt="0" target="$fwd" url="{node2}" skinid="ht_node" id="Point01" title="" pan="-33.0939"/>
+      <hotspot distance="44.9077" description="" tilt="-6.5" target="$fwd" url="{node5}" skinid="ht_node" id="Point02" title="" pan="-146.22"/>
+      <hotspot distance="30.3582" description="" tilt="-3" target="$fwd" url="{node3}" skinid="ht_node" id="Point03" title="" pan="-116.48"/>
+      <hotspot distance="42.404" description="" tilt="-3" target="$fwd" url="{node4}" skinid="ht_node" id="Point04" title="" pan="-121.42"/>
+      <hotspot distance="52.1021" description="" tilt="-7" target="$fwd" url="{node6}" skinid="ht_node" id="Point05" title="" pan="-129.45"/>
+      <hotspot description="" tilt="0.84" target="" url="" skinid="ht_info" id="Point06" title="Pintu Masuk" pan="-359.45"/>
+      <hotspot description="" tilt="-7.24" target="" url="" skinid="ht_info" id="Point07" title="Pintu Keluar" pan="-155.57"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="1.5" enabled="1" zoomin="2" blendtime="1.1" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" zoomout="0" type="crossdissolve" softedge="0" zoomfov="36" zoomafteroutfov="20"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" contextprojections="0" contextfullscreen="1" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" invertcontrol="1" rubberband="0" dblclickfullscreen="0" invertwheel="0" hideabout="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" leveltilesize="510" overlap="1" levelbias="0.400" levelbiashidpi="1.000" width="1440" levelingpitch="0" levelingroll="0">
+      <level height="1440" preload="0" width="1440" predecode="0"/>
+      <level height="720" preload="0" width="720" predecode="0"/>
+      <level height="360" preload="1" width="360" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="100" fovmode="0">
+      <start projection="4" tilt="6.43246" fov="70" pan="-82.5777"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" fovstereographic="270" tilt="90" fovfisheye="360" fov="120" pan="360"/>
+    </view>
+    <userdata heading="100" description="" source="" latitude="1.194412" info="" tags="Indobeach Resort" title="" comment="" longitude="125.037630" datetime="17/04/2023 12:33" altitude="77.18" nodeid="node7" customnodeid="" author="" copyright=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderradius="1" enabled="1" background="1" bordercolor="0x000000" backgroundalpha="1" border="1" wordwrap="1" backgroundcolor="0xffffff" width="180" textalpha="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle handcursor="1" mode="2" bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="20.0459" description="" tilt="-9" target="$fwd" url="{node8}" skinid="ht_node" id="Point01" title="" pan="276.82"/>
+      <hotspot distance="40.9866" description="" tilt="14" target="$fwd" url="{node6}" skinid="ht_node" id="Point02" title="" pan="242.39"/>
+      <hotspot distance="37.5171" description="" tilt="4.79" target="$fwd" url="{node9}" skinid="ht_node" id="Point03" title="" pan="256.66"/>
+      <hotspot distance="26.9261" description="" tilt="1" target="$fwd" url="{node11}" skinid="ht_node" id="Point04" title="" pan="255.87"/>
+      <hotspot distance="28.8967" description="" tilt="6" target="$fwd" url="{node10}" skinid="ht_node" id="Point05" title="" pan="252.26"/>
+      <hotspot distance="18.9642" description="" tilt="1" target="$fwd" url="{node12}" skinid="ht_node" id="Point06" title="" pan="250.89"/>
+      <hotspot description="" tilt="12.34" target="" url="" skinid="ht_info" id="Point07" title="Kios" pan="-135.58"/>
+      <hotspot description="" tilt="9.62" target="" url="" skinid="ht_info" id="Point08" title="Toilet" pan="-191.98"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="1.5" enabled="1" zoomin="2" blendtime="1.1" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" zoomout="0" type="crossdissolve" softedge="0" zoomfov="36" zoomafteroutfov="20"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" contextprojections="0" contextfullscreen="1" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" invertcontrol="1" rubberband="0" dblclickfullscreen="0" invertwheel="0" hideabout="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" leveltilesize="510" overlap="1" levelbias="0.400" levelbiashidpi="1.000" width="1440" levelingpitch="0" levelingroll="0">
+      <level height="1440" preload="0" width="1440" predecode="0"/>
+      <level height="720" preload="0" width="720" predecode="0"/>
+      <level height="360" preload="1" width="360" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="100" fovmode="0">
+      <start projection="4" tilt="11.4918" fov="70" pan="-110.9"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" fovstereographic="270" tilt="90" fovfisheye="360" fov="120" pan="360"/>
+    </view>
+    <userdata heading="100" description="" source="" latitude="1.194232" info="" tags="Indobeach Resort" title="" comment="" longitude="125.037620" datetime="17/04/2023 12:34" altitude="74.22" nodeid="node8" customnodeid="" author="" copyright=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderradius="1" enabled="1" background="1" bordercolor="0x000000" backgroundalpha="1" border="1" wordwrap="1" backgroundcolor="0xffffff" width="180" textalpha="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle handcursor="1" mode="2" bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="20.0459" description="" tilt="-7" target="$fwd" url="{node7}" skinid="ht_node" id="Point01" title="" pan="96.82"/>
+      <hotspot distance="26.9516" description="" tilt="20" target="$fwd" url="{node6}" skinid="ht_node" id="Point02" title="" pan="217.52"/>
+      <hotspot distance="34.2157" description="" tilt="25" target="$fwd" url="{node4}" skinid="ht_node" id="Point03" title="" pan="200.11"/>
+      <hotspot distance="19.6218" description="" tilt="8.35" target="$fwd" url="{node9}" skinid="ht_node" id="Point04" title="" pan="231.192"/>
+      <hotspot distance="13.5346" description="" tilt="10" target="$fwd" url="{node10}" skinid="ht_node" id="Point05" title="" pan="214.25"/>
+      <hotspot distance="10.894" description="" tilt="3.5" target="$fwd" url="{node11}" skinid="ht_node" id="Point06" title="" pan="206.759"/>
+      <hotspot distance="8.81719" description="" tilt="3" target="$fwd" url="{node12}" skinid="ht_node" id="Point07" title="" pan="166.99"/>
+      <hotspot description="" tilt="8.83" target="" url="" skinid="ht_info" id="Point08" title="Kios" pan="-222.28"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="1.5" enabled="1" zoomin="2" blendtime="1.1" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" zoomout="0" type="crossdissolve" softedge="0" zoomfov="36" zoomafteroutfov="20"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" contextprojections="0" contextfullscreen="1" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" invertcontrol="1" rubberband="0" dblclickfullscreen="0" invertwheel="0" hideabout="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" leveltilesize="510" overlap="1" levelbias="0.400" levelbiashidpi="1.000" width="1440" levelingpitch="0" levelingroll="0">
+      <level height="1440" preload="0" width="1440" predecode="0"/>
+      <level height="720" preload="0" width="720" predecode="0"/>
+      <level height="360" preload="1" width="360" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="86.5296" fovmode="0">
+      <start projection="4" tilt="-5.02055" fov="70" pan="-46.2404"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" fovstereographic="270" tilt="90" fovfisheye="360" fov="120" pan="360"/>
+    </view>
+    <userdata heading="86.5296" description="" source="" latitude="1.194099" info="" tags="Indobeach Resort" title="" comment="" longitude="125.037504" datetime="17/04/2023 12:36" altitude="79.49" nodeid="node9" customnodeid="" author="" copyright=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderradius="1" enabled="1" background="1" bordercolor="0x000000" backgroundalpha="1" border="1" wordwrap="1" backgroundcolor="0xffffff" width="180" textalpha="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle handcursor="1" mode="2" bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="19.6218" description="" tilt="-20" target="$fwd" url="{node8}" skinid="ht_node" id="Point01" title="" pan="45.44"/>
+      <hotspot distance="37.5171" description="" tilt="-12" target="$fwd" url="{node7}" skinid="ht_node" id="Point02" title="" pan="64.61"/>
+      <hotspot distance="9.2459" description="" tilt="-14.04" target="$fwd" url="{node10}" skinid="ht_node" id="Point03" title="" pan="79.45"/>
+      <hotspot distance="10.6612" description="" tilt="-21.01" target="$fwd" url="{node11}" skinid="ht_node" id="Point04" title="" pan="60.3071"/>
+      <hotspot distance="18.8521" description="" tilt="-16.11" target="$fwd" url="{node12}" skinid="ht_node" id="Point05" title="" pan="67.0407"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="1.5" enabled="1" zoomin="2" blendtime="1.1" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" zoomout="0" type="crossdissolve" softedge="0" zoomfov="36" zoomafteroutfov="20"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" contextprojections="0" contextfullscreen="1" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" invertcontrol="1" rubberband="0" dblclickfullscreen="0" invertwheel="0" hideabout="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" leveltilesize="510" overlap="1" levelbias="0.400" levelbiashidpi="1.000" width="1440" levelingpitch="0" levelingroll="0">
+      <level height="1440" preload="0" width="1440" predecode="0"/>
+      <level height="720" preload="0" width="720" predecode="0"/>
+      <level height="360" preload="1" width="360" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="90" fovmode="0">
+      <start projection="4" tilt="-5.35943" fov="70" pan="-9.16993"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" fovstereographic="270" tilt="90" fovfisheye="360" fov="120" pan="360"/>
+    </view>
+    <userdata heading="90" description="" source="" latitude="1.194182" info="" tags="Indobeach Resort" title="" comment="" longitude="125.037509" datetime="17/04/2023 12:36" altitude="78.84" nodeid="node10" customnodeid="" author="" copyright=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderradius="1" enabled="1" background="1" bordercolor="0x000000" backgroundalpha="1" border="1" wordwrap="1" backgroundcolor="0xffffff" width="180" textalpha="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle handcursor="1" mode="2" bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="13.4612" description="" tilt="32" target="$fwd" url="{node6}" skinid="ht_node" id="Point02" title="" pan="210.81"/>
+      <hotspot distance="13.5346" description="" tilt="-28" target="$fwd" url="{node8}" skinid="ht_node" id="Point03" title="" pan="24.25"/>
+      <hotspot distance="9.2459" description="" tilt="-12.62" target="$fwd" url="{node9}" skinid="ht_node" id="Point01" title="" pan="263.45"/>
+      <hotspot distance="2.64258" description="" tilt="-41.67" target="$fwd" url="{node11}" skinid="ht_node" id="Point05" title="" pan="13.1634"/>
+      <hotspot distance="9.94829" description="" tilt="-17.71" target="$fwd" url="{node12}" skinid="ht_node" id="Point06" title="" pan="58.0918"/>
+      <hotspot distance="28.8967" description="" tilt="-12" target="$fwd" url="{node7}" skinid="ht_node" id="Point04" title="" pan="62.26"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="1.5" enabled="1" zoomin="2" blendtime="1.1" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" zoomout="0" type="crossdissolve" softedge="0" zoomfov="36" zoomafteroutfov="20"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" contextprojections="0" contextfullscreen="1" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" invertcontrol="1" rubberband="0" dblclickfullscreen="0" invertwheel="0" hideabout="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" leveltilesize="510" overlap="1" levelbias="0.400" levelbiashidpi="1.000" width="1440" levelingpitch="0" levelingroll="0">
+      <level height="1440" preload="0" width="1440" predecode="0"/>
+      <level height="720" preload="0" width="720" predecode="0"/>
+      <level height="360" preload="1" width="360" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="108.679" fovmode="0">
+      <start projection="4" tilt="3.31116" fov="99.0082" pan="-56.7288"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" fovstereographic="270" tilt="90" fovfisheye="360" fov="120" pan="360"/>
+    </view>
+    <userdata heading="108.679" description="" source="" latitude="1.194191" info="" tags="Indobeach Resort" title="" comment="" longitude="125.037531" datetime="17/04/2023 12:37" altitude="77.69" nodeid="node11" customnodeid="" author="" copyright=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderradius="1" enabled="1" background="1" bordercolor="0x000000" backgroundalpha="1" border="1" wordwrap="1" backgroundcolor="0xffffff" width="180" textalpha="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle handcursor="1" mode="2" bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="10.6612" description="" tilt="3" target="$fwd" url="{node9}" skinid="ht_node" id="Point01" title="" pan="256.65"/>
+      <hotspot distance="2.64258" description="" tilt="4" target="$fwd" url="{node10}" skinid="ht_node" id="Point02" title="" pan="202.25"/>
+      <hotspot distance="10.894" description="" tilt="-26" target="$fwd" url="{node8}" skinid="ht_node" id="Point03" title="" pan="43.42"/>
+      <hotspot distance="26.9261" description="" tilt="-8.62" target="$fwd" url="{node7}" skinid="ht_node" id="Point04" title="" pan="81.973"/>
+      <hotspot distance="8.20125" description="" tilt="-18" target="$fwd" url="{node12}" skinid="ht_node" id="Point05" title="" pan="96.15"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="1.5" enabled="1" zoomin="2" blendtime="1.1" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" zoomout="0" type="crossdissolve" softedge="0" zoomfov="36" zoomafteroutfov="20"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" contextprojections="0" contextfullscreen="1" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" invertcontrol="1" rubberband="0" dblclickfullscreen="0" invertwheel="0" hideabout="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" leveltilesize="510" overlap="1" levelbias="0.400" levelbiashidpi="1.000" width="1440" levelingpitch="0" levelingroll="0">
+      <level height="1440" preload="0" width="1440" predecode="0"/>
+      <level height="720" preload="0" width="720" predecode="0"/>
+      <level height="360" preload="1" width="360" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="71.2709" fovmode="0">
+      <start projection="4" tilt="12.1534" fov="98.3008" pan="-46.959"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" fovstereographic="270" tilt="90" fovfisheye="360" fov="120" pan="360"/>
+    </view>
+    <userdata heading="71.2709" description="" source="" latitude="1.194263" info="" tags="Indobeach Resort" title="" comment="" longitude="125.037547" datetime="17/04/2023 12:38" altitude="77.82" nodeid="node12" customnodeid="" author="" copyright=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderradius="1" enabled="1" background="1" bordercolor="0x000000" backgroundalpha="1" border="1" wordwrap="1" backgroundcolor="0xffffff" width="180" textalpha="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle handcursor="1" mode="2" bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="8.20125" description="" tilt="-15" target="$fwd" url="{node11}" skinid="ht_node" id="Point01" title="" pan="238.74"/>
+      <hotspot distance="9.94829" description="" tilt="7.62" target="$fwd" url="{node10}" skinid="ht_node" id="Point02" title="" pan="207.94"/>
+      <hotspot distance="18.8521" description="" tilt="7.67" target="$fwd" url="{node9}" skinid="ht_node" id="Point03" title="" pan="227.622"/>
+      <hotspot distance="8.81719" description="" tilt="-30.87" target="$fwd" url="{node8}" skinid="ht_node" id="Point04" title="" pan="-40.6824"/>
+      <hotspot distance="18.9642" description="" tilt="-14.73" target="$fwd" url="{node7}" skinid="ht_node" id="Point05" title="" pan="39.8563"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="1.5" enabled="1" zoomin="2" blendtime="1.1" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" zoomout="0" type="crossdissolve" softedge="0" zoomfov="36" zoomafteroutfov="20"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" contextprojections="0" contextfullscreen="1" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" invertcontrol="1" rubberband="0" dblclickfullscreen="0" invertwheel="0" hideabout="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <masternode>
+    <userdata heading="0" description="" source="" latitude="" info="" tags="" title="" comment="" longitude="" datetime="" nodeid="master" customnodeid="" author="" copyright=""/>
+  </masternode>
+</tour>
