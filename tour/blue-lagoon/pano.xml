@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node4" apprev="18043" appversion="6.1.11">
+  <panorama id="node1">
+    <input levelingpitch="-5" levelbiashidpi="1.000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="1440" height="1440" overlap="1" levelbias="0.400" levelingroll="0">
+      <level width="1440" height="1440" predecode="0" preload="0"/>
+      <level width="720" height="720" predecode="0" preload="0"/>
+      <level width="360" height="360" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="30">
+      <start pan="0" projection="4" tilt="4" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" scaletofit="1" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata author="" comment="" tags="Blue Lagoon" info="" description="" customnodeid="" title="" longitude="125.013863" heading="30" altitude="77.76" datetime="13/04/2023 11:23" latitude="1.130105" nodeid="node1" copyright="" source=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" borderradius="1" borderalpha="1" width="180" height="20" border="1" background="1" bordercolor="0x000000" wordwrap="1" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="2" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node2}" id="Point01" pan="-148.85" skinid="ht_node" tilt="-10" description="" title="" target="$fwd" distance="16.5714"/>
+      <hotspot url="{node3}" id="Point02" pan="12.46" skinid="ht_node" tilt="-3" description="" title="" target="$fwd" distance="18.1789"/>
+      <hotspot url="" id="Point03" pan="-230.96" skinid="ht_info" tilt="1.87" description="" title="Toilet" target=""/>
+      <hotspot url="{node4}" id="Point04" pan="-34.23" skinid="ht_node" tilt="6" description="" title="" target="$fwd" distance="9.41113"/>
+      <hotspot url="{node5}" id="Point05" pan="-8.99" skinid="ht_node" tilt="-4" description="" title="" target="$fwd" distance="26.3249"/>
+      <hotspot url="{node6}" id="Point06" pan="2.00299" skinid="ht_node" tilt="0" description="" title="" target="$fwd" distance="47.6025"/>
+      <hotspot url="" id="Point07" pan="-273.27" skinid="ht_info" tilt="0.58" description="" title="Pintu Masuk" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="36" zoomin="2" softedge="0" zoomafterinfov="90" blendcolor="0x000000" blendtime="1.1" enabled="1" zoomafteroutfov="20" zoomspeed="1.5" type="crossdissolve" zoomout="0" zoomoutpause="1"/>
+    <flyintransition speed="3.50" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" lockedwheel="0" speedwheel="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" contextprojections="0" sensitivity="8" dblclickfullscreen="0" hideabout="0" invertcontrol="1" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingpitch="-4" levelbiashidpi="1.000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="1440" height="1440" overlap="1" levelbias="0.400" levelingroll="1">
+      <level width="1440" height="1440" predecode="0" preload="0"/>
+      <level width="720" height="720" predecode="0" preload="0"/>
+      <level width="360" height="360" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" scaletofit="1" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata author="" comment="" tags="Blue Lagoon" info="" description="" customnodeid="" title="" longitude="125.013866" heading="0" altitude="77.50" datetime="13/04/2023 11:24" latitude="1.129956" nodeid="node2" copyright="" source=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" borderradius="1" borderalpha="1" width="180" height="20" border="1" background="1" bordercolor="0x000000" wordwrap="1" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="2" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node1}" id="Point01" pan="5.15" skinid="ht_node" tilt="-4.92" description="" title="" target="$fwd" distance="16.5714"/>
+      <hotspot url="{node3}" id="Point02" pan="360" skinid="ht_node" tilt="-0.77" description="" title="" target="$fwd" distance="34.2394"/>
+      <hotspot url="{node4}" id="Point03" pan="-18.7" skinid="ht_node" tilt="4.02" description="" title="" target="$fwd" distance="23.528"/>
+      <hotspot url="{node5}" id="Point04" pan="-16.0304" skinid="ht_node" tilt="-1.75" description="" title="" target="$fwd" distance="40.4292"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="36" zoomin="2" softedge="0" zoomafterinfov="90" blendcolor="0x000000" blendtime="1.1" enabled="1" zoomafteroutfov="20" zoomspeed="1.5" type="crossdissolve" zoomout="0" zoomoutpause="1"/>
+    <flyintransition speed="3.50" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" lockedwheel="0" speedwheel="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" contextprojections="0" sensitivity="8" dblclickfullscreen="0" hideabout="0" invertcontrol="1" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelingpitch="-6" levelbiashidpi="1.000" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="1440" height="1440" overlap="1" levelbias="0.400" levelingroll="-1">
+      <level width="1440" height="1440" predecode="0" preload="0"/>
+      <level width="720" height="720" predecode="0" preload="0"/>
+      <level width="360" height="360" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="142">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" scaletofit="1" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata author="" comment="" tags="Blue Lagoon" info="" description="" customnodeid="" title="" longitude="125.013915" heading="142" altitude="79.75" datetime="13/04/2023 11:27" latitude="1.130260" nodeid="node3" copyright="" source=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" borderradius="1" borderalpha="1" width="180" height="20" border="1" background="1" bordercolor="0x000000" wordwrap="1" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="2" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node2}" id="Point01" pan="312.85" skinid="ht_node" tilt="-4" description="" title="" target="$fwd" distance="34.2394"/>
+      <hotspot url="{node1}" id="Point02" pan="303.46" skinid="ht_node" tilt="-7" description="" title="" target="$fwd" distance="18.1789"/>
+      <hotspot url="{node4}" id="Point03" pan="-14.19" skinid="ht_node" tilt="4" description="" title="" target="$fwd" distance="11.4482"/>
+      <hotspot url="{node5}" id="Point04" pan="80.02" skinid="ht_node" tilt="-7.5" description="" title="" target="$fwd" distance="11.2556"/>
+      <hotspot url="{node6}" id="Point05" pan="108.26" skinid="ht_node" tilt="-2" description="" title="" target="$fwd" distance="29.8204"/>
+      <hotspot url="{node8}" id="Point06" pan="116.94" skinid="ht_node" tilt="-1" description="" title="" target="$fwd" distance="87.3988"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="36" zoomin="2" softedge="0" zoomafterinfov="90" blendcolor="0x000000" blendtime="1.1" enabled="1" zoomafteroutfov="20" zoomspeed="1.5" type="crossdissolve" zoomout="0" zoomoutpause="1"/>
+    <flyintransition speed="3.50" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" lockedwheel="0" speedwheel="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" contextprojections="0" sensitivity="8" dblclickfullscreen="0" hideabout="0" invertcontrol="1" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingpitch="-4" levelbiashidpi="1.000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="1440" height="1440" overlap="1" levelbias="0.400" levelingroll="-1">
+      <level width="1440" height="1440" predecode="0" preload="0"/>
+      <level width="720" height="720" predecode="0" preload="0"/>
+      <level width="360" height="360" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="110.153">
+      <start pan="-61.0539" projection="4" tilt="18.9737" fov="120"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" scaletofit="1" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata author="" comment="" tags="Blue Lagoon" info="" description="" customnodeid="" title="" longitude="125.013929" heading="110.153" altitude="82.04" datetime="13/04/2023 11:29" latitude="1.130158" nodeid="node4" copyright="" source=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" borderradius="1" borderalpha="1" width="180" height="20" border="1" background="1" bordercolor="0x000000" wordwrap="1" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="2" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node2}" id="Point02" pan="252.68" skinid="ht_node" tilt="-12" description="" title="" target="$fwd" distance="23.528"/>
+      <hotspot url="{node3}" id="Point03" pan="117.97" skinid="ht_node" tilt="-14" description="" title="" target="$fwd" distance="11.4482"/>
+      <hotspot url="{node5}" id="Point04" pan="77.8" skinid="ht_node" tilt="-16" description="" title="" target="$fwd" distance="17.2432"/>
+      <hotspot url="{node7}" id="Point05" pan="81.9687" skinid="ht_node" tilt="0" description="" title="" target="$fwd" distance="57.904"/>
+      <hotspot url="{node1}" id="Point01" pan="228.92" skinid="ht_node" tilt="-22" description="" title="" target="$fwd" distance="9.41113"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="36" zoomin="2" softedge="0" zoomafterinfov="90" blendcolor="0x000000" blendtime="1.1" enabled="1" zoomafteroutfov="20" zoomspeed="1.5" type="crossdissolve" zoomout="0" zoomoutpause="1"/>
+    <flyintransition speed="3.50" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" lockedwheel="0" speedwheel="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" contextprojections="0" sensitivity="8" dblclickfullscreen="0" hideabout="0" invertcontrol="1" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelingpitch="-4" levelbiashidpi="1.000" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="1440" height="1440" overlap="1" levelbias="0.400" levelingroll="1">
+      <level width="1440" height="1440" predecode="0" preload="0"/>
+      <level width="720" height="720" predecode="0" preload="0"/>
+      <level width="360" height="360" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="142">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" scaletofit="1" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata author="" comment="" tags="Blue Lagoon" info="" description="" customnodeid="" title="" longitude="125.014012" heading="142" altitude="79.70" datetime="13/04/2023 11:35" latitude="1.130289" nodeid="node5" copyright="" source=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" borderradius="1" borderalpha="1" width="180" height="20" border="1" background="1" bordercolor="0x000000" wordwrap="1" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="2" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node2}" id="Point01" pan="298.33" skinid="ht_node" tilt="-1" description="" title="" target="$fwd" distance="40.4292"/>
+      <hotspot url="{node4}" id="Point02" pan="289.65" skinid="ht_node" tilt="-5" description="" title="" target="$fwd" distance="17.2432"/>
+      <hotspot url="{node1}" id="Point03" pan="283.01" skinid="ht_node" tilt="-6" description="" title="" target="$fwd" distance="26.3249"/>
+      <hotspot url="{node3}" id="Point04" pan="248.65" skinid="ht_node" tilt="-16" description="" title="" target="$fwd" distance="11.2556"/>
+      <hotspot url="{node6}" id="Point05" pan="122.308" skinid="ht_node" tilt="-7.17" description="" title="" target="$fwd" distance="22.333"/>
+      <hotspot url="{node7}" id="Point06" pan="112.58" skinid="ht_node" tilt="-2" description="" title="" target="$fwd" distance="40.7257"/>
+      <hotspot url="{node8}" id="Point07" pan="122.942" skinid="ht_node" tilt="0" description="" title="" target="$fwd" distance="80.3504"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="36" zoomin="2" softedge="0" zoomafterinfov="90" blendcolor="0x000000" blendtime="1.1" enabled="1" zoomafteroutfov="20" zoomspeed="1.5" type="crossdissolve" zoomout="0" zoomoutpause="1"/>
+    <flyintransition speed="3.50" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" lockedwheel="0" speedwheel="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" contextprojections="0" sensitivity="8" dblclickfullscreen="0" hideabout="0" invertcontrol="1" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="1440" height="1440" overlap="1" levelbias="0.400" levelingroll="0">
+      <level width="1440" height="1440" predecode="0" preload="0"/>
+      <level width="720" height="720" predecode="0" preload="0"/>
+      <level width="360" height="360" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-33.4419">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" scaletofit="1" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata author="" comment="" tags="Blue Lagoon" info="" description="" customnodeid="" title="" longitude="125.014064" heading="-33.4419" altitude="79.28" datetime="13/04/2023 11:37" latitude="1.130483" nodeid="node6" copyright="" source=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" borderradius="1" borderalpha="1" width="180" height="20" border="1" background="1" bordercolor="0x000000" wordwrap="1" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="2" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node5}" id="Point01" pan="131.63" skinid="ht_node" tilt="-5.62" description="" title="" target="$fwd" distance="22.333"/>
+      <hotspot url="{node4}" id="Point02" pan="124.06" skinid="ht_node" tilt="0.87" description="" title="" target="$fwd" distance="39.131"/>
+      <hotspot url="{node3}" id="Point03" pan="112.814" skinid="ht_node" tilt="0" description="" title="" target="$fwd" distance="29.8204"/>
+      <hotspot url="{node7}" id="Point04" pan="-77.07" skinid="ht_node" tilt="-4" description="" title="" target="$fwd" distance="19.3467"/>
+      <hotspot url="{node8}" id="Point05" pan="-56.06" skinid="ht_node" tilt="0" description="" title="" target="$fwd" distance="58.0948"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="36" zoomin="2" softedge="0" zoomafterinfov="90" blendcolor="0x000000" blendtime="1.1" enabled="1" zoomafteroutfov="20" zoomspeed="1.5" type="crossdissolve" zoomout="0" zoomoutpause="1"/>
+    <flyintransition speed="3.50" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" lockedwheel="0" speedwheel="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" contextprojections="0" sensitivity="8" dblclickfullscreen="0" hideabout="0" invertcontrol="1" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="1440" height="1440" overlap="1" levelbias="0.400" levelingroll="0">
+      <level width="1440" height="1440" predecode="0" preload="0"/>
+      <level width="720" height="720" predecode="0" preload="0"/>
+      <level width="360" height="360" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-5.368">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" scaletofit="1" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata author="" comment="" tags="Blue Lagoon" info="" description="" customnodeid="" title="" longitude="125.014175" heading="-5.368" altitude="79.49" datetime="13/04/2023 11:38" latitude="1.130617" nodeid="node7" copyright="" source=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" borderradius="1" borderalpha="1" width="180" height="20" border="1" background="1" bordercolor="0x000000" wordwrap="1" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="2" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node4}" id="Point01" pan="146.55" skinid="ht_node" tilt="0.63" description="" title="" target="$fwd" distance="57.904"/>
+      <hotspot url="{node5}" id="Point02" pan="147.58" skinid="ht_node" tilt="-3.21" description="" title="" target="$fwd" distance="40.7257"/>
+      <hotspot url="{node6}" id="Point03" pan="135" skinid="ht_node" tilt="-6" description="" title="" target="$fwd" distance="19.3467"/>
+      <hotspot url="{node3}" id="Point04" pan="136.57" skinid="ht_node" tilt="-2" description="" title="" target="$fwd" distance="49.1052"/>
+      <hotspot url="{node1}" id="Point05" pan="141.28" skinid="ht_node" tilt="-1" description="" title="" target="$fwd" distance="66.666"/>
+      <hotspot url="{node8}" id="Point06" pan="-16.99" skinid="ht_node" tilt="-2" description="" title="" target="$fwd" distance="40.2998"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="36" zoomin="2" softedge="0" zoomafterinfov="90" blendcolor="0x000000" blendtime="1.1" enabled="1" zoomafteroutfov="20" zoomspeed="1.5" type="crossdissolve" zoomout="0" zoomoutpause="1"/>
+    <flyintransition speed="3.50" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" lockedwheel="0" speedwheel="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" contextprojections="0" sensitivity="8" dblclickfullscreen="0" hideabout="0" invertcontrol="1" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelingpitch="-4" levelbiashidpi="1.000" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="1440" height="1440" overlap="1" levelbias="0.400" levelingroll="1">
+      <level width="1440" height="1440" predecode="0" preload="0"/>
+      <level width="720" height="720" predecode="0" preload="0"/>
+      <level width="360" height="360" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="43.0351">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" scaletofit="1" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata author="" comment="" tags="Blue Lagoon" info="" description="" customnodeid="" title="" longitude="125.014248" heading="43.0351" altitude="80.83" datetime="13/04/2023 11:40" latitude="1.130972" nodeid="node8" copyright="" source=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" borderradius="1" borderalpha="1" width="180" height="20" border="1" background="1" bordercolor="0x000000" wordwrap="1" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="2" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node7}" id="Point01" pan="212.42" skinid="ht_node" tilt="-2" description="" title="" target="$fwd" distance="40.2998"/>
+      <hotspot url="{node6}" id="Point02" pan="203.42" skinid="ht_node" tilt="-3" description="" title="" target="$fwd" distance="58.0948"/>
+      <hotspot url="{node5}" id="Point03" pan="205.98" skinid="ht_node" tilt="-1" description="" title="" target="$fwd" distance="80.3504"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="36" zoomin="2" softedge="0" zoomafterinfov="90" blendcolor="0x000000" blendtime="1.1" enabled="1" zoomafteroutfov="20" zoomspeed="1.5" type="crossdissolve" zoomout="0" zoomoutpause="1"/>
+    <flyintransition speed="3.50" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" lockedwheel="0" speedwheel="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" contextprojections="0" sensitivity="8" dblclickfullscreen="0" hideabout="0" invertcontrol="1" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <masternode>
+    <userdata author="" comment="" tags="" info="" description="" customnodeid="" title="" longitude="" heading="0" datetime="" latitude="" nodeid="master" copyright="" source=""/>
+  </masternode>
+</tour>
