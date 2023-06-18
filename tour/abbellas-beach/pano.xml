@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node5" appversion="6.1.11" apprev="18043">
+  <panorama id="node1">
+    <input width="1440" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" leveltilesize="510" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" levelbias="0.400">
+      <level width="1440" height="1440" preload="0" predecode="0"/>
+      <level width="720" height="720" preload="0" predecode="0"/>
+      <level width="360" height="360" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-70">
+      <start pan="-165.137" fov="70" projection="4" tilt="7.01701"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="270" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata description="" comment="" latitude="1.12894218" altitude="82.74" heading="-70" copyright="" title="" source="" nodeid="node1" author="" customnodeid="" datetime="14/04/2023 9:12" longitude="125.01238861" tags="Abbella's Beach" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" enabled="1" width="180" borderalpha="1" textalpha="1" wordwrap="1" backgroundalpha="1" height="20" background="1" backgroundcolor="0xffffff" border="1" borderradius="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node2}" description="" target="$fwd" pan="-149.46" distance="34.5341" title="" skinid="ht_node" id="Point01" tilt="-6"/>
+      <hotspot url="{node3}" description="" target="$fwd" pan="-175.3" distance="33.4974" title="" skinid="ht_node" id="Point02" tilt="-6"/>
+      <hotspot url="{node4}" description="" target="$fwd" pan="-156.88" distance="62.4545" title="" skinid="ht_node" id="Point03" tilt="-3"/>
+      <hotspot url="{node6}" description="" target="$fwd" pan="-162.14" distance="87.3243" title="" skinid="ht_node" id="Point04" tilt="-3"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" zoomoutpause="1" zoomspeed="1.5" zoomin="2" type="crossdissolve" zoomout="0" blendtime="1.1" zoomafterinfov="90" zoomafteroutfov="20" blendcolor="0x000000" zoomfov="36"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" rubberband="0" speedwheel="1" contextfullscreen="1" invertwheel="0" sensitivity="8" hideabout="0" invertcontrol="1" lockedmouse="0" contextprojections="0" lockedwheel="0" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input width="1440" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" leveltilesize="510" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" levelbias="0.400">
+      <level width="1440" height="1440" preload="0" predecode="0"/>
+      <level width="720" height="720" preload="0" predecode="0"/>
+      <level width="360" height="360" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="90">
+      <start pan="-14.2067" fov="70" projection="4" tilt="2.72835"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="270" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata description="" comment="" latitude="1.128999" altitude="76.10" heading="90" copyright="" title="" source="" nodeid="node2" author="" customnodeid="" datetime="14/04/2023 9:16" longitude="125.012694" tags="Abbella's Beach" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" enabled="1" width="180" borderalpha="1" textalpha="1" wordwrap="1" backgroundalpha="1" height="20" background="1" backgroundcolor="0xffffff" border="1" borderradius="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node1}" description="" target="$fwd" pan="191.54" distance="34.5341" title="" skinid="ht_node" id="Point01" tilt="-5"/>
+      <hotspot url="{node3}" description="" target="$fwd" pan="267.81" distance="13.51" title="" skinid="ht_node" id="Point02" tilt="-3"/>
+      <hotspot url="{node4}" description="" target="$fwd" pan="-355.766" distance="28.7405" title="" skinid="ht_node" id="Point03" tilt="2.95"/>
+      <hotspot url="{node5}" description="" target="$fwd" pan="-31" distance="53.1473" title="" skinid="ht_node" id="Point04" tilt="2"/>
+      <hotspot url="{node6}" description="" target="$fwd" pan="-5.36" distance="53.5973" title="" skinid="ht_node" id="Point05" tilt="4"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" zoomoutpause="1" zoomspeed="1.5" zoomin="2" type="crossdissolve" zoomout="0" blendtime="1.1" zoomafterinfov="90" zoomafteroutfov="20" blendcolor="0x000000" zoomfov="36"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" rubberband="0" speedwheel="1" contextfullscreen="1" invertwheel="0" sensitivity="8" hideabout="0" invertcontrol="1" lockedmouse="0" contextprojections="0" lockedwheel="0" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input width="1440" overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" leveltilesize="510" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" levelbias="0.400">
+      <level width="1440" height="1440" preload="0" predecode="0"/>
+      <level width="720" height="720" preload="0" predecode="0"/>
+      <level width="360" height="360" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="138">
+      <start pan="35.7999" fov="70" projection="4" tilt="3.297"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="270" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata description="" comment="" latitude="1.128878" altitude="75.33" heading="138" copyright="" title="" source="" nodeid="node3" author="" customnodeid="" datetime="14/04/2023 9:16" longitude="125.012683" tags="Abbella's Beach" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" enabled="1" width="180" borderalpha="1" textalpha="1" wordwrap="1" backgroundalpha="1" height="20" background="1" backgroundcolor="0xffffff" border="1" borderradius="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node1}" description="" target="$fwd" pan="215.7" distance="33.4974" title="" skinid="ht_node" id="Point01" tilt="-2"/>
+      <hotspot url="{node2}" description="" target="$fwd" pan="136.81" distance="13.51" title="" skinid="ht_node" id="Point02" tilt="-2"/>
+      <hotspot url="{node4}" description="" target="$fwd" pan="68.3722" distance="31.1517" title="" skinid="ht_node" id="Point03" tilt="-1.1"/>
+      <hotspot url="{node5}" description="" target="$fwd" pan="33.48" distance="49.0367" title="" skinid="ht_node" id="Point04" tilt="0"/>
+      <hotspot url="{node6}" description="" target="$fwd" pan="56.8" distance="55.2364" title="" skinid="ht_node" id="Point05" tilt="0"/>
+      <hotspot url="{node8}" description="" target="$fwd" pan="51.7774" distance="79.3278" title="" skinid="ht_node" id="Point06" tilt="0"/>
+      <hotspot url="{node10}" description="" target="$fwd" pan="73.9918" distance="78.9098" title="" skinid="ht_node" id="Point07" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" zoomoutpause="1" zoomspeed="1.5" zoomin="2" type="crossdissolve" zoomout="0" blendtime="1.1" zoomafterinfov="90" zoomafteroutfov="20" blendcolor="0x000000" zoomfov="36"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" rubberband="0" speedwheel="1" contextfullscreen="1" invertwheel="0" sensitivity="8" hideabout="0" invertcontrol="1" lockedmouse="0" contextprojections="0" lockedwheel="0" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input width="1440" overlap="1" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" leveltilesize="510" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" levelbias="0.400">
+      <level width="1440" height="1440" preload="0" predecode="0"/>
+      <level width="720" height="720" preload="0" predecode="0"/>
+      <level width="360" height="360" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="175.69">
+      <start pan="61.2286" fov="98.3008" projection="4" tilt="7.96162"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="270" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata description="" comment="" latitude="1.128963" altitude="73.61" heading="175.69" copyright="" title="" source="" nodeid="node4" author="" customnodeid="" datetime="14/04/2023 9:18" longitude="125.012950" tags="Abbella's Beach" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" enabled="1" width="180" borderalpha="1" textalpha="1" wordwrap="1" backgroundalpha="1" height="20" background="1" backgroundcolor="0xffffff" border="1" borderradius="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node3}" description="" target="$fwd" pan="283.35" distance="31.1517" title="" skinid="ht_node" id="Point03" tilt="-2"/>
+      <hotspot url="{node2}" description="" target="$fwd" pan="256.03" distance="28.7405" title="" skinid="ht_node" id="Point01" tilt="-0.76"/>
+      <hotspot url="{node1}" description="" target="$fwd" pan="267.82" distance="62.4545" title="" skinid="ht_node" id="Point02" tilt="2.16"/>
+      <hotspot url="{node5}" description="" target="$fwd" pan="33.58" distance="28.6018" title="" skinid="ht_node" id="Point04" tilt="-3"/>
+      <hotspot url="{node6}" description="" target="$fwd" pan="87.39" distance="24.9229" title="" skinid="ht_node" id="Point05" tilt="-1.96"/>
+      <hotspot url="{node7}" description="" target="$fwd" pan="79.3" distance="34.2751" title="" skinid="ht_node" id="Point06" tilt="-1"/>
+      <hotspot url="{node8}" description="" target="$fwd" pan="82.81" distance="49.6523" title="" skinid="ht_node" id="Point07" tilt="-1"/>
+      <hotspot url="{node9}" description="" target="$fwd" pan="100.79" distance="53.7752" title="" skinid="ht_node" id="Point08" tilt="-2"/>
+      <hotspot url="{node10}" description="" target="$fwd" pan="116.04" distance="48.298" title="" skinid="ht_node" id="Point09" tilt="-2"/>
+      <hotspot url="{node11}" description="" target="$fwd" pan="119.62" distance="36.0621" title="" skinid="ht_node" id="Point10" tilt="-4.67"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" zoomoutpause="1" zoomspeed="1.5" zoomin="2" type="crossdissolve" zoomout="0" blendtime="1.1" zoomafterinfov="90" zoomafteroutfov="20" blendcolor="0x000000" zoomfov="36"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" rubberband="0" speedwheel="1" contextfullscreen="1" invertwheel="0" sensitivity="8" hideabout="0" invertcontrol="1" lockedmouse="0" contextprojections="0" lockedwheel="0" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input width="1440" overlap="1" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" leveltilesize="510" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" levelbias="0.400">
+      <level width="1440" height="1440" preload="0" predecode="0"/>
+      <level width="720" height="720" preload="0" predecode="0"/>
+      <level width="360" height="360" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="44.4997">
+      <start pan="-4.96" fov="70.92" projection="4" tilt="11.04"/>
+      <flyin pan="0" fov="170" projection="12" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="270" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata description="" comment="" latitude="1.128760" altitude="74.28" heading="44.4997" copyright="" title="" source="" nodeid="node5" author="" customnodeid="" datetime="14/04/2023 9:19" longitude="125.013108" tags="Abbella's Beach" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" enabled="1" width="180" borderalpha="1" textalpha="1" wordwrap="1" backgroundalpha="1" height="20" background="1" backgroundcolor="0xffffff" border="1" borderradius="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node3}" description="" target="$fwd" pan="118.98" distance="49.0367" title="" skinid="ht_node" id="Point01" tilt="-2"/>
+      <hotspot url="{node4}" description="" target="$fwd" pan="81.89" distance="28.6018" title="" skinid="ht_node" id="Point02" tilt="-3.95"/>
+      <hotspot url="{node2}" description="" target="$fwd" pan="104.5" distance="53.1473" title="" skinid="ht_node" id="Point03" tilt="-1"/>
+      <hotspot url="{node6}" description="" target="$fwd" pan="23.71" distance="22.7855" title="" skinid="ht_node" id="Point04" tilt="-3"/>
+      <hotspot url="{node7}" description="" target="$fwd" pan="1.57" distance="23.9946" title="" skinid="ht_node" id="Point05" tilt="-2"/>
+      <hotspot url="{node8}" description="" target="$fwd" pan="-11.6" distance="36.8057" title="" skinid="ht_node" id="Point06" tilt="0"/>
+      <hotspot url="{node9}" description="" target="$fwd" pan="4.3" distance="50.1839" title="" skinid="ht_node" id="Point07" tilt="0"/>
+      <hotspot url="{node10}" description="" target="$fwd" pan="19.48" distance="53.2567" title="" skinid="ht_node" id="Point08" tilt="-0.59"/>
+      <hotspot url="{node11}" description="" target="$fwd" pan="36.17" distance="43.6798" title="" skinid="ht_node" id="Point09" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" zoomoutpause="1" zoomspeed="1.5" zoomin="2" type="crossdissolve" zoomout="0" blendtime="1.1" zoomafterinfov="90" zoomafteroutfov="20" blendcolor="0x000000" zoomfov="36"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" rubberband="0" speedwheel="1" contextfullscreen="1" invertwheel="0" sensitivity="8" hideabout="0" invertcontrol="1" lockedmouse="0" contextprojections="0" lockedwheel="0" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input width="1440" overlap="1" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" leveltilesize="510" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" levelbias="0.400">
+      <level width="1440" height="1440" preload="0" predecode="0"/>
+      <level width="720" height="720" preload="0" predecode="0"/>
+      <level width="360" height="360" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="155">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="270" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata description="" comment="" latitude="1.128954" altitude="70.34" heading="155" copyright="" title="" source="" nodeid="node6" author="" customnodeid="" datetime="14/04/2023 9:21" longitude="125.013174" tags="Abbella's Beach" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" enabled="1" width="180" borderalpha="1" textalpha="1" wordwrap="1" backgroundalpha="1" height="20" background="1" backgroundcolor="0xffffff" border="1" borderradius="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node5}" description="" target="$fwd" pan="316.21" distance="22.7855" title="" skinid="ht_node" id="Point01" tilt="-3"/>
+      <hotspot url="{node4}" description="" target="$fwd" pan="242.699" distance="24.9229" title="" skinid="ht_node" id="Point02" tilt="0"/>
+      <hotspot url="{node3}" description="" target="$fwd" pan="253.8" distance="55.2364" title="" skinid="ht_node" id="Point03" tilt="0"/>
+      <hotspot url="{node7}" description="" target="$fwd" pan="42.03" distance="9.85469" title="" skinid="ht_node" id="Point04" tilt="-9"/>
+      <hotspot url="{node8}" description="" target="$fwd" pan="67.52" distance="24.78" title="" skinid="ht_node" id="Point05" tilt="-4"/>
+      <hotspot url="{node9}" description="" target="$fwd" pan="100.06" distance="30.9056" title="" skinid="ht_node" id="Point06" tilt="-2"/>
+      <hotspot url="{node10}" description="" target="$fwd" pan="134.98" distance="30.8204" title="" skinid="ht_node" id="Point07" tilt="-4"/>
+      <hotspot url="{node11}" description="" target="$fwd" pan="167.397" distance="20.9097" title="" skinid="ht_node" id="Point08" tilt="-4.3"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" zoomoutpause="1" zoomspeed="1.5" zoomin="2" type="crossdissolve" zoomout="0" blendtime="1.1" zoomafterinfov="90" zoomafteroutfov="20" blendcolor="0x000000" zoomfov="36"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" rubberband="0" speedwheel="1" contextfullscreen="1" invertwheel="0" sensitivity="8" hideabout="0" invertcontrol="1" lockedmouse="0" contextprojections="0" lockedwheel="0" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input width="1440" overlap="1" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" leveltilesize="510" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" levelbias="0.400">
+      <level width="1440" height="1440" preload="0" predecode="0"/>
+      <level width="720" height="720" preload="0" predecode="0"/>
+      <level width="360" height="360" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="100">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="270" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata description="" comment="" latitude="1.128918" altitude="75.02" heading="100" copyright="" title="" source="" nodeid="node7" author="" customnodeid="" datetime="14/04/2023 9:22" longitude="125.013255" tags="Abbella's Beach" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" enabled="1" width="180" borderalpha="1" textalpha="1" wordwrap="1" backgroundalpha="1" height="20" background="1" backgroundcolor="0xffffff" border="1" borderradius="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node6}" description="" target="$fwd" pan="166.03" distance="9.85469" title="" skinid="ht_node" id="Point01" tilt="-15"/>
+      <hotspot url="{node5}" description="" target="$fwd" pan="241.07" distance="23.9946" title="" skinid="ht_node" id="Point02" tilt="-6"/>
+      <hotspot url="{node4}" description="" target="$fwd" pan="181.61" distance="34.2751" title="" skinid="ht_node" id="Point03" tilt="-6"/>
+      <hotspot url="{node3}" description="" target="$fwd" pan="197" distance="63.7465" title="" skinid="ht_node" id="Point04" tilt="-5"/>
+      <hotspot url="{node8}" description="" target="$fwd" pan="29.86" distance="15.5837" title="" skinid="ht_node" id="Point05" tilt="-2"/>
+      <hotspot url="{node9}" description="" target="$fwd" pan="67.55" distance="26.1898" title="" skinid="ht_node" id="Point06" tilt="-1"/>
+      <hotspot url="{node10}" description="" target="$fwd" pan="100.32" distance="31.0143" title="" skinid="ht_node" id="Point07" tilt="-4"/>
+      <hotspot url="{node11}" description="" target="$fwd" pan="131.98" distance="24.3587" title="" skinid="ht_node" id="Point08" tilt="-8"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" zoomoutpause="1" zoomspeed="1.5" zoomin="2" type="crossdissolve" zoomout="0" blendtime="1.1" zoomafterinfov="90" zoomafteroutfov="20" blendcolor="0x000000" zoomfov="36"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" rubberband="0" speedwheel="1" contextfullscreen="1" invertwheel="0" sensitivity="8" hideabout="0" invertcontrol="1" lockedmouse="0" contextprojections="0" lockedwheel="0" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input width="1440" overlap="1" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" leveltilesize="510" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" levelbias="0.400">
+      <level width="1440" height="1440" preload="0" predecode="0"/>
+      <level width="720" height="720" preload="0" predecode="0"/>
+      <level width="360" height="360" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-22">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="270" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata description="" comment="" latitude="1.128925" altitude="76.41" heading="-22" copyright="" title="" source="" nodeid="node8" author="" customnodeid="" datetime="14/04/2023 9:23" longitude="125.013395" tags="Abbella's Beach" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" enabled="1" width="180" borderalpha="1" textalpha="1" wordwrap="1" backgroundalpha="1" height="20" background="1" backgroundcolor="0xffffff" border="1" borderradius="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node5}" description="" target="$fwd" pan="97.9" distance="36.8057" title="" skinid="ht_node" id="Point01" tilt="-1"/>
+      <hotspot url="{node7}" description="" target="$fwd" pan="70.86" distance="15.5837" title="" skinid="ht_node" id="Point02" tilt="-2"/>
+      <hotspot url="{node6}" description="" target="$fwd" pan="59.52" distance="24.78" title="" skinid="ht_node" id="Point03" tilt="-1"/>
+      <hotspot url="{node9}" description="" target="$fwd" pan="-29.6389" distance="18.3993" title="" skinid="ht_node" id="Point04" tilt="0"/>
+      <hotspot url="{node10}" description="" target="$fwd" pan="-3.37" distance="30.4865" title="" skinid="ht_node" id="Point05" tilt="0.33"/>
+      <hotspot url="{node11}" description="" target="$fwd" pan="20.99" distance="30.0409" title="" skinid="ht_node" id="Point06" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" zoomoutpause="1" zoomspeed="1.5" zoomin="2" type="crossdissolve" zoomout="0" blendtime="1.1" zoomafterinfov="90" zoomafteroutfov="20" blendcolor="0x000000" zoomfov="36"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" rubberband="0" speedwheel="1" contextfullscreen="1" invertwheel="0" sensitivity="8" hideabout="0" invertcontrol="1" lockedmouse="0" contextprojections="0" lockedwheel="0" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input width="1440" overlap="1" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" leveltilesize="510" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" levelbias="0.400">
+      <level width="1440" height="1440" preload="0" predecode="0"/>
+      <level width="720" height="720" preload="0" predecode="0"/>
+      <level width="360" height="360" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-174.57">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="270" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata description="" comment="" latitude="1.129089" altitude="81.98" heading="-174.57" copyright="" title="" source="" nodeid="node9" author="" customnodeid="" datetime="14/04/2023 9:24" longitude="125.013417" tags="Abbella's Beach" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" enabled="1" width="180" borderalpha="1" textalpha="1" wordwrap="1" backgroundalpha="1" height="20" background="1" backgroundcolor="0xffffff" border="1" borderradius="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node6}" description="" target="$fwd" pan="-54.51" distance="30.9056" title="" skinid="ht_node" id="Point01" tilt="-3"/>
+      <hotspot url="{node7}" description="" target="$fwd" pan="-38.02" distance="26.1898" title="" skinid="ht_node" id="Point02" tilt="-1"/>
+      <hotspot url="{node4}" description="" target="$fwd" pan="-69.47" distance="53.7752" title="" skinid="ht_node" id="Point03" tilt="-1"/>
+      <hotspot url="{node2}" description="" target="$fwd" pan="-74.47" distance="80.9989" title="" skinid="ht_node" id="Point04" tilt="2"/>
+      <hotspot url="{node8}" description="" target="$fwd" pan="-5.21" distance="18.3993" title="" skinid="ht_node" id="Point05" tilt="-6"/>
+      <hotspot url="{node7}" description="" target="$fwd" pan="-32.02" distance="26.1898" title="" skinid="ht_node" id="Point06" tilt="-3"/>
+      <hotspot url="{node10}" description="" target="$fwd" pan="-130.74" distance="15.4126" title="" skinid="ht_node" id="Point07" tilt="-5"/>
+      <hotspot url="{node11}" description="" target="$fwd" pan="-98.05" distance="21.9496" title="" skinid="ht_node" id="Point08" tilt="-5"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" zoomoutpause="1" zoomspeed="1.5" zoomin="2" type="crossdissolve" zoomout="0" blendtime="1.1" zoomafterinfov="90" zoomafteroutfov="20" blendcolor="0x000000" zoomfov="36"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" rubberband="0" speedwheel="1" contextfullscreen="1" invertwheel="0" sensitivity="8" hideabout="0" invertcontrol="1" lockedmouse="0" contextprojections="0" lockedwheel="0" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input width="1440" overlap="1" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" leveltilesize="510" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" levelbias="0.400">
+      <level width="1440" height="1440" preload="0" predecode="0"/>
+      <level width="720" height="720" preload="0" predecode="0"/>
+      <level width="360" height="360" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="103">
+      <start pan="-107" fov="79.5315" projection="4" tilt="1.5225"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="270" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata description="" comment="" latitude="1.129189" altitude="71.75" heading="103" copyright="" title="" source="" nodeid="node10" author="" customnodeid="" datetime="14/04/2023 9:25" longitude="125.013321" tags="Abbella's Beach" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" enabled="1" width="180" borderalpha="1" textalpha="1" wordwrap="1" backgroundalpha="1" height="20" background="1" backgroundcolor="0xffffff" border="1" borderradius="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node6}" description="" target="$fwd" pan="250.98" distance="30.8204" title="" skinid="ht_node" id="Point01" tilt="-3.8"/>
+      <hotspot url="{node5}" description="" target="$fwd" pan="252.5" distance="53.2567" title="" skinid="ht_node" id="Point02" tilt="-1.26"/>
+      <hotspot url="{node7}" description="" target="$fwd" pan="271.32" distance="31.0143" title="" skinid="ht_node" id="Point03" tilt="-2"/>
+      <hotspot url="{node9}" description="" target="$fwd" pan="-33.17" distance="15.4126" title="" skinid="ht_node" id="Point04" tilt="-4"/>
+      <hotspot url="{node8}" description="" target="$fwd" pan="-63.34" distance="30.4865" title="" skinid="ht_node" id="Point05" tilt="-2"/>
+      <hotspot url="{node4}" description="" target="$fwd" pan="224.35" distance="48.298" title="" skinid="ht_node" id="Point06" tilt="-2"/>
+      <hotspot url="{node3}" description="" target="$fwd" pan="217.99" distance="78.9098" title="" skinid="ht_node" id="Point07" tilt="-2"/>
+      <hotspot url="{node2}" description="" target="$fwd" pan="209.86" distance="72.837" title="" skinid="ht_node" id="Point08" tilt="-1"/>
+      <hotspot url="{node11}" description="" target="$fwd" pan="222.36" distance="12.2458" title="" skinid="ht_node" id="Point09" tilt="-10"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" zoomoutpause="1" zoomspeed="1.5" zoomin="2" type="crossdissolve" zoomout="0" blendtime="1.1" zoomafterinfov="90" zoomafteroutfov="20" blendcolor="0x000000" zoomfov="36"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" rubberband="0" speedwheel="1" contextfullscreen="1" invertwheel="0" sensitivity="8" hideabout="0" invertcontrol="1" lockedmouse="0" contextprojections="0" lockedwheel="0" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input width="1440" overlap="1" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" leveltilesize="510" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" levelbias="0.400">
+      <level width="1440" height="1440" preload="0" predecode="0"/>
+      <level width="720" height="720" preload="0" predecode="0"/>
+      <level width="360" height="360" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="48.8921">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="270" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata description="" comment="" latitude="1.129135" altitude="79.45" heading="48.8921" copyright="" title="" source="" nodeid="node11" author="" customnodeid="" datetime="14/04/2023 9:26" longitude="125.013225" tags="Abbella's Beach" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" enabled="1" width="180" borderalpha="1" textalpha="1" wordwrap="1" backgroundalpha="1" height="20" background="1" backgroundcolor="0xffffff" border="1" borderradius="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node8}" description="" target="$fwd" pan="-92.12" distance="30.0409" title="" skinid="ht_node" id="Point01" tilt="-3"/>
+      <hotspot url="{node7}" description="" target="$fwd" pan="-121.24" distance="24.3587" title="" skinid="ht_node" id="Point02" tilt="-4"/>
+      <hotspot url="{node9}" description="" target="$fwd" pan="-57.58" distance="21.9496" title="" skinid="ht_node" id="Point03" tilt="-4"/>
+      <hotspot url="{node10}" description="" target="$fwd" pan="-11.75" distance="12.2458" title="" skinid="ht_node" id="Point04" tilt="-7"/>
+      <hotspot url="{node6}" description="" target="$fwd" pan="216.16" distance="20.9097" title="" skinid="ht_node" id="Point05" tilt="-6"/>
+      <hotspot url="{node5}" description="" target="$fwd" pan="209.57" distance="43.6798" title="" skinid="ht_node" id="Point06" tilt="-2"/>
+      <hotspot url="{node4}" description="" target="$fwd" pan="170.92" distance="36.0621" title="" skinid="ht_node" id="Point07" tilt="-4"/>
+      <hotspot url="{node3}" description="" target="$fwd" pan="164.27" distance="66.6891" title="" skinid="ht_node" id="Point08" tilt="-3"/>
+      <hotspot url="{node2}" description="" target="$fwd" pan="153.26" distance="60.9392" title="" skinid="ht_node" id="Point09" tilt="-2"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" zoomoutpause="1" zoomspeed="1.5" zoomin="2" type="crossdissolve" zoomout="0" blendtime="1.1" zoomafterinfov="90" zoomafteroutfov="20" blendcolor="0x000000" zoomfov="36"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" rubberband="0" speedwheel="1" contextfullscreen="1" invertwheel="0" sensitivity="8" hideabout="0" invertcontrol="1" lockedmouse="0" contextprojections="0" lockedwheel="0" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0"/>
+  </panorama>
+  <masternode>
+    <userdata description="" comment="" latitude="" heading="0" copyright="" title="" source="" nodeid="master" author="" customnodeid="" datetime="" longitude="" tags="" info=""/>
+  </masternode>
+</tour>
