@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.11" start="node10" apprev="18043">
+  <panorama id="node1">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-65.7543">
+      <start projection="4" fov="72.0817" pan="132.552" tilt="12.2118"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.192577" title="" author="" nodeid="node1" datetime="17/04/2023 12:59" description="" longitude="125.037243" altitude="62.09" comment="" customnodeid="" source="" tags="Makisanti Beach" heading="-65.7543"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="28.6854" tilt="0" description="" url="{node2}" distance="24.4197" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="-97.115" tilt="-7.15" description="" url="{node3}" distance="10.3477" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="82.7034" tilt="-5.48" description="" url="{node4}" distance="26.6654" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="121.469" tilt="-5.83" description="" url="{node5}" distance="29.2239" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="94.4312" tilt="9.17" description="" url="{node7}" distance="51.3283" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="79.9187" tilt="8.68" description="" url="{node8}" distance="50.3274" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point07" title="" pan="109.924" tilt="1.13" description="" url="{node9}" distance="42.1946" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point08" title="" pan="97.7771" tilt="-2.07" description="" url="{node10}" distance="38.5194" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point09" title="" pan="66.7295" tilt="0" description="" url="{node11}" distance="35.7269" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point10" title="" pan="-186.288" tilt="-5.64" description="" url="{node12}" distance="14.812" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="98.7587">
+      <start projection="4" fov="70" pan="-5.09494" tilt="3.2095"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.192560" title="" author="" nodeid="node2" datetime="17/04/2023 13:00" description="" longitude="125.037024" altitude="71.91" comment="" customnodeid="" source="" tags="Makisanti Beach" heading="98.7587"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="13.2" tilt="-15" description="" url="{node1}" distance="24.4197" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="40.8642" tilt="-6.98" description="" url="{node3}" distance="28.5982" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="-55.2512" tilt="-9.37" description="" url="{node4}" distance="17.0619" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="-35.051" tilt="-5.33" description="" url="{node5}" distance="32.3201" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="-52.3649" tilt="-0.17" description="" url="{node9}" distance="39.6961" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="-58.2455" tilt="-4.17" description="" url="{node10}" distance="31.3249" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point07" title="" pan="-2.59" tilt="-6" description="" url="{node12}" distance="36.7374" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltilesize="510" width="1440" levelingpitch="4" levelingroll="4" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-8.41119">
+      <start projection="4" fov="70" pan="138.78" tilt="10.7674"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.192669" title="" author="" nodeid="node3" datetime="17/04/2023 13:01" description="" longitude="125.037257" altitude="77.21" comment="" customnodeid="" source="" tags="Makisanti Beach" heading="-8.41119"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="131.17" tilt="-2.84" description="" url="{node1}" distance="10.3477" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="107.054" tilt="3.53" description="" url="{node2}" distance="28.5982" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="135.16" tilt="2" description="" url="{node4}" distance="35.3805" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="153.678" tilt="1.35" description="" url="{node5}" distance="39.5579" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="159.949" tilt="0" description="" url="{node6}" distance="63.9172" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="139.831" tilt="11.13" description="" url="{node7}" distance="60.6991" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point07" title="" pan="131.5" tilt="12" description="" url="{node8}" distance="58.8657" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point08" title="" pan="149.249" tilt="5.05" description="" url="{node9}" distance="52.4213" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point09" title="" pan="141.339" tilt="3.68" description="" url="{node10}" distance="48.234" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point10" title="" pan="-160.81" tilt="-5" description="" url="{node12}" distance="21.8331" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="74.8987">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.192413" title="" author="" nodeid="node4" datetime="17/04/2023 13:02" description="" longitude="125.037068" altitude="74.20" comment="" customnodeid="" source="" tags="Makisanti Beach" heading="74.8987"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="38.47" tilt="-7" description="" url="{node3}" distance="35.3805" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="35.6364" tilt="-12.74" description="" url="{node1}" distance="26.6654" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="87.1988" tilt="-4.9" description="" url="{node2}" distance="17.0619" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="-52.88" tilt="-12" description="" url="{node5}" distance="16.8792" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="236.417" tilt="21.28" description="" url="{node7}" distance="25.6197" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="-83.6898" tilt="0.35" description="" url="{node9}" distance="22.6357" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point07" title="" pan="270.86" tilt="-6.24" description="" url="{node10}" distance="14.6883" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point08" title="" pan="176.26" tilt="3.72" description="" url="{node11}" distance="9.06858" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point09" title="" pan="1.23" tilt="-8" description="" url="{node12}" distance="32.4358" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-15.4673">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.192320" title="" author="" nodeid="node5" datetime="17/04/2023 13:02" description="" longitude="125.037188" altitude="78.01" comment="" customnodeid="" source="" tags="Makisanti Beach" heading="-15.4673"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="-26.65" tilt="-7" description="" url="{node3}" distance="39.5579" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="-8.13429" tilt="-11.07" description="" url="{node1}" distance="29.2239" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="20.733" tilt="-4.84" description="" url="{node2}" distance="32.3201" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="39.841" tilt="-9.52" description="" url="{node4}" distance="16.8792" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="152.15" tilt="-2" description="" url="{node6}" distance="24.3626" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="116.185" tilt="17.81" description="" url="{node7}" distance="27.3559" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point07" title="" pan="97.1488" tilt="14.61" description="" url="{node8}" distance="30.873" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point08" title="" pan="132.28" tilt="4" description="" url="{node9}" distance="13.5421" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point09" title="" pan="87.8141" tilt="-5.61" description="" url="{node10}" distance="14.5573" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point10" title="" pan="62.1347" tilt="0" description="" url="{node11}" distance="20.7162" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point11" title="" pan="-57.9" tilt="-9" description="" url="{node12}" distance="26.3637" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" fov="70" pan="144.449" tilt="2.22318"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.192106" title="" author="" nodeid="node6" datetime="17/04/2023 13:03" description="" longitude="125.037141" altitude="76.04" comment="" customnodeid="" source="" tags="Makisanti Beach" heading="0"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="-12.38" tilt="-6" description="" url="{node5}" distance="24.3626" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="-17.6998" tilt="-3.72" description="" url="{node3}" distance="63.9172" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="60.03" tilt="16" description="" url="{node7}" distance="21.8156" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="9.20907" tilt="0" description="" url="{node9}" distance="12.5038" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="-28.01" tilt="-3" description="" url="{node12}" distance="48.9954" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input leveltilesize="510" width="1440" levelingpitch="6" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-132.626">
+      <start projection="4" fov="70" pan="144.229" tilt="-0.918642"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.192204" title="" author="" nodeid="node7" datetime="17/04/2023 13:05" description="" longitude="125.036971" altitude="69.25" comment="" customnodeid="" source="" tags="Makisanti Beach" heading="-132.626"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="-252.59" tilt="-32" description="" url="{node6}" distance="21.8156" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="-168.72" tilt="-9" description="" url="{node1}" distance="51.3283" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="-168.72" tilt="-16" description="" url="{node1}" distance="51.3283" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="-190.34" tilt="-19.89" description="" url="{node5}" distance="27.3559" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="-142.11" tilt="-6.17" description="" url="{node2}" distance="40.0215" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="-90.12" tilt="-6" description="" url="{node8}" distance="9.04972" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point07" title="" pan="-201.957" tilt="-25.38" description="" url="{node9}" distance="16.9597" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point08" title="" pan="-135.539" tilt="-9.82" description="" url="{node11}" distance="17.7774" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point09" title="" pan="-195.716" tilt="-13.94" description="" url="{node12}" distance="52.9489" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-111.956">
+      <start projection="4" fov="70" pan="160.218" tilt="5.45299"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.192264" title="" author="" nodeid="node8" datetime="17/04/2023 13:06" description="" longitude="125.036916" altitude="81.19" comment="" customnodeid="" source="" tags="Makisanti Beach" heading="-111.956"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="-249.45" tilt="-12" description="" url="{node7}" distance="9.04972" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="-234.569" tilt="-13.2" description="" url="{node6}" distance="30.5669" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="-190.32" tilt="-16" description="" url="{node5}" distance="30.873" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="-215.131" tilt="-15.61" description="" url="{node9}" distance="23.5983" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="-155.1" tilt="-24" description="" url="{node11}" distance="14.6307" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-10.1437">
+      <start projection="4" fov="70" pan="-20.6008" tilt="2.71334"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.192217" title="" author="" nodeid="node9" datetime="17/04/2023 13:08" description="" longitude="125.037123" altitude="77.42" comment="" customnodeid="" source="" tags="Makisanti Beach" heading="-10.1437"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="-180.935" tilt="0" description="" url="{node6}" distance="12.5038" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="-26.65" tilt="-5" description="" url="{node3}" distance="52.4213" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="-15.4949" tilt="-7.72" description="" url="{node1}" distance="42.1946" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="-42.39" tilt="-22" description="" url="{node5}" distance="13.5421" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="9.23784" tilt="-10.38" description="" url="{node4}" distance="22.6357" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="8.48271" tilt="-3.71" description="" url="{node2}" distance="39.6961" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point07" title="" pan="103.646" tilt="11.14" description="" url="{node7}" distance="16.9597" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point08" title="" pan="76.1513" tilt="11.04" description="" url="{node8}" distance="23.5983" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point09" title="" pan="22.5725" tilt="-13.66" description="" url="{node10}" distance="9.75379" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point10" title="" pan="29.1396" tilt="0" description="" url="{node11}" distance="20.5431" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point11" title="" pan="-49.12" tilt="-7" description="" url="{node12}" distance="39.7648" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="49.0468">
+      <start projection="4" fov="98.3" pan="-0.36" tilt="5.16"/>
+      <flyin projection="12" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.192281" title="" author="" nodeid="node10" datetime="17/04/2023 13:09" description="" longitude="125.037063" altitude="74.73" comment="" customnodeid="" source="" tags="Makisanti Beach" heading="49.0468"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="57" tilt="-4" description="" url="{node2}" distance="31.3249" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="46.88" tilt="-16" description="" url="{node4}" distance="14.6883" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="17.75" tilt="-2" description="" url="{node1}" distance="38.5194" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="-32.5917" tilt="-21.41" description="" url="{node5}" distance="14.5573" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="24.9282" tilt="-7.17" description="" url="{node1}" distance="38.5194" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="-100.827" tilt="-12.39" description="" url="{node9}" distance="9.75379" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point07" title="" pan="-116.785" tilt="-6.83" description="" url="{node6}" distance="21.3037" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point08" title="" pan="180.381" tilt="30.26" description="" url="{node7}" distance="13.3384" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point09" title="" pan="91.3621" tilt="-1.8" description="" url="{node11}" distance="10.8314" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point10" title="" pan="-4.05" tilt="-3" description="" url="{node12}" distance="39.6244" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node11">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="101.529">
+      <start projection="4" fov="70" pan="17.6389" tilt="-2.30396"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.192360" title="" author="" nodeid="node11" datetime="17/04/2023 13:11" description="" longitude="125.037006" altitude="80.94" comment="" customnodeid="" source="" tags="Makisanti Beach" heading="101.529"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="35.7802" tilt="-31.61" description="" url="{node4}" distance="9.06858" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="62.45" tilt="-8" description="" url="{node3}" distance="44.2627" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="56.0428" tilt="-13.89" description="" url="{node1}" distance="35.7269" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="96.39" tilt="-14" description="" url="{node2}" distance="22.3288" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="-0.55" tilt="-12.88" description="" url="{node5}" distance="20.7162" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="-25.1757" tilt="-16.16" description="" url="{node10}" distance="10.8314" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point07" title="" pan="-35.7757" tilt="-6.68" description="" url="{node6}" distance="31.9834" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point08" title="" pan="-26.4577" tilt="-8.55" description="" url="{node9}" distance="20.5431" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point09" title="" pan="287.156" tilt="7.18" description="" url="{node7}" distance="17.7774" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point10" title="" pan="259.553" tilt="7.8" description="" url="{node8}" distance="14.6307" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point11" title="" pan="33.07" tilt="-8" description="" url="{node12}" distance="40.8766" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node12">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-59.588">
+      <start projection="4" fov="70" pan="116.034" tilt="1.28559"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.192495" title="" author="" nodeid="node12" datetime="17/04/2023 13:15" description="" longitude="125.037348" altitude="75.72" comment="" customnodeid="" source="" tags="Makisanti Beach" heading="-59.588"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="51.96" tilt="7" description="" url="{node11}" distance="40.8766" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="-31.98" tilt="5" description="" url="{node3}" distance="21.8331" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="-341.662" tilt="2.93" description="" url="{node1}" distance="14.812" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="24.3057" tilt="6.63" description="" url="{node2}" distance="36.7374" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="92.4" tilt="3" description="" url="{node6}" distance="48.9954" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="75.5719" tilt="10.94" description="" url="{node7}" distance="52.9489" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point07" title="" pan="82.5419" tilt="3.12" description="" url="{node5}" distance="26.3637" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point08" title="" pan="67.32" tilt="4" description="" url="{node10}" distance="39.6244" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" info="" latitude="" title="" author="" nodeid="master" datetime="" description="" longitude="" comment="" customnodeid="" source="" tags="" heading="0"/>
+  </masternode>
+</tour>

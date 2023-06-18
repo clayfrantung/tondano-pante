@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node11" apprev="18043" appversion="6.1.11">
+  <panorama id="node1">
+    <input levelingroll="0" overlap="1" height="1440" width="1440" leveltilesize="510" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level predecode="0" height="1440" width="1440" preload="0"/>
+      <level predecode="0" height="720" width="720" preload="0"/>
+      <level predecode="1" height="360" width="360" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="60" fovmode="0">
+      <start tilt="4.11" fov="76.35" projection="4" pan="-36.72"/>
+      <flyin tilt="-90" fov="170" projection="12" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max scaletofit="1" tilt="90" fov="120" fovstereographic="270" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata source="" description="" copyright="" author="" title="" info="" comment="" longitude="125.03290283" customnodeid="" latitude="1.17763177" nodeid="node1" heading="60" datetime="17/04/2023 15:14" tags="Kabesaran Beach"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" textalpha="1" backgroundalpha="1" borderradius="1" borderalpha="1" height="20" background="1" wordwrap="1" width="180" enabled="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="2" handcursor="1"/>
+      <hotspot tilt="-6.61" skinid="ht_node" description="" title="" target="$fwd" url="{node2}" pan="-27.3927" distance="58.2201" id="Point01"/>
+      <hotspot tilt="-12.67" skinid="ht_info" description="" title="Pintu Masuk" target="" url="" pan="-33.83" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomin="2" blendcolor="0x000000" zoomout="0" blendtime="1.1" zoomfov="36" type="crossdissolve" enabled="1" zoomspeed="1.5" zoomafterinfov="90" softedge="10" zoomoutpause="0"/>
+    <flyintransition speed="3.50" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" dblclickfullscreen="0" lockedkeyboard="0" lockedkeyboardzoom="0" invertwheel="0" hideabout="0" rubberband="0" lockedmouse="0" lockedwheel="0" sensitivity="8" contextfullscreen="1" invertcontrol="1" simulatemass="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingroll="0" overlap="1" height="1440" width="1440" leveltilesize="510" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level predecode="0" height="1440" width="1440" preload="0"/>
+      <level predecode="0" height="720" width="720" preload="0"/>
+      <level predecode="1" height="360" width="360" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-110.542" fovmode="0">
+      <start tilt="3.82833" fov="76.3537" projection="4" pan="104.315"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max scaletofit="1" tilt="90" fov="120" fovstereographic="270" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata source="" description="" copyright="" author="" title="" info="" comment="" longitude="125.03342495" customnodeid="" latitude="1.17767237" nodeid="node2" heading="-110.542" datetime="17/04/2023 15:15" tags="Kabesaran Beach" altitude="83.32"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" textalpha="1" backgroundalpha="1" borderradius="1" borderalpha="1" height="20" background="1" wordwrap="1" width="180" enabled="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="2" handcursor="1"/>
+      <hotspot tilt="-1.25" skinid="ht_node" description="" title="" target="$fwd" url="{node1}" pan="-18.6237" distance="58.2201" id="Point01"/>
+      <hotspot tilt="-9.69" skinid="ht_node" description="" title="" target="$fwd" url="{node3}" pan="-198.583" distance="28.1714" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomin="2" blendcolor="0x000000" zoomout="0" blendtime="1.1" zoomfov="36" type="crossdissolve" enabled="1" zoomspeed="1.5" zoomafterinfov="90" softedge="10" zoomoutpause="0"/>
+    <flyintransition speed="3.50" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" dblclickfullscreen="0" lockedkeyboard="0" lockedkeyboardzoom="0" invertwheel="0" hideabout="0" rubberband="0" lockedmouse="0" lockedwheel="0" sensitivity="8" contextfullscreen="1" invertcontrol="1" simulatemass="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelingroll="0" overlap="1" height="1440" width="1440" leveltilesize="510" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level predecode="0" height="1440" width="1440" preload="0"/>
+      <level predecode="0" height="720" width="720" preload="0"/>
+      <level predecode="1" height="360" width="360" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-33.6663" fovmode="0">
+      <start tilt="3.05681" fov="76.3537" projection="4" pan="170.426"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max scaletofit="1" tilt="90" fov="120" fovstereographic="270" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata source="" description="" copyright="" author="" title="" info="" comment="" longitude="125.03367707" customnodeid="" latitude="1.17764689" nodeid="node3" heading="-33.6663" datetime="17/04/2023 15:16" tags="Kabesaran Beach" altitude="79.62"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" textalpha="1" backgroundalpha="1" borderradius="1" borderalpha="1" height="20" background="1" wordwrap="1" width="180" enabled="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="2" handcursor="1"/>
+      <hotspot tilt="-3.27" skinid="ht_node" description="" title="" target="$fwd" url="{node2}" pan="36.5788" distance="28.1714" id="Point01"/>
+      <hotspot tilt="-8.99" skinid="ht_node" description="" title="" target="$fwd" url="{node4}" pan="-215.688" distance="41.5666" id="Point02"/>
+      <hotspot tilt="2.59" skinid="ht_node" description="" title="" target="$fwd" url="{node6}" pan="-200.218" distance="72.6936" id="Point03"/>
+      <hotspot tilt="-7.21" skinid="ht_node" description="" title="" target="$fwd" url="{node13}" pan="-114.304" distance="20.1004" id="Point05"/>
+      <hotspot tilt="0" skinid="ht_node" description="" title="" target="$fwd" url="{node11}" pan="-166.245" distance="27.9202" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomin="2" blendcolor="0x000000" zoomout="0" blendtime="1.1" zoomfov="36" type="crossdissolve" enabled="1" zoomspeed="1.5" zoomafterinfov="90" softedge="10" zoomoutpause="0"/>
+    <flyintransition speed="3.50" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" dblclickfullscreen="0" lockedkeyboard="0" lockedkeyboardzoom="0" invertwheel="0" hideabout="0" rubberband="0" lockedmouse="0" lockedwheel="0" sensitivity="8" contextfullscreen="1" invertcontrol="1" simulatemass="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingroll="0" overlap="1" height="1440" width="1440" leveltilesize="510" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level predecode="0" height="1440" width="1440" preload="0"/>
+      <level predecode="0" height="720" width="720" preload="0"/>
+      <level predecode="1" height="360" width="360" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="210.482" fovmode="0">
+      <start tilt="17.6502" fov="102.551" projection="4" pan="164.723"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max scaletofit="1" tilt="90" fov="120" fovstereographic="270" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata source="" description="" copyright="" author="" title="" info="" comment="" longitude="125.033806" customnodeid="" latitude="1.177296" nodeid="node4" heading="210.482" datetime="17/04/2023 15:17" tags="Kabesaran Beach" altitude="73.34"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" textalpha="1" backgroundalpha="1" borderradius="1" borderalpha="1" height="20" background="1" wordwrap="1" width="180" enabled="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="2" handcursor="1"/>
+      <hotspot tilt="6.47" skinid="ht_node" description="" title="" target="$fwd" url="{node3}" pan="233.113" distance="41.5666" id="Point01"/>
+      <hotspot tilt="7.23" skinid="ht_node" description="" title="" target="$fwd" url="{node13}" pan="205.593" distance="42.9346" id="Point02"/>
+      <hotspot tilt="3.53" skinid="ht_info" description="" title="Toilet" target="_blank" url="" pan="-50.1" id="Point03"/>
+      <hotspot tilt="-3.82" skinid="ht_node" description="" title="" target="$fwd" url="{node7}" pan="127.818" distance="23.8691" id="Point03"/>
+      <hotspot tilt="7" skinid="ht_node" description="" title="" target="$fwd" url="{node6}" pan="77.92" distance="33.2068" id="Point04"/>
+      <hotspot tilt="-8" skinid="ht_node" description="" title="" target="$fwd" url="{node11}" pan="193.29" distance="21.0672" id="Point02"/>
+      <hotspot tilt="-2.43" skinid="ht_node" description="" title="" target="$fwd" url="{node10}" pan="183.64" distance="44.7553" id="Point05"/>
+      <hotspot tilt="-3.53" skinid="ht_node" description="" title="" target="$fwd" url="{node8}" pan="159.866" distance="31.7476" id="Point06"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomin="2" blendcolor="0x000000" zoomout="0" blendtime="1.1" zoomfov="36" type="crossdissolve" enabled="1" zoomspeed="1.5" zoomafterinfov="90" softedge="10" zoomoutpause="0"/>
+    <flyintransition speed="3.50" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" dblclickfullscreen="0" lockedkeyboard="0" lockedkeyboardzoom="0" invertwheel="0" hideabout="0" rubberband="0" lockedmouse="0" lockedwheel="0" sensitivity="8" contextfullscreen="1" invertcontrol="1" simulatemass="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelingroll="0" overlap="1" height="1440" width="1440" leveltilesize="510" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level predecode="0" height="1440" width="1440" preload="0"/>
+      <level predecode="0" height="720" width="720" preload="0"/>
+      <level predecode="1" height="360" width="360" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="180" fovmode="0">
+      <start tilt="7.04432" fov="98.3008" projection="4" pan="-155.891"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max scaletofit="1" tilt="90" fov="120" fovstereographic="270" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata source="" description="" copyright="" author="" title="" info="" comment="" longitude="125.034026" customnodeid="" latitude="1.177094" nodeid="node6" heading="180" datetime="17/04/2023 15:19" tags="Kabesaran Beach" altitude="81.64"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" textalpha="1" backgroundalpha="1" borderradius="1" borderalpha="1" height="20" background="1" wordwrap="1" width="180" enabled="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="2" handcursor="1"/>
+      <hotspot tilt="-14" skinid="ht_node" description="" title="" target="$fwd" url="{node4}" pan="232.44" distance="33.2068" id="Point01"/>
+      <hotspot tilt="-19" skinid="ht_node" description="" title="" target="$fwd" url="{node7}" pan="175.75" distance="25.4755" id="Point01"/>
+      <hotspot tilt="-9" skinid="ht_node" description="" title="" target="$fwd" url="{node8}" pan="177.96" distance="37.9531" id="Point03"/>
+      <hotspot tilt="0" skinid="ht_node" description="" title="" target="$fwd" url="{node2}" pan="221.1" distance="92.7409" id="Point02"/>
+      <hotspot tilt="2" skinid="ht_node" description="" title="" target="$fwd" url="{node1}" pan="246.41" distance="138.444" id="Point04"/>
+      <hotspot tilt="-11" skinid="ht_node" description="" title="" target="$fwd" url="{node11}" pan="208.18" distance="46.3262" id="Point01"/>
+      <hotspot tilt="0" skinid="ht_node" description="" title="" target="$fwd" url="{node13}" pan="199.29" distance="67.77" id="Point05"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomin="2" blendcolor="0x000000" zoomout="0" blendtime="1.1" zoomfov="36" type="crossdissolve" enabled="1" zoomspeed="1.5" zoomafterinfov="90" softedge="10" zoomoutpause="0"/>
+    <flyintransition speed="3.50" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" dblclickfullscreen="0" lockedkeyboard="0" lockedkeyboardzoom="0" invertwheel="0" hideabout="0" rubberband="0" lockedmouse="0" lockedwheel="0" sensitivity="8" contextfullscreen="1" invertcontrol="1" simulatemass="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelingroll="0" overlap="1" height="1440" width="1440" leveltilesize="510" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level predecode="0" height="1440" width="1440" preload="0"/>
+      <level predecode="0" height="720" width="720" preload="0"/>
+      <level predecode="1" height="360" width="360" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="128.577" fovmode="0">
+      <start tilt="7.58013" fov="70" projection="4" pan="149.606"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max scaletofit="1" tilt="90" fov="120" fovstereographic="270" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata source="" description="" copyright="" author="" title="" info="" comment="" longitude="125.034019" customnodeid="" latitude="1.177323" nodeid="node7" heading="128.577" datetime="17/04/2023 15:20" tags="Kabesaran Beach" altitude="74.32"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" textalpha="1" backgroundalpha="1" borderradius="1" borderalpha="1" height="20" background="1" wordwrap="1" width="180" enabled="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="2" handcursor="1"/>
+      <hotspot tilt="10" skinid="ht_node" description="" title="" target="$fwd" url="{node6}" pan="-49.67" distance="25.4755" id="Point01"/>
+      <hotspot tilt="-1.34" skinid="ht_node" description="" title="" target="$fwd" url="{node4}" pan="235.433" distance="23.8691" id="Point03"/>
+      <hotspot tilt="-4" skinid="ht_node" description="" title="" target="$fwd" url="{node11}" pan="181.12" distance="24.4514" id="Point04"/>
+      <hotspot tilt="-8.99" skinid="ht_node" description="" title="" target="$fwd" url="{node8}" pan="128.1" distance="13.01" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomin="2" blendcolor="0x000000" zoomout="0" blendtime="1.1" zoomfov="36" type="crossdissolve" enabled="1" zoomspeed="1.5" zoomafterinfov="90" softedge="10" zoomoutpause="0"/>
+    <flyintransition speed="3.50" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" dblclickfullscreen="0" lockedkeyboard="0" lockedkeyboardzoom="0" invertwheel="0" hideabout="0" rubberband="0" lockedmouse="0" lockedwheel="0" sensitivity="8" contextfullscreen="1" invertcontrol="1" simulatemass="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelingroll="0" overlap="1" height="1440" width="1440" leveltilesize="510" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level predecode="0" height="1440" width="1440" preload="0"/>
+      <level predecode="0" height="720" width="720" preload="0"/>
+      <level predecode="1" height="360" width="360" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="90" fovmode="0">
+      <start tilt="26.593" fov="120" projection="4" pan="119.885"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max scaletofit="1" tilt="90" fov="120" fovstereographic="270" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata source="" description="" copyright="" author="" title="" info="" comment="" longitude="125.034056" customnodeid="" latitude="1.177434" nodeid="node8" heading="90" datetime="17/04/2023 15:21" tags="Kabesaran Beach" altitude="73.75"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" textalpha="1" backgroundalpha="1" borderradius="1" borderalpha="1" height="20" background="1" wordwrap="1" width="180" enabled="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="2" handcursor="1"/>
+      <hotspot tilt="-5.58" skinid="ht_node" description="" title="" target="$fwd" url="{node7}" pan="260.409" distance="13.01" id="Point02"/>
+      <hotspot tilt="0" skinid="ht_node" description="" title="" target="$fwd" url="{node4}" pan="208.904" distance="31.7476" id="Point01"/>
+      <hotspot tilt="-3.99" skinid="ht_node" description="" title="" target="$fwd" url="{node9}" pan="89.33" distance="32.1448" id="Point03"/>
+      <hotspot tilt="-5" skinid="ht_node" description="" title="" target="$fwd" url="{node11}" pan="167.5" distance="22.0909" id="Point04"/>
+      <hotspot tilt="-4" skinid="ht_node" description="" title="" target="$fwd" url="{node10}" pan="118.51" distance="29.2079" id="Point05"/>
+      <hotspot tilt="6.87" skinid="ht_node" description="" title="" target="$fwd" url="{node13}" pan="133.29" distance="35.2347" id="Point06"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomin="2" blendcolor="0x000000" zoomout="0" blendtime="1.1" zoomfov="36" type="crossdissolve" enabled="1" zoomspeed="1.5" zoomafterinfov="90" softedge="10" zoomoutpause="0"/>
+    <flyintransition speed="3.50" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" dblclickfullscreen="0" lockedkeyboard="0" lockedkeyboardzoom="0" invertwheel="0" hideabout="0" rubberband="0" lockedmouse="0" lockedwheel="0" sensitivity="8" contextfullscreen="1" invertcontrol="1" simulatemass="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelingroll="0" overlap="1" height="1440" width="1440" leveltilesize="510" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level predecode="0" height="1440" width="1440" preload="0"/>
+      <level predecode="0" height="720" width="720" preload="0"/>
+      <level predecode="1" height="360" width="360" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="42.3387" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max scaletofit="1" tilt="90" fov="120" fovstereographic="270" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata source="" description="" copyright="" author="" title="" info="" comment="" longitude="125.034049" customnodeid="" latitude="1.177723" nodeid="node9" heading="42.3387" datetime="17/04/2023 15:22" tags="Kabesaran Beach" altitude="70.51"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" textalpha="1" backgroundalpha="1" borderradius="1" borderalpha="1" height="20" background="1" wordwrap="1" width="180" enabled="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="2" handcursor="1"/>
+      <hotspot tilt="-4.24" skinid="ht_node" description="" title="" target="$fwd" url="{node8}" pan="-134.604" distance="32.1448" id="Point01"/>
+      <hotspot tilt="9" skinid="ht_node" description="" title="" target="$fwd" url="{node13}" pan="145.12" distance="22.1152" id="Point02"/>
+      <hotspot tilt="-2" skinid="ht_node" description="" title="" target="$fwd" url="{node4}" pan="193.7" distance="54.6275" id="Point03"/>
+      <hotspot tilt="-8" skinid="ht_node" description="" title="" target="$fwd" url="{node10}" pan="174.46" distance="12.6291" id="Point04"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomin="2" blendcolor="0x000000" zoomout="0" blendtime="1.1" zoomfov="36" type="crossdissolve" enabled="1" zoomspeed="1.5" zoomafterinfov="90" softedge="10" zoomoutpause="0"/>
+    <flyintransition speed="3.50" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" dblclickfullscreen="0" lockedkeyboard="0" lockedkeyboardzoom="0" invertwheel="0" hideabout="0" rubberband="0" lockedmouse="0" lockedwheel="0" sensitivity="8" contextfullscreen="1" invertcontrol="1" simulatemass="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelingroll="0" overlap="1" height="1440" width="1440" leveltilesize="510" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level predecode="0" height="1440" width="1440" preload="0"/>
+      <level predecode="0" height="720" width="720" preload="0"/>
+      <level predecode="1" height="360" width="360" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="90" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max scaletofit="1" tilt="90" fov="120" fovstereographic="270" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata source="" description="" copyright="" author="" title="" info="" comment="" longitude="125.033947" customnodeid="" latitude="1.177673" nodeid="node10" heading="90" datetime="17/04/2023 15:22" tags="Kabesaran Beach" altitude="70.91"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" textalpha="1" backgroundalpha="1" borderradius="1" borderalpha="1" height="20" background="1" wordwrap="1" width="180" enabled="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="2" handcursor="1"/>
+      <hotspot tilt="17" skinid="ht_node" description="" title="" target="$fwd" url="{node13}" pan="172.27" distance="10.2495" id="Point01"/>
+      <hotspot tilt="-9.77" skinid="ht_node" description="" title="" target="$fwd" url="{node9}" pan="37.05" distance="12.6291" id="Point02"/>
+      <hotspot tilt="-4.16" skinid="ht_node" description="" title="" target="$fwd" url="{node8}" pan="-66.7484" distance="29.2079" id="Point03"/>
+      <hotspot tilt="-7" skinid="ht_node" description="" title="" target="$fwd" url="{node11}" pan="246.56" distance="23.7546" id="Point04"/>
+      <hotspot tilt="-1" skinid="ht_node" description="" title="" target="$fwd" url="{node4}" pan="251.5" distance="44.7553" id="Point05"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomin="2" blendcolor="0x000000" zoomout="0" blendtime="1.1" zoomfov="36" type="crossdissolve" enabled="1" zoomspeed="1.5" zoomafterinfov="90" softedge="10" zoomoutpause="0"/>
+    <flyintransition speed="3.50" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" dblclickfullscreen="0" lockedkeyboard="0" lockedkeyboardzoom="0" invertwheel="0" hideabout="0" rubberband="0" lockedmouse="0" lockedwheel="0" sensitivity="8" contextfullscreen="1" invertcontrol="1" simulatemass="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelingroll="0" overlap="1" height="1440" width="1440" leveltilesize="510" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level predecode="0" height="1440" width="1440" preload="0"/>
+      <level predecode="0" height="720" width="720" preload="0"/>
+      <level predecode="1" height="360" width="360" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="90" fovmode="0">
+      <start tilt="12.379" fov="98.6947" projection="4" pan="21.2811"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max scaletofit="1" tilt="90" fov="120" fovstereographic="270" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata source="" description="" copyright="" author="" title="" info="" comment="" longitude="125.033862" customnodeid="" latitude="1.177477" nodeid="node11" heading="90" datetime="17/04/2023 15:23" tags="Kabesaran Beach" altitude="73.07"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" textalpha="1" backgroundalpha="1" borderradius="1" borderalpha="1" height="20" background="1" wordwrap="1" width="180" enabled="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="2" handcursor="1"/>
+      <hotspot tilt="6" skinid="ht_node" description="" title="" target="$fwd" url="{node6}" pan="-66.82" distance="46.3262" id="Point01"/>
+      <hotspot tilt="-6.01" skinid="ht_node" description="" title="" target="$fwd" url="{node4}" pan="252.81" distance="21.0672" id="Point02"/>
+      <hotspot tilt="9" skinid="ht_node" description="" title="" target="$fwd" url="{node3}" pan="144.42" distance="27.9202" id="Point03"/>
+      <hotspot tilt="10" skinid="ht_node" description="" title="" target="$fwd" url="{node13}" pan="91.98" distance="22.4749" id="Point04"/>
+      <hotspot tilt="-2.05" skinid="ht_node" description="" title="" target="$fwd" url="{node7}" pan="-41.1134" distance="24.4514" id="Point05"/>
+      <hotspot tilt="-4.54" skinid="ht_node" description="" title="" target="$fwd" url="{node10}" pan="65.4393" distance="23.7546" id="Point06"/>
+      <hotspot tilt="-3.61" skinid="ht_node" description="" title="" target="$fwd" url="{node8}" pan="-358.5" distance="22.0909" id="Point07"/>
+      <hotspot tilt="-1.8" skinid="ht_node" description="" title="" target="$fwd" url="{node9}" pan="56.1851" distance="34.3573" id="Point08"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomin="2" blendcolor="0x000000" zoomout="0" blendtime="1.1" zoomfov="36" type="crossdissolve" enabled="1" zoomspeed="1.5" zoomafterinfov="90" softedge="10" zoomoutpause="0"/>
+    <flyintransition speed="3.50" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" dblclickfullscreen="0" lockedkeyboard="0" lockedkeyboardzoom="0" invertwheel="0" hideabout="0" rubberband="0" lockedmouse="0" lockedwheel="0" sensitivity="8" contextfullscreen="1" invertcontrol="1" simulatemass="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input levelingroll="0" overlap="1" height="1440" width="1440" leveltilesize="510" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level predecode="0" height="1440" width="1440" preload="0"/>
+      <level predecode="0" height="720" width="720" preload="0"/>
+      <level predecode="1" height="360" width="360" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-49.9274" fovmode="0">
+      <start tilt="-4.72418" fov="83.6522" projection="4" pan="-168.58"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max scaletofit="1" tilt="90" fov="120" fovstereographic="270" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata source="" description="" copyright="" author="" title="" info="" comment="" longitude="125.033855" customnodeid="" latitude="1.177679" nodeid="node13" heading="-49.9274" datetime="17/04/2023 15:27" tags="Kabesaran Beach" altitude="80.55"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" textalpha="1" backgroundalpha="1" borderradius="1" borderalpha="1" height="20" background="1" wordwrap="1" width="180" enabled="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="2" handcursor="1"/>
+      <hotspot tilt="-0.03" skinid="ht_node" description="" title="" target="$fwd" url="{node3}" pan="58.5918" distance="20.1004" id="Point01"/>
+      <hotspot tilt="-12" skinid="ht_node" description="" title="" target="$fwd" url="{node7}" pan="-207.2" distance="43.5823" id="Point02"/>
+      <hotspot tilt="-14" skinid="ht_node" description="" title="" target="$fwd" url="{node9}" pan="-119.15" distance="22.1152" id="Point02"/>
+      <hotspot tilt="-16" skinid="ht_node" description="" title="" target="$fwd" url="{node11}" pan="-229.94" distance="22.4749" id="Point04"/>
+      <hotspot tilt="-13" skinid="ht_node" description="" title="" target="$fwd" url="{node8}" pan="-193.57" distance="35.2347" id="Point03"/>
+      <hotspot tilt="-26" skinid="ht_node" description="" title="" target="$fwd" url="{node10}" pan="-145.66" distance="10.2495" id="Point05"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomin="2" blendcolor="0x000000" zoomout="0" blendtime="1.1" zoomfov="36" type="crossdissolve" enabled="1" zoomspeed="1.5" zoomafterinfov="90" softedge="10" zoomoutpause="0"/>
+    <flyintransition speed="3.50" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" dblclickfullscreen="0" lockedkeyboard="0" lockedkeyboardzoom="0" invertwheel="0" hideabout="0" rubberband="0" lockedmouse="0" lockedwheel="0" sensitivity="8" contextfullscreen="1" invertcontrol="1" simulatemass="1" contextprojections="0"/>
+  </panorama>
+  <masternode>
+    <userdata source="" description="" copyright="" author="" title="" info="" comment="" longitude="" customnodeid="" latitude="" nodeid="master" heading="0" datetime="" tags=""/>
+  </masternode>
+</tour>

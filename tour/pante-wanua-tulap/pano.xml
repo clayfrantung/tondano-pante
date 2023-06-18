@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.11" start="node2" apprev="18043">
+  <panorama id="node10">
+    <input leveltilesize="510" width="1440" levelingpitch="-2" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="105.86">
+      <start projection="4" fov="83.65" pan="-85.23" tilt="7.66"/>
+      <flyin projection="12" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.18177202" title="" author="" nodeid="node10" datetime="16/04/2023 11:00" description="" longitude="125.03486409" altitude="105.83" comment="" customnodeid="" source="" tags="Pante Wanua Tulap" heading="105.86"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="258.28" tilt="-4" description="" url="{node8}" distance="28.7034" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="202.056" tilt="-7.72" description="" url="{node9}" distance="18.0985" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="230.64" tilt="7" description="" url="{node2}" distance="42.0032" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="277.328" tilt="-1.37" description="" url="{node5}" distance="25.1133" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="272.464" tilt="0" description="" url="{node4}" distance="41.0835" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="-64.8485" tilt="-2.71" description="" url="{node7}" distance="45.4708" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point07" title="" pan="-42.62" tilt="-7" description="" url="{node6}" distance="13.618" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="146.467">
+      <start projection="4" fov="98.3008" pan="-149.249" tilt="4.67012"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.18172278" title="" author="" nodeid="node9" datetime="16/04/2023 11:01" description="" longitude="125.03470892" altitude="79.22" comment="" customnodeid="" source="" tags="Pante Wanua Tulap" heading="146.467"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="291.1" tilt="13" description="" url="{node2}" distance="26.1627" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="238.81" tilt="17" description="" url="{node1}" distance="81.967" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="Toilet" pan="-99.19" tilt="4.19" description="" url="" target="" skinid="ht_info"/>
+      <hotspot id="Point04" title="Tempat Bilas" pan="-193.73" tilt="-0.87" description="" url="" target="" skinid="ht_info"/>
+      <hotspot id="Point05" title="" pan="-22.44" tilt="-3" description="" url="{node8}" distance="21.0148" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="-22.32" tilt="2" description="" url="{node4}" distance="35.3465" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point08" title="" pan="-4.4" tilt="3" description="" url="{node7}" distance="47.2625" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point07" title="" pan="4.07" tilt="1" description="" url="{node5}" distance="25.5973" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point09" title="" pan="34.0231" tilt="0.27" description="" url="{node6}" distance="25.1299" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point10" title="" pan="65.1663" tilt="0.56" description="" url="{node10}" distance="18.0985" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-2.01046">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.181539" title="" author="" nodeid="node8" datetime="16/04/2023 11:02" description="" longitude="125.034753" altitude="79.49" comment="" customnodeid="" source="" tags="Pante Wanua Tulap" heading="-2.01046"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="-167.26" tilt="-9.19" description="" url="{node4}" distance="14.3374" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="-161.775" tilt="5" description="" url="{node3}" distance="42.5619" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="-132.45" tilt="-9" description="" url="{node7}" distance="28.6289" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="-89.99" tilt="-8" description="" url="{node5}" distance="11.5625" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="-55.71" tilt="-3" description="" url="{node6}" distance="24.1579" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="9.09" tilt="-1" description="" url="{node9}" distance="21.0148" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point07" title="" pan="-34.49" tilt="0" description="" url="{node10}" distance="28.7034" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="1" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-89.9909">
+      <start projection="4" fov="98.3008" pan="-16.3515" tilt="3.52728"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.18141260" title="" author="" nodeid="node4" datetime="16/04/2023 11:08" description="" longitude="125.03477847" altitude="78.14" comment="" customnodeid="" source="" tags="Pante Wanua Tulap" heading="-89.9909"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="-29.86" tilt="4" description="" url="{node2}" distance="26.213" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="-19.55" tilt="19" description="" url="{node1}" distance="95.1443" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="-266.536" tilt="21.26" description="" url="{node3}" distance="28.7249" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="Toilet" pan="-316" tilt="-8.2" description="" url="" target="" skinid="ht_info"/>
+      <hotspot id="Point05" title="" pan="-117.246" tilt="-8.83" description="" url="{node5}" distance="17.2256" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="-121.962" tilt="-5.8" description="" url="{node6}" distance="32.8776" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point07" title="" pan="-193.39" tilt="-15" description="" url="{node7}" distance="19.4882" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point08" title="" pan="-82.31" tilt="-11.92" description="" url="{node8}" distance="14.3374" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point09" title="" pan="-78.78" tilt="-4" description="" url="{node9}" distance="35.3465" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point10" title="" pan="-108.837" tilt="-3.32" description="" url="{node10}" distance="41.0835" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="126.334">
+      <start projection="4" fov="70" pan="123.708" tilt="5.28943"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.181372" title="" author="" nodeid="node7" datetime="16/04/2023 11:09" description="" longitude="125.034949" altitude="78.81" comment="" customnodeid="" source="" tags="Pante Wanua Tulap" heading="126.334"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="154.22" tilt="-6" description="" url="{node5}" distance="21.9264" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="202.94" tilt="-5" description="" url="{node4}" distance="19.4882" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="193.48" tilt="3" description="" url="{node2}" distance="45.24" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="288.986" tilt="23.38" description="" url="{node3}" distance="20.8908" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="130.37" tilt="-8" description="" url="{node6}" distance="32.9532" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="175.9" tilt="-8" description="" url="{node8}" distance="28.6289" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point07" title="" pan="134.616" tilt="-3.29" description="" url="{node10}" distance="45.4708" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="102.752">
+      <start projection="4" fov="83.6522" pan="28.4799" tilt="8.33647"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.18154629" title="" author="" nodeid="node5" datetime="16/04/2023 11:11" description="" longitude="125.03485675" altitude="85.49" comment="" customnodeid="" source="" tags="Pante Wanua Tulap" heading="102.752"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="252.41" tilt="-4" description="" url="{node4}" distance="17.2256" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="196.05" tilt="6" description="" url="{node2}" distance="31.4858" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="182.96" tilt="8" description="" url="{node1}" distance="99.8138" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="63.2685" tilt="-6.22" description="" url="{node6}" distance="15.652" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="-80.1452" tilt="9.84" description="" url="{node3}" distance="40.1523" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="-49.36" tilt="-6" description="" url="{node7}" distance="21.9264" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point07" title="" pan="196.77" tilt="-16" description="" url="{node8}" distance="11.5625" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point08" title="" pan="140.35" tilt="-4" description="" url="{node9}" distance="25.5973" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point09" title="" pan="94.21" tilt="-2.78" description="" url="{node10}" distance="25.1133" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="138.23">
+      <start projection="4" fov="70" pan="-18.7359" tilt="5.53984"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.18166762" title="" author="" nodeid="node6" datetime="16/04/2023 11:13" description="" longitude="125.03492813" altitude="77.54" comment="" customnodeid="" source="" tags="Pante Wanua Tulap" heading="138.23"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="287.77" tilt="3" description="" url="{node5}" distance="15.652" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="294.129" tilt="3.29" description="" url="{node4}" distance="32.8776" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="321.41" tilt="13.6" description="" url="{node3}" distance="53.2952" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="252.61" tilt="9.44" description="" url="{node2}" distance="42.2386" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="-35.9726" tilt="-0.11" description="" url="{node7}" distance="32.9532" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="264.53" tilt="3" description="" url="{node8}" distance="24.1579" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point07" title="" pan="222.476" tilt="-2.15" description="" url="{node9}" distance="25.1299" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point08" title="" pan="208.41" tilt="-1.96" description="" url="{node10}" distance="13.618" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="29.6019">
+      <start projection="4" fov="106.333" pan="-37.5234" tilt="1.76644"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.181530" title="" author="" nodeid="node2" datetime="16/04/2023 11:14" description="" longitude="125.034574" altitude="84.01" comment="" customnodeid="" source="" tags="Pante Wanua Tulap" heading="29.6019"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="103.92" tilt="12" description="" url="{node1}" distance="69.5134" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="-106.063" tilt="0" description="" url="{node3}" distance="53.0474" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="-85.2" tilt="-11.78" description="" url="{node4}" distance="26.213" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="-55.4" tilt="-10.7" description="" url="{node5}" distance="31.4858" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="-35.49" tilt="-6.33" description="" url="{node6}" distance="42.2386" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="-78.7998" tilt="-6.95" description="" url="{node7}" distance="45.24" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point07" title="" pan="-51.4391" tilt="-18.22" description="" url="{node8}" distance="19.9248" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point08" title="" pan="-5.77" tilt="-12" description="" url="{node9}" distance="26.1627" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point09" title="" pan="-19.4641" tilt="-5.35" description="" url="{node10}" distance="42.0032" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node1">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-100">
+      <start projection="4" fov="120" pan="146.684" tilt="1.18603"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.181699" title="" author="" nodeid="node1" datetime="16/04/2023 11:16" description="" longitude="125.033972" altitude="95.30" comment="" customnodeid="" source="" tags="Pante Wanua Tulap" heading="-100"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="-205.68" tilt="-10" description="" url="{node2}" distance="69.5134" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="Pintu Masuk" pan="-232.65" tilt="-20.45" description="" url="" target="" skinid="ht_info"/>
+      <hotspot id="Point03" title="Tempat Parkir" pan="-253.13" tilt="0.23" description="" url="" target="" skinid="ht_info"/>
+      <hotspot id="Point04" title="" pan="-218.64" tilt="-2" description="" url="{node3}" distance="118.467" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="-195.15" tilt="-5.9" description="" url="{node6}" distance="106.351" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="88.7438">
+      <start projection="4" fov="83.6522" pan="65.5382" tilt="1.94408"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.18118877" title="" author="" nodeid="node3" datetime="16/04/2023 12:24" description="" longitude="125.03490747" altitude="92.76" comment="" customnodeid="" source="" tags="Pante Wanua Tulap" heading="88.7438"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="150.129" tilt="0" description="" url="{node1}" distance="118.467" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="134.29" tilt="-7" description="" url="{node2}" distance="53.0474" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="122.56" tilt="-19" description="" url="{node4}" distance="28.7249" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="96.82" tilt="-17" description="" url="{node5}" distance="40.1523" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="88.27" tilt="-14" description="" url="{node6}" distance="53.2952" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="86.01" tilt="-32.42" description="" url="{node7}" distance="20.8908" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point07" title="" pan="114.699" tilt="-12.35" description="" url="{node8}" distance="42.5619" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point08" title="" pan="108.27" tilt="-9" description="" url="{node9}" distance="63.3491" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point09" title="" pan="95.79" tilt="-8.7" description="" url="{node10}" distance="65.0335" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" info="" latitude="" title="" author="" nodeid="master" datetime="" description="" longitude="" comment="" customnodeid="" source="" tags="" heading="0"/>
+  </masternode>
+</tour>

@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.11" start="node10" apprev="18043">
+  <panorama id="node3">
+    <input leveltilesize="510" width="1440" levelingpitch="8" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-125.02">
+      <start projection="4" fov="70" pan="106.268" tilt="1.49761"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.128776" title="" author="" nodeid="node3" datetime="13/04/2023 10:06" description="" longitude="125.011936" altitude="75.81" comment="" customnodeid="" source="" tags="Kestelo Beachfront Cottage" heading="-125.02"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="Pintu Masuk" pan="-276.46" tilt="-16.02" description="" url="" target="" skinid="ht_info"/>
+      <hotspot id="Point02" title="" pan="-233.63" tilt="-2" description="" url="{node4}" distance="59.2395" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="-241.882" tilt="0" description="" url="{node5}" distance="107.049" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="-248.103" tilt="0" description="" url="{node7}" distance="132.817" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="-227.663" tilt="0" description="" url="{node10}" distance="136.153" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="-253.41" tilt="-1" description="" url="{node12}" distance="96.1611" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltilesize="510" width="1440" levelingpitch="-6" levelingroll="-1" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="82.7407">
+      <start projection="4" fov="70" pan="-28.9612" tilt="2.66677"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.128606" title="" author="" nodeid="node4" datetime="13/04/2023 10:23" description="" longitude="125.012441" altitude="75.83" comment="" customnodeid="" source="" tags="Kestelo Beachfront Cottage" heading="82.7407"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="154.132" tilt="0" description="" url="{node3}" distance="59.2395" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="-44.0827" tilt="0" description="" url="{node5}" distance="49.1643" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="-38.29" tilt="1" description="" url="{node8}" distance="72.2642" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="-51.44" tilt="1" description="" url="{node7}" distance="76.8971" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="-20.0958" tilt="1.6" description="" url="{node9}" distance="71.7232" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="-10.34" tilt="2" description="" url="{node10}" distance="77.4798" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point07" title="" pan="-57.6755" tilt="0" description="" url="{node11}" distance="56.2351" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point08" title="" pan="-70.79" tilt="-1.21" description="" url="{node12}" distance="45.1137" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point09" title="" pan="-79.6077" tilt="-2.63" description="" url="{node13}" distance="26.3432" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="85">
+      <start projection="4" fov="70" pan="-34.467" tilt="9.937"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.128341" title="" author="" nodeid="node5" datetime="13/04/2023 10:10" description="" longitude="125.012795" altitude="78.22" comment="" customnodeid="" source="" tags="Kestelo Beachfront Cottage" heading="85"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="138.18" tilt="-2" description="" url="{node4}" distance="49.1643" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="148.14" tilt="2" description="" url="{node3}" distance="107.049" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="-30.87" tilt="-8" description="" url="{node6}" distance="12.232" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="-61.81" tilt="-4" description="" url="{node7}" distance="28.8347" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="-24.03" tilt="-4" description="" url="{node8}" distance="23.8728" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="13.023" tilt="-1.82" description="" url="{node9}" distance="29.8497" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point07" title="" pan="21.43" tilt="-1" description="" url="{node10}" distance="41.7153" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point08" title="" pan="252.78" tilt="-6" description="" url="{node11}" distance="13.6529" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point09" title="" pan="204.41" tilt="-6" description="" url="{node12}" distance="23.0987" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point10" title="" pan="166.28" tilt="-5" description="" url="{node13}" distance="30.8174" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point11" title="" pan="-17.4378" tilt="0.81" description="" url="{node14}" distance="35.4856" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input leveltilesize="510" width="1440" levelingpitch="6" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-56.01">
+      <start projection="4" fov="70" pan="177.584" tilt="9.03105"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.128293" title="" author="" nodeid="node6" datetime="13/04/2023 10:11" description="" longitude="125.012894" altitude="76.93" comment="" customnodeid="" source="" tags="Kestelo Beachfront Cottage" heading="-56.01"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="10.54" tilt="-16.4" description="" url="{node5}" distance="12.232" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="-0.66" tilt="-8" description="" url="{node4}" distance="61.2177" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="7.23" tilt="-6" description="" url="{node3}" distance="119.279" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="-157.96" tilt="-13" description="" url="{node8}" distance="11.818" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="-221.74" tilt="-6" description="" url="{node7}" distance="19.3905" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="-100.657" tilt="-5.74" description="" url="{node9}" distance="21.9975" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point07" title="" pan="-98.321" tilt="-2.5" description="" url="{node10}" distance="35.5775" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point08" title="" pan="70.4167" tilt="-5.15" description="" url="{node11}" distance="16.0379" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point09" title="" pan="44.91" tilt="-3" description="" url="{node12}" distance="31.7024" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point10" title="" pan="20.42" tilt="-2" description="" url="{node13}" distance="42.6582" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point11" title="" pan="-149.936" tilt="-2" description="" url="{node14}" distance="23.616" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-20.1789">
+      <start projection="4" fov="99.3033" pan="-27.1306" tilt="17.0695"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.128124" title="" author="" nodeid="node7" datetime="13/04/2023 10:12" description="" longitude="125.012937" altitude="75.72" comment="" customnodeid="" source="" tags="Kestelo Beachfront Cottage" heading="-20.1789"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="-3.35" tilt="-2.44" description="" url="{node6}" distance="19.3905" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="13.02" tilt="-1" description="" url="{node5}" distance="28.8347" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="25.64" tilt="2" description="" url="{node4}" distance="76.8971" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="36.74" tilt="4" description="" url="{node3}" distance="132.817" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="-39.88" tilt="-4.1" description="" url="{node8}" distance="17.6966" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="-37.74" tilt="0" description="" url="{node9}" distance="34.1958" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point07" title="" pan="-46.9777" tilt="0" description="" url="{node10}" distance="47.8368" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point08" title="" pan="44.785" tilt="-1.25" description="" url="{node11}" distance="21.5678" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point09" title="" pan="50.22" tilt="0" description="" url="{node12}" distance="38.1179" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point10" title="" pan="-70.8094" tilt="0" description="" url="{node14}" distance="24.0158" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="55.8767">
+      <start projection="4" fov="70" pan="-42.4727" tilt="8.91492"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.128271" title="" author="" nodeid="node8" datetime="13/04/2023 10:13" description="" longitude="125.012998" altitude="77.28" comment="" customnodeid="" source="" tags="Kestelo Beachfront Cottage" heading="55.8767"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point06" title="" pan="36.0038" tilt="-4.12" description="" url="{node9}" distance="16.4991" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point01" title="" pan="133.93" tilt="-7" description="" url="{node6}" distance="11.818" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="126.85" tilt="-3" description="" url="{node5}" distance="23.8728" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="112.85" tilt="0" description="" url="{node4}" distance="72.2642" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="121.44" tilt="2" description="" url="{node3}" distance="130.739" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="213.34" tilt="-5" description="" url="{node7}" distance="17.6966" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point07" title="" pan="26.58" tilt="-2" description="" url="{node10}" distance="30.2179" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point08" title="" pan="159.22" tilt="-1.22" description="" url="{node11}" distance="26.0587" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point09" title="" pan="150.64" tilt="-1" description="" url="{node12}" distance="42.8386" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point10" title="" pan="132.66" tilt="0" description="" url="{node13}" distance="54.4724" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point11" title="" pan="-39.5136" tilt="0" description="" url="{node14}" distance="11.8367" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node14">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-71.8956">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.128261" title="" author="" nodeid="node14" datetime="13/04/2023 10:15" description="" longitude="125.013104" altitude="74.90" comment="" customnodeid="" source="" tags="Kestelo Beachfront Cottage" heading="-71.8956"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point02" title="" pan="9.44" tilt="-10" description="" url="{node6}" distance="23.616" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point01" title="" pan="13.034" tilt="-19.58" description="" url="{node8}" distance="11.8367" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="3.59" tilt="-10" description="" url="{node5}" distance="35.4856" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="6.28" tilt="-7" description="" url="{node13}" distance="66.2185" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="-12.39" tilt="-5" description="" url="{node4}" distance="83.0935" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="-5.69" tilt="-3" description="" url="{node3}" distance="141.917" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point07" title="" pan="26.01" tilt="-5.76" description="" url="{node11}" distance="37.5077" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point08" title="" pan="19.7556" tilt="-4.13" description="" url="{node12}" distance="54.5299" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point09" title="" pan="57.47" tilt="-7" description="" url="{node7}" distance="24.0158" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point10" title="" pan="-53.46" tilt="-10" description="" url="{node9}" distance="17.2295" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point11" title="" pan="-78.13" tilt="-8" description="" url="{node10}" distance="27.6287" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input leveltilesize="510" width="1440" levelingpitch="3" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="25.6815">
+      <start projection="4" fov="70" pan="153.076" tilt="5.76284"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.128408" title="" author="" nodeid="node9" datetime="13/04/2023 10:16" description="" longitude="125.013055" altitude="71.46" comment="" customnodeid="" source="" tags="Kestelo Beachfront Cottage" heading="25.6815"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="151.96" tilt="-5.5" description="" url="{node6}" distance="21.9975" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="183.1" tilt="-1" description="" url="{node8}" distance="16.4991" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="132.584" tilt="-4.06" description="" url="{node5}" distance="29.8497" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="96.59" tilt="-1.34" description="" url="{node4}" distance="71.7232" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="-9.88" tilt="-5.98" description="" url="{node10}" distance="13.9654" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="148.46" tilt="-2.36" description="" url="{node11}" distance="37.9911" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point07" title="" pan="136.65" tilt="-3" description="" url="{node12}" distance="52.5055" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point08" title="" pan="118.36" tilt="-3" description="" url="{node13}" distance="59.4316" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point09" title="" pan="-135.89" tilt="-3" description="" url="{node14}" distance="17.2295" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" fov="99.3" pan="150.86" tilt="17.83"/>
+      <flyin projection="12" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.128508" title="" author="" nodeid="node10" datetime="13/04/2023 10:17" description="" longitude="125.013131" altitude="74.56" comment="" customnodeid="" source="" tags="Kestelo Beachfront Cottage" heading="0"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="81.91" tilt="-1" description="" url="{node4}" distance="77.4798" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="116.43" tilt="-10" description="" url="{node5}" distance="41.7153" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="150.704" tilt="0" description="" url="{node8}" distance="30.2179" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="142.77" tilt="-4" description="" url="{node9}" distance="13.9654" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="129.67" tilt="-2.33" description="" url="{node6}" distance="35.5775" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="117.49" tilt="-3" description="" url="{node12}" distance="64.794" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point07" title="" pan="101.58" tilt="-3" description="" url="{node13}" distance="69.2255" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point08" title="" pan="168.723" tilt="-0.32" description="" url="{node14}" distance="27.6287" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node11">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="103.768">
+      <start projection="4" fov="70" pan="39.1065" tilt="12.9319"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.128221" title="" author="" nodeid="node11" datetime="13/04/2023 10:19" description="" longitude="125.012769" altitude="74.14" comment="" customnodeid="" source="" tags="Kestelo Beachfront Cottage" heading="103.768"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="-16.2381" tilt="0" description="" url="{node7}" distance="21.5678" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="52.18" tilt="1" description="" url="{node10}" distance="51.3622" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="43.71" tilt="-2" description="" url="{node6}" distance="16.0379" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="26.087" tilt="0" description="" url="{node8}" distance="26.0587" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="83.1652" tilt="-7.12" description="" url="{node5}" distance="13.6529" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="144.292" tilt="-4.75" description="" url="{node4}" distance="56.2351" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point07" title="" pan="158.199" tilt="-1.4" description="" url="{node3}" distance="111.286" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point08" title="" pan="187.14" tilt="-11" description="" url="{node12}" distance="17.3477" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point09" title="" pan="163.379" tilt="-8.38" description="" url="{node13}" distance="32.934" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point10" title="" pan="20.58" tilt="4" description="" url="{node14}" distance="37.5077" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node12">
+    <input leveltilesize="510" width="1440" levelingpitch="-2" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="113.733">
+      <start projection="4" fov="70" pan="56.7177" tilt="5.52515"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.128239" title="" author="" nodeid="node12" datetime="13/04/2023 10:21" description="" longitude="125.012614" altitude="72.72" comment="" customnodeid="" source="" tags="Kestelo Beachfront Cottage" heading="113.733"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="34.34" tilt="-2.2" description="" url="{node6}" distance="31.7024" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="4.22187" tilt="-1.8" description="" url="{node7}" distance="38.1179" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="26.4676" tilt="-1.23" description="" url="{node8}" distance="42.8386" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="17.15" tilt="-1.36" description="" url="{node11}" distance="17.3477" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="53.14" tilt="-1" description="" url="{node5}" distance="23.0987" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="44.7" tilt="-1" description="" url="{node9}" distance="52.5055" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point07" title="" pan="138.97" tilt="-3" description="" url="{node4}" distance="45.1137" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point08" title="" pan="165.347" tilt="0" description="" url="{node3}" distance="96.1611" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point09" title="" pan="148.214" tilt="-9.11" description="" url="{node13}" distance="19.06" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node13">
+    <input leveltilesize="510" width="1440" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440">
+      <level width="1440" predecode="0" preload="0" height="1440"/>
+      <level width="720" predecode="0" preload="0" height="720"/>
+      <level width="360" predecode="1" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-95.3964">
+      <start projection="4" fov="70" pan="171.589" tilt="1.67181"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" latitude="1.128383" title="" author="" nodeid="node13" datetime="13/04/2023 10:22" description="" longitude="125.012521" altitude="75.49" comment="" customnodeid="" source="" tags="Kestelo Beachfront Cottage" heading="-95.3964"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" wordwrap="1" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1"/>
+      <polystyle mode="2" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" title="" pan="-198.96" tilt="-4" description="" url="{node6}" distance="42.6582" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="-218.515" tilt="-3.36" description="" url="{node11}" distance="32.934" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="-242.55" tilt="-6" description="" url="{node12}" distance="19.06" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="-222.785" tilt="-5.76" description="" url="{node11}" distance="32.934" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point05" title="" pan="-182.72" tilt="-4" description="" url="{node9}" distance="59.4316" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point06" title="" pan="-173.81" tilt="-4" description="" url="{node10}" distance="69.2255" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point07" title="" pan="-75.66" tilt="-4" description="" url="{node4}" distance="26.3432" target="$fwd" skinid="ht_node"/>
+      <hotspot id="Point08" title="" pan="-39.29" tilt="2" description="" url="{node3}" distance="78.3543" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1.1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomfov="36" zoomin="2" zoomspeed="1.5" type="crossdissolve" softedge="0"/>
+    <flyintransition enabled="1" speed="3.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" sensitivity="8" contextprojections="0" lockedwheel="0" speedwheel="1"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" info="" latitude="" title="" author="" nodeid="master" datetime="" description="" longitude="" comment="" customnodeid="" source="" tags="" heading="0"/>
+  </masternode>
+</tour>
