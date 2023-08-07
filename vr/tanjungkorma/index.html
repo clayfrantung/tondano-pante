@@ -1,20 +1,17 @@
 <!DOCTYPE html>
 <html>
-    <head>  
-        <script src="https://aframe.io/releases/0.2.0/aframe.js"></script>
-    </head>
-    
-    <body>
-        <a-scene>
-            <a-assets>
-                <video id="tanjungkorma" autoplay loop="true" src="./vid/tanjungkorma.mp4" webkit-playsinline>
-            </a-assets>
-
-            <!-- Using the asset management system. -->
-            <a-videosphere src="#tanjungkorma"></a-videosphere>
-
-            <!-- Defining the URL inline. Not recommended but more comfortable for web developers. -->
-            <!--<a-videosphere src="vid/tanjungkorma.mp4"></a-videosphere>-->
-        </a-scene>
-    </body>
+<head>
+<style>
+.youtube-video {
+  aspect-ratio: 16 / 9;
+  width: 100%;
+}
+</style>
+</head>
+<body>
+    <iframe class="youtube-video" src="https://www.youtube.com/embed/TohsSNX0TYA" 
+            title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen>
+    </iframe>
+</body>
 </html>
